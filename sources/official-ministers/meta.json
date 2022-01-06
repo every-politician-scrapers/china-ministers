@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "China",
+      "id": "Q148"
+    },
+    "cabinet": {
+      "id": "Q10871995",
+      "start": "2013-03-15",
+      "parent": "Q59261"
+    },
+    "source": {
+        "url":   "http://english.www.gov.cn/statecouncil/202008/12/content_WS5f334b75c6d029c1c26379c3.html",
+        "title": "Ministers",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/china-ministers"
+}
