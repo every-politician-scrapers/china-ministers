@@ -1,1 +1,5 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q2548285,Wang Yong,Wang Yong,,,Q835630,State Councilor of the People's Republic of China,2013-03-01,Q2548285-72b93508-4420-5424-9604-5a94737bd38f
+Q2650507,Yang Jing,Yang Jing,,,Q835630,State Councilor of the People's Republic of China,2013-03-01,Q2650507-b8fdd6fd-47d2-74ff-9604-fc6605c67a62
+Q27503,Chang Wanquan,Chang Wanquan,,,Q835630,State Councilor of the People's Republic of China,2013-03-01,Q27503-2c7272ed-407c-f976-7bc7-839e72093323
+Q58211,Yang Jiechi,Yang Jiechi,,,Q835630,State Councilor of the People's Republic of China,2013-03-16,q58211-cd717989-452b-b85a-b4bb-6aa777255dc8
