@@ -8,7 +8,10 @@ module.exports = function () {
                (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position ?start
                (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
-          VALUES ?positionItem { wd:Q835630 }
+          # Positions currently in the cabinet
+          ?positionItem p:P361 ?ps .
+          ?ps ps:P361 wd:${meta.cabinet.parent} .
+          FILTER NOT EXISTS { ?ps pq:P582 [] }
 
           # Who currently holds those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .

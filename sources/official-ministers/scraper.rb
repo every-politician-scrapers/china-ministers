@@ -7,27 +7,27 @@ require 'pry'
 class MemberList
   class Member
     def empty?
-      raw_name.empty?
+      position == 'Position'
     end
 
     def name
-      raw_name.gsub('Premier ', '')
+      tds[1].text.tidy
     end
 
     def position
-      raw_name.include?('Premier') ? 'Premier' : 'State Councillor'
+      tds[0].text.tidy
     end
 
     private
 
-    def raw_name
-      noko.text.tidy
+    def tds
+      noko.css('td')
     end
   end
 
   class Members
     def member_container
-      noko.css('.policy-right .state-one,.state-three a')
+      noko.xpath('//table[.//tr[contains(.,"Current Holder")]]//tr[td]')
     end
 
     def member_items
