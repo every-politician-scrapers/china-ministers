@@ -1,0 +1,28 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q655407,President of the People's Republic of China,Q148,Q148,Q553169,Q3093343,1954-09-27,,,,President of the People's Republic of China
+Q553169,Vice President of the People's Republic of China,Q148,Q148,,,1954-09-27,1975-01-17,,,Vice President of the People's Republic of China
+Q849418,General Secretary of the Chinese Communist Party,Q148,Q148,,,1982,,Q2708520,,General Secretary of the Chinese Communist Party
+Q4122271,Premier of the State Council of the People's Republic of China,Q148,Q148,Q508368,Q837714,1954-09-27,,,,Premier of the People's Republic of China
+Q508368,Vice Premier of the State Council of the People's Republic of China,Q148,Q148,,,1954-09,,,,Vice Premier of the People's Republic of China
+Q7143813,Secretary-General of the State Council,Q148,Q148,,,,,,,Secretary-General of the State Council
+Q835630,State Councilor of the People's Republic of China,Q148,,,,,,,,State councillor
+Q7444252,Secretary for Commerce and Economic Development,Q148,,,,2007-07-01,,,,Secretary for Commerce and Economic Development
+Q7444253,Secretary for Constitutional and Mainland Affairs,Q148,,,,2007-07-01,,,,Secretary for Constitutional and Mainland Affairs
+Q7444254,Secretary for Development,Q148,,,,2007-07-01,,Q7444279,,Secretary for Development
+Q7444258,Secretary for Financial Services and the Treasury,Q148,,,,2002-07-01,,,,Secretary for Financial Services and the Treasury
+Q7444263,Secretary for Home Affairs,Q148,,,,1997-07-01,,,,Secretary for Home Affairs
+Q7444266,Secretary for Labour and Welfare,Q148,,,,2007-07-01,,,,Secretary for Labour and Welfare
+Q7444275,Secretary for Transport and Housing,Q148,,,,2007-07-01,,Q7444264,,Secretary for Transport and Housing
+Q17280143,Minister of Agriculture of the People's Republic of China,Q148,Q148,,,,,,,
+Q17280153,Minister of Commerce of the People's Republic of China,Q148,Q148,,,,,,,
+Q23498524,Minister of Culture of the People's Republic of China,Q148,Q148,,,,,,,
+Q56816035,Minister of Education of the People's Republic of China,Q148,Q148,,,,,,,
+Q2664362,Foreign Minister of the People's Republic of China,Q148,Q148,,Q4528290,1949,,,,Foreign Minister of the People's Republic of China
+Q17279702,Minister of Justice of the People's Republic of China,Q148,Q148,,,,,,,
+Q10297096,Minister of National Defense of the People's Republic of China,Q148,Q148,,,,,,,
+Q6866288,Minister of Public Security of the People's Republic of China,Q148,Q148,,,,,,,Minister of Public Security of the People's Republic of China
+Q17279707,Minister of Railways of the People's Republic of China,,Q148,,,,,,,
+Q56816189,Minister of Science and Technology (China),Q148,Q148,,,,,,,
+Q17279714,Minister of State Security of the People's Republic of China,Q148,Q148,,,,,,,
+Q10301264,President of the Supreme People's Court of China,Q148,Q148,,,,,,,
+Q20787785,Governor of the People's Bank of China‎,Q148,,,,,,,,
