@@ -6,21 +6,35 @@ require 'pry'
 
 class MemberList
   class Member
+    def empty?
+      raw_name.empty?
+    end
+
     def name
-      noko.css('.name').text.tidy
+      raw_name.gsub('Premier ', '')
     end
 
     def position
-      noko.css('.position').text.tidy
+      raw_name.include?('Premier') ? 'Premier' : 'State Councillor'
+    end
+
+    private
+
+    def raw_name
+      noko.text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.policy-right .state-one,.state-three a')
+    end
+
+    def member_items
+      super.reject(&:empty?)
     end
   end
 end
 
-file = Pathname.new '../../html/official.html'
+file = Pathname.new 'official.html'
 puts EveryPoliticianScraper::FileData.new(file).csv if file.exist? && !file.empty?
