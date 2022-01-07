@@ -1,0 +1,228 @@
+{
+  "title": "Chang Wanquan",
+  "pageID": 17897843,
+  "categories": [
+    "Living people",
+    "1949 births",
+    "People's Liberation Army generals from Henan",
+    "People from Nanyang, Henan",
+    "Ministers of National Defense of the People's Republic of China",
+    "State councillors of China"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chang Wanquan (born January 1949) is the former Minister of Defense and State Councilor of the People's Republic of China and a general in the People's Liberation Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Liberation Army"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chang Wanquan"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the Central Military Commission of the People's Republic of China and helped to manage China's space program.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Military Commission of the People's Republic of China"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Chang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1949",
+          "birth_month": "1",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "China"
+          ],
+          "template": "army"
+        },
+        {
+          "s": "常万全",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "Jiang (rank)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Chang Wanquan"
+          },
+          "native_name": {
+            "text": "常万全"
+          },
+          "image": {
+            "text": "Chang Wanquan Senate of Poland.JPG"
+          },
+          "office": {
+            "text": "State Councilor of the People’s Republic of China",
+            "links": [
+              {
+                "text": "State Councilor of the People’s Republic of China",
+                "type": "internal",
+                "page": "State Councilor"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 March 2013"
+          },
+          "term_end": {
+            "text": "19 March 2018"
+          },
+          "office2": {
+            "text": "11th Minister of National Defence",
+            "links": [
+              {
+                "text": "Minister of National Defence",
+                "type": "internal",
+                "page": "Ministry of National Defense of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "16 March 2013"
+          },
+          "term_end2": {
+            "text": "19 March 2018"
+          },
+          "predecessor2": {
+            "text": "Liang Guanglie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liang Guanglie"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Wei Fenghe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wei Fenghe"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 1949 (age 73)"
+          },
+          "birth_place": {
+            "text": "Nanyang, Henan, China",
+            "links": [
+              {
+                "text": "Nanyang",
+                "type": "internal",
+                "page": "Nanyang, Henan"
+              },
+              {
+                "type": "internal",
+                "page": "Henan"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "People's Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Republic of China"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1968–2018"
+          },
+          "rank": {
+            "text": "PLAGeneral r.png General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "General"
+              }
+            ]
+          },
+          "commands": {
+            "text": "Ministry of National Defence (2003&ndash;2008)\nPLA General Armaments Department (2007&ndash;2012)\nShenyang Military Region (2004&ndash;2007)\n47th Group Army (2000&ndash;2002)",
+            "links": [
+              {
+                "text": "Ministry of National Defence",
+                "type": "internal",
+                "page": "Ministry of National Defense of the People's Republic of China"
+              },
+              {
+                "text": "PLA General Armaments Department",
+                "type": "internal",
+                "page": "People's Liberation Army General Armaments Department"
+              },
+              {
+                "type": "internal",
+                "page": "Shenyang Military Region"
+              },
+              {
+                "text": "47th Group Army",
+                "type": "internal",
+                "page": "47th Group Army"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

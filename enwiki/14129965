@@ -1,0 +1,178 @@
+{
+  "title": "Wu Aiying",
+  "pageID": 14129965,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "Politicians from Weifang",
+    "People's Republic of China politicians from Shandong",
+    "Chinese Communist Party politicians from Shandong",
+    "Ministers of Justice of the People's Republic of China",
+    "Shandong University alumni",
+    "Chinese women in politics",
+    "Vice-governors of Shandong",
+    "Female justice ministers",
+    "Expelled members of the Chinese Communist Party"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wu Aiying (born December 1951) is a former Chinese politician who served as the Minister of Justice of China from 2005 to 2017, in the cabinets of Premiers Wen Jiabao and Li Keqiang.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice of the People's Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Wen Jiabao"
+                },
+                {
+                  "type": "internal",
+                  "page": "Li Keqiang"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wu Aiying"
+                ]
+              }
+            },
+            {
+              "text": "Previously she held numerous political positions in her native Shandong province."
+            },
+            {
+              "text": "She was investigated for corruption and expelled from the Communist Party in 2017."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Wu"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1951",
+          "birth_month": "12",
+          "template": "birth year and age"
+        },
+        {
+          "s": "吴爱英",
+          "t": "吳愛英",
+          "p": "Wú Àiyīng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wu Aiying"
+          },
+          "native_name": {
+            "text": "吴爱英"
+          },
+          "image": {
+            "text": "Wu Aiying 2016-10-31.jpg"
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice of the People's Republic of China"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Wen Jiabao\nLi Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wen Jiabao"
+              },
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 July 2005"
+          },
+          "term_end": {
+            "text": "24 February 2017"
+          },
+          "predecessor": {
+            "text": "Zhang Fusen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhang Fusen"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Zhang Jun",
+            "links": [
+              {
+                "text": "Zhang Jun",
+                "type": "internal",
+                "page": "Zhang Jun (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 1951 (age 71)"
+          },
+          "birth_place": {
+            "text": "Changle, Shandong, China",
+            "links": [
+              {
+                "text": "Changle",
+                "type": "internal",
+                "page": "Changle County"
+              },
+              {
+                "type": "internal",
+                "page": "Shandong"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China (expelled)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Shandong University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shandong University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

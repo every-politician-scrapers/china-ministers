@@ -1,0 +1,227 @@
+{
+  "title": "Erick Tsang",
+  "pageID": 54399696,
+  "categories": [
+    "Living people",
+    "1963 births",
+    "Government officials of Hong Kong",
+    "Hong Kong civil servants",
+    "Members of the Executive Council of Hong Kong",
+    "Individuals sanctioned by the United States under the Hong Kong Autonomy Act",
+    "Specially Designated Nationals and Blocked Persons List"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Erick Tsang Kwok-wai (born 1 September 1963) is a Hong Kong government official.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hong Kong government"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Erick Tsang Kwok-wai"
+                ]
+              }
+            },
+            {
+              "text": "Since 2020, he has been Secretary for Constitutional and Mainland Affairs, one of the principal officials of Hong Kong.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary for Constitutional and Mainland Affairs"
+                }
+              ]
+            },
+            {
+              "text": "Prior to that, he was Director of Immigration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Director of Immigration"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Hong Kong government official",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Eric Tsang"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "list": [
+            "Tsang",
+            "Erick Tsang",
+            "Tsang Kwok-wai"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "August 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "HKG",
+          "list": [
+            "IDSM"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1963",
+          "month": "9",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "title": "Erick Tsang Kwok-wai",
+          "t": "曾國衞",
+          "s": "曾国衞",
+          "j": "zang1 gwok3 wai6",
+          "p": "Zēng Guówèi",
+          "template": "chinese"
+        },
+        {
+          "country": "HKG",
+          "list": [
+            "IDSM"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "list": [
+            "曾國衞"
+          ],
+          "template": "zh-t"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Erick Tsang Kwok-wai"
+          },
+          "image": {
+            "text": "File:20200422 HK Government Reshuffle 曾國衛.png"
+          },
+          "native_name": {
+            "text": "曾國衞"
+          },
+          "native_name_lang": {
+            "text": "zh-hk"
+          },
+          "birth_date": {
+            "text": "September 1, 1963"
+          },
+          "birth_place": {
+            "text": "Hong Kong",
+            "links": [
+              {
+                "text": "Hong Kong",
+                "type": "internal",
+                "page": "British Hong Kong"
+              }
+            ]
+          },
+          "office": {
+            "text": "Secretary for Constitutional and Mainland Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary for Constitutional and Mainland Affairs"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "22 April 2020"
+          },
+          "1blankname": {
+            "text": "Chief Executive"
+          },
+          "1namedata": {
+            "text": "Carrie Lam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carrie Lam"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Patrick Nip",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Patrick Nip"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Director of Immigration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Director of Immigration"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 April 2016"
+          },
+          "term_end1": {
+            "text": "22 April 2020"
+          },
+          "predecessor1": {
+            "text": "Eric Chan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eric Chan"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Au Ka-wang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Au Ka-wang"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "New Asia College, CUHK (BSS)",
+            "links": [
+              {
+                "text": "New Asia College, CUHK",
+                "type": "internal",
+                "page": "New Asia College"
+              },
+              {
+                "text": "BSS",
+                "type": "internal",
+                "page": "Bachelor of Social Science"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
