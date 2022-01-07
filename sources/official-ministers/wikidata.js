@@ -8,6 +8,8 @@ module.exports = function () {
                (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position ?start
                (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
+          VALUES ?skip { wd:Q835630 }
+
           # Positions currently in the cabinet
           ?positionItem p:P361 ?ps .
           ?ps ps:P361 wd:${meta.cabinet.parent} .
@@ -16,6 +18,7 @@ module.exports = function () {
           # Who currently holds those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .
           ?held ps:P39 ?positionItem ; pq:P580 ?start .
+          MINUS { ?held ps:P39 ?skip }
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
           OPTIONAL { ?held pq:P582 ?end }
 
