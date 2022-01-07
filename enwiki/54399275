@@ -1,0 +1,246 @@
+{
+  "title": "Michael Wong Wai-lun",
+  "pageID": 54399275,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Government officials of Hong Kong",
+    "Hong Kong civil servants",
+    "Alumni of the University of Hong Kong",
+    "Alumni of the University of London"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael Wong Wai-lun (born 1962) is a Hong Kong government official.",
+              "formatting": {
+                "bold": [
+                  "Michael Wong Wai-lun"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Secretary for Development from 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary for Development"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wong received a Bachelor of Social Sciences Degree from the University of Hong Kong and a Bachelor of Laws Degree from the University of London (External Programme).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Hong Kong"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of London"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He joined the Administrative Service in August 1985."
+            },
+            {
+              "text": "He served in many bureaux and departments, including the City and New Territories Administration, the Television and Entertainment Licensing Authority, the Legal Department, the Central Policy Unit, the former Trade and Industry Branch, the Business and Services Promotion Unit, the Economic Services Bureau, the Security Bureau and the former Economic Development and Labour Bureau.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Television and Entertainment Licensing Authority"
+                },
+                {
+                  "type": "internal",
+                  "page": "Legal Department"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central Policy Unit"
+                },
+                {
+                  "text": "Security Bureau",
+                  "type": "internal",
+                  "page": "Security Bureau (Hong Kong)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Economic Development and Labour Bureau"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was promoted to the Deputy Secretary for Education in July 2007 and the Director of Information Services in 2009."
+            },
+            {
+              "text": "he rose to the rank of Administrative Officer Staff Grade A in April 2011."
+            },
+            {
+              "text": "He became the Director of Marine in 2014 and Permanent Secretary for Development (Planning and Lands) in 2015."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed to the Secretary for Development in July 2017 of Chief Executive Carrie Lam's administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary for Development"
+                },
+                {
+                  "text": "Chief Executive",
+                  "type": "internal",
+                  "page": "Chief Executive of Hong Kong"
+                },
+                {
+                  "type": "internal",
+                  "page": "Carrie Lam"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Wong",
+            "Michael Wong",
+            "Wong Wai-lun"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1962",
+          "template": "birth year and age"
+        },
+        {
+          "country": "HKG",
+          "list": [
+            "JP"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "spouse": "Ms. CHAN Wing Shiu, May,",
+          "from": "2008",
+          "template": "marriage"
+        },
+        {
+          "list": [
+            "黃偉綸"
+          ],
+          "template": "zh-t"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Michael Wong Wai-lun"
+          },
+          "native_name": {
+            "text": "黃偉綸"
+          },
+          "native_name_lang": {
+            "text": "zh-hk"
+          },
+          "honorific-suffix": {
+            "text": "JP",
+            "links": [
+              {
+                "text": "JP",
+                "type": "internal",
+                "page": "Justice of the Peace"
+              }
+            ]
+          },
+          "image": {
+            "text": "Michael Wong Wai-lun.png"
+          },
+          "office1": {
+            "text": "Secretary for Development",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary for Development"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 July 2017"
+          },
+          "1blankname1": {
+            "text": "Chief Executive"
+          },
+          "1namedata1": {
+            "text": "Carrie Lam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carrie Lam"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Eric Ma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eric Ma"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1962 (age 60)"
+          },
+          "spouse": {
+            "text": "Ms. CHAN Wing Shiu, May, (m. 2008)"
+          },
+          "alma_mater": {
+            "text": "University of Hong Kong University of London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Hong Kong"
+              },
+              {
+                "type": "internal",
+                "page": "University of London"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

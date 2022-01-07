@@ -1,0 +1,206 @@
+{
+  "title": "Frank Chan",
+  "pageID": 54399644,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "Government officials of Hong Kong",
+    "Hong Kong civil servants",
+    "Hong Kong engineers",
+    "People from Zhanjiang",
+    "Alumni of the University of Hong Kong",
+    "Alumni of the University of Aberdeen"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Frank Chan Fan, JP (born 4 February 1958) is a Hong Kong engineer and government official.",
+              "links": [
+                {
+                  "text": "JP",
+                  "type": "internal",
+                  "page": "Justice of the Peace"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hong Kong"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Frank Chan Fan"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Secretary for Transport and Housing of Hong Kong, also the Chairman of Hong Kong Housing Authority, Chairman of Aviation Development & Three-runway System Advisory Committee and Chairman of Hong Kong Logistics Development Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary for Transport and Housing"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hong Kong"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hong Kong Housing Authority"
+                }
+              ]
+            },
+            {
+              "text": "Before Chan has become a principal official as Secretary for Transport and Housing, he was the Director of Electrical and Mechanical Services.",
+              "links": [
+                {
+                  "text": "Director of Electrical and Mechanical Services",
+                  "type": "internal",
+                  "page": "Electrical and Mechanical Services Department"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Hong Kong engineer and government official",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Chan",
+            "Frank Chan",
+            "Chan Fan"
+          ],
+          "lang": "Hong Kong",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1958",
+          "month": "2",
+          "day": "4",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "陳帆"
+          ],
+          "template": "zh-t"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Frank Chan Fan"
+          },
+          "native_name": {
+            "text": "陳帆"
+          },
+          "native_name_lang": {
+            "text": "zh-hk"
+          },
+          "honorific-suffix": {
+            "text": "JP",
+            "links": [
+              {
+                "text": "JP",
+                "type": "internal",
+                "page": "Justice of the Peace"
+              }
+            ]
+          },
+          "image": {
+            "text": "香港運輸及房屋局局長陳帆.jpg"
+          },
+          "office1": {
+            "text": "Secretary for Transport and Housing",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary for Transport and Housing"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 July 2017"
+          },
+          "1blankname1": {
+            "text": "Chief Executive"
+          },
+          "1namedata1": {
+            "text": "Carrie Lam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carrie Lam"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Anthony Cheung",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anthony Cheung"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 4, 1958"
+          },
+          "birth_place": {
+            "text": "British Hong Kong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "British Hong Kong"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chinese",
+            "links": [
+              {
+                "text": "Chinese",
+                "type": "internal",
+                "page": "China"
+              }
+            ]
+          },
+          "party": {
+            "text": "None"
+          },
+          "alma_mater": {
+            "text": "University of Hong Kong University of Aberdeen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Hong Kong"
+              },
+              {
+                "type": "internal",
+                "page": "University of Aberdeen"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
