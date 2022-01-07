@@ -4,8 +4,8 @@ Q553169,Vice President of the People's Republic of China,Q148,Q148,,,1954-09-27,
 Q849418,General Secretary of the Chinese Communist Party,Q148,Q148,,,1982,,Q2708520,,General Secretary of the Chinese Communist Party
 Q4122271,Premier of the State Council of the People's Republic of China,Q148,Q148,Q508368,Q837714,1954-09-27,,,,Premier of the People's Republic of China
 Q508368,Vice Premier of the State Council of the People's Republic of China,Q148,Q148,,,1954-09,,,,Vice Premier of the People's Republic of China
-Q7143813,Secretary-General of the State Council,Q148,Q148,,,,,,,Secretary-General of the State Council
 Q835630,State Councilor of the People's Republic of China,Q148,,,,,,,,State councillor
+Q7143813,Secretary-General of the State Council,Q148,Q148,,,,,,,Secretary-General of the State Council
 Q17280143,Minister of Agriculture of the People's Republic of China,Q148,Q148,,,,,,,
 Q59137069,Minister of Civil Affairs of the People's Republic of China,,,,,,,,,
 Q17280153,Minister of Commerce of the People's Republic of China,Q148,Q148,,,,,,,
@@ -16,6 +16,7 @@ Q110454941,Minister of Emergency Management,,Q148,,,,,,,
 Q27826748,Minister of Finance of the People's Republic of China,,,,,,,,,
 Q2664362,Foreign Minister of the People's Republic of China,Q148,Q148,,Q4528290,1949,,,,Foreign Minister of the People's Republic of China
 Q59139845,Minister of Housing and Urban-Rural Development,,,,,,,,,
+Q59137153,Minister of Human Resources and Social Security,,,,,,,,,
 Q110454674,Minister of Industry and Information Technology of the People's Republic of China,,Q148,,,,,,,
 Q17279702,Minister of Justice of the People's Republic of China,Q148,Q148,,,,,,,
 Q10297096,Minister of National Defense of the People's Republic of China,Q148,Q148,,,,,,,
@@ -34,3 +35,4 @@ Q59140159,Minister of Water Resources of the People's Republic of China,,,,,,,,,
 Q110455631,Auditor General of the People's Republic of China,,Q148,,,,,,,
 Q10301264,President of the Supreme People's Court of China,Q148,Q148,,,,,,,
 Q20787785,Governor of the People's Bank of China‎,Q148,,,,,,,,
+Q110457303,Chief of the Joint Staff of the Central Military Commission,,Q148,,,,,,,
