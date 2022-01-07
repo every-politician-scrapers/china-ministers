@@ -1,20 +1,11 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "China",
+      "id": "Q148"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
-    },
-    "source": {
-        "url":   "XXX",
-        "title": "XXX",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
-        }
-    },
-    "agent": "every-politican-scrapers/XXX"
+      "id": "Q10871995",
+      "start": "2013-03-15",
+      "parent": "Q59261"
+    }
 }
