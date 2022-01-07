@@ -5,10 +5,9 @@ let meta = JSON.parse(rawmeta);
 module.exports = function () {
   return `SELECT DISTINCT (STRAFTER(STR(?item), STR(wd:)) AS ?wdid)
                ?name ?wdLabel ?source ?sourceDate
-               (STRAFTER(STR(?positionItem), STR(wd:)) AS ?pid) ?position ?start
                (STRAFTER(STR(?held), '/statement/') AS ?psid)
         WHERE {
-          VALUES ?positionItem { wd:Q835630 }
+          VALUES ?positionItem { wd:Q835630 wd:Q508368 wd:Q7143813 }
 
           # Who currently holds those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .
