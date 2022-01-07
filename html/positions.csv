@@ -6,23 +6,31 @@ Q4122271,Premier of the State Council of the People's Republic of China,Q148,Q14
 Q508368,Vice Premier of the State Council of the People's Republic of China,Q148,Q148,,,1954-09,,,,Vice Premier of the People's Republic of China
 Q7143813,Secretary-General of the State Council,Q148,Q148,,,,,,,Secretary-General of the State Council
 Q835630,State Councilor of the People's Republic of China,Q148,,,,,,,,State councillor
-Q7444252,Secretary for Commerce and Economic Development,Q148,,,,2007-07-01,,,,Secretary for Commerce and Economic Development
-Q7444253,Secretary for Constitutional and Mainland Affairs,Q148,,,,2007-07-01,,,,Secretary for Constitutional and Mainland Affairs
-Q7444254,Secretary for Development,Q148,,,,2007-07-01,,Q7444279,,Secretary for Development
-Q7444258,Secretary for Financial Services and the Treasury,Q148,,,,2002-07-01,,,,Secretary for Financial Services and the Treasury
-Q7444263,Secretary for Home Affairs,Q148,,,,1997-07-01,,,,Secretary for Home Affairs
-Q7444266,Secretary for Labour and Welfare,Q148,,,,2007-07-01,,,,Secretary for Labour and Welfare
-Q7444275,Secretary for Transport and Housing,Q148,,,,2007-07-01,,Q7444264,,Secretary for Transport and Housing
 Q17280143,Minister of Agriculture of the People's Republic of China,Q148,Q148,,,,,,,
+Q59137069,Minister of Civil Affairs of the People's Republic of China,,,,,,,,,
 Q17280153,Minister of Commerce of the People's Republic of China,Q148,Q148,,,,,,,
 Q23498524,Minister of Culture of the People's Republic of China,Q148,Q148,,,,,,,
+Q110454924,Minister of Ecology and Environment,,Q148,,,,,,,
 Q56816035,Minister of Education of the People's Republic of China,Q148,Q148,,,,,,,
+Q110454941,Minister of Emergency Management,,Q148,,,,,,,
+Q27826748,Minister of Finance of the People's Republic of China,,,,,,,,,
 Q2664362,Foreign Minister of the People's Republic of China,Q148,Q148,,Q4528290,1949,,,,Foreign Minister of the People's Republic of China
+Q59139845,Minister of Housing and Urban-Rural Development,,,,,,,,,
+Q110454674,Minister of Industry and Information Technology of the People's Republic of China,,Q148,,,,,,,
 Q17279702,Minister of Justice of the People's Republic of China,Q148,Q148,,,,,,,
 Q10297096,Minister of National Defense of the People's Republic of China,Q148,Q148,,,,,,,
+Q110455978,Minister in Charge of the National Development and Reform Commission,,Q148,,,,,,,
+Q110454825,Minister of the National Health Commission,,Q148,,,,,,,
+Q110456158,Minister in Charge of the State Ethnic Affairs Commission,,Q148,,,,,,,
+Q110454842,Minister of Natural Resources of the People's Republic of China,,Q148,,,,,,,
 Q6866288,Minister of Public Security of the People's Republic of China,Q148,Q148,,,,,,,Minister of Public Security of the People's Republic of China
 Q17279707,Minister of Railways of the People's Republic of China,,Q148,,,,,,,
 Q56816189,Minister of Science and Technology (China),Q148,Q148,,,,,,,
 Q17279714,Minister of State Security of the People's Republic of China,Q148,Q148,,,,,,,
+Q110454872,Minister of Supervision of the People's Republic of China,,Q148,,,,,,,
+Q59139975,Minister of Transport of the People's Republic of China,,,,,,,,,
+Q61313667,Minister of Veterans Affairs of the People's Republic of China,,,,,,,,,
+Q59140159,Minister of Water Resources of the People's Republic of China,,,,,,,,,
+Q110455631,Auditor General of the People's Republic of China,,Q148,,,,,,,
 Q10301264,President of the Supreme People's Court of China,Q148,Q148,,,,,,,
 Q20787785,Governor of the People's Bank of China‎,Q148,,,,,,,,
