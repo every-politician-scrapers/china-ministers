@@ -4,8 +4,8 @@ Q553169,Vice President
 Q849418,General Secretary of the Chinese Communist Party
 Q4122271,Premier of the State Council
 Q508368,Vice Premier of the State Council
-Q7143813,Secretary-General of the State Council
 Q835630,State Councilor
+Q7143813,Secretary-General of the State Council
 Q17280143,Minister of Agriculture
 Q59137069,Minister of Civil Affairs
 Q17280153,Minister of Commerce
@@ -16,6 +16,7 @@ Q110454941,Minister of Emergency Management
 Q27826748,Minister of Finance
 Q2664362,Minister of Foreign Affairs
 Q59139845,Minister of Housing and Urban-Rural Development
+Q59137153,Minister of Human Resources and Social Security
 Q110454674,Minister of Industry and Information Technology
 Q17279702,Minister of Justice
 Q10297096,Minister of National Defence
@@ -34,3 +35,4 @@ Q59140159,Minister of Water Resources
 Q110455631,Auditor General
 Q10301264,President of the Supreme People's Court
 Q20787785,Governor of the People's Bank
+Q110457303,Chief of the Joint Staff
