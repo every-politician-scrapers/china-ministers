@@ -1,0 +1,174 @@
+{
+  "title": "Chen Wenqing",
+  "pageID": 48134310,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Ministers of State Security of the People's Republic of China",
+    "Chinese Communist Party politicians from Sichuan",
+    "People's Republic of China politicians from Sichuan",
+    "Politicians from Meishan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chen Wenqing (born 24 January 1960) is a Chinese politician, Minister of State Security of the People's Republic of China since November 2016.",
+              "links": [
+                {
+                  "text": "Minister of State Security",
+                  "type": "internal",
+                  "page": "Ministry of State Security (China)"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Republic of China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chen Wenqing"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "January 2019",
+          "template": "expand-zh"
+        },
+        {
+          "list": [
+            "Chen"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1960",
+          "month": "01",
+          "day": "24",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Thursday, 22 July 2021",
+            "F7"
+          ],
+          "template": "deletable image-caption"
+        },
+        {
+          "s": "陈文清",
+          "p": "Chēn Wénqīng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Police Commissioner General",
+            "links": [
+              {
+                "text": "Police Commissioner General",
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "zh"
+                }
+              }
+            ]
+          },
+          "name": {
+            "text": "Chen Wenqing"
+          },
+          "native_name": {
+            "text": "陈文清"
+          },
+          "birth_date": {
+            "text": "January 24, 1960"
+          },
+          "nationality": {
+            "text": "Chinese"
+          },
+          "party": {
+            "text": "Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Southwest University of Political Science & Law",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Southwest University of Political Science & Law"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of State Security",
+            "links": [
+              {
+                "text": "Minister of State Security",
+                "type": "internal",
+                "page": "Ministry of State Security (China)"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "7 November 2016"
+          },
+          "predecessor": {
+            "text": "Geng Huichang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Geng Huichang"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Renshou County, Sichuan, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Renshou County"
+              },
+              {
+                "type": "internal",
+                "page": "Sichuan"
+              }
+            ]
+          },
+          "leader": {
+            "text": "Xi Jinping",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xi Jinping"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Chen in Tehran 2019."
+          }
+        }
+      ]
+    }
+  ]
+}

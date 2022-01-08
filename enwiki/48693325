@@ -1,0 +1,213 @@
+{
+  "title": "Li Guoying",
+  "pageID": 48693325,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Northeast Normal University alumni",
+    "North China University of Water Conservancy and Electric Power alumni",
+    "Governors of Anhui",
+    "Chinese Communist Party politicians from Henan",
+    "Politicians from Xuchang",
+    "Alternate members of the 18th Central Committee of the Chinese Communist Party",
+    "Members of the 19th Central Committee of the Chinese Communist Party",
+    "Delegates to the 12th National People's Congress",
+    "Delegates to the 11th National People's Congress",
+    "Delegates to the 10th National People's Congress"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Li Guoying (born December 1963) is a Chinese hydraulic engineer-turned-politician, currently serving as governor of Anhui province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anhui"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Li Guoying"
+                ]
+              }
+            },
+            {
+              "text": "Li worked in his early career as a technician and administrator in the national ministry of water works, the Yellow River Commission, and in Heilongjiang province."
+            },
+            {
+              "text": "He was transferred to Anhui in 2015 to serve as deputy party chief before becoming acting governor in 2016."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Li"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1963",
+          "birth_month": "12",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "李",
+            "国",
+            "英"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "李",
+            "國",
+            "英"
+          ],
+          "template": "linktext"
+        },
+        {
+          "s": "李国英",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "p": {
+            "text": "Lǐ Guóyīng"
+          }
+        },
+        {
+          "office1": {
+            "text": "Minister of Water Resources",
+            "links": [
+              {
+                "text": "Minister of Water Resources",
+                "type": "internal",
+                "page": "Ministry of Water Resources of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "February 28, 2021"
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "E Jingping",
+            "links": [
+              {
+                "type": "internal",
+                "page": "E Jingping"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Anhui",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "Politics of Anhui"
+              },
+              {
+                "type": "internal",
+                "page": "Anhui"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "September 1, 2016"
+          },
+          "term_end2": {
+            "text": "February 1, 2021"
+          },
+          "predecessor2": {
+            "text": "Li Jinbin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Jinbin"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Wang Qingxian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wang Qingxian"
+              }
+            ]
+          },
+          "name": {
+            "text": "Li Guoying"
+          },
+          "native_name": {
+            "text": "李国英"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "December 1963 (age 59)"
+          },
+          "birth_place": {
+            "text": "Yuzhou, Henan, China",
+            "links": [
+              {
+                "text": "Yuzhou",
+                "type": "internal",
+                "page": "Yuzhou, Henan"
+              },
+              {
+                "type": "internal",
+                "page": "Henan"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "North China University of Water Conservancy and Electric Power",
+            "links": [
+              {
+                "type": "internal",
+                "page": "North China University of Water Conservancy and Electric Power"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

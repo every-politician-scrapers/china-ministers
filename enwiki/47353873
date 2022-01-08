@@ -1,0 +1,172 @@
+{
+  "title": "He Lifeng",
+  "pageID": 47353873,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "People's Republic of China politicians from Guangdong",
+    "Chinese Communist Party politicians from Guangdong",
+    "People from Xingning",
+    "Politicians from Meizhou",
+    "Alternate members of the 17th Central Committee of the Chinese Communist Party",
+    "Alternate members of the 18th Central Committee of the Chinese Communist Party",
+    "Members of the 19th Central Committee of the Chinese Communist Party",
+    "Delegates to the 9th National People's Congress",
+    "Members of the 12th Chinese People's Political Consultative Conference",
+    "Vice Chairpersons of the National Committee of the Chinese People's Political Consultative Conference",
+    "Xiamen University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He Lifeng (born February 1955) is a Chinese politician and the current Minister in charge of the National Development and Reform Commission (NDRC).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Development and Reform Commission"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "He Lifeng"
+                ]
+              }
+            },
+            {
+              "text": "Earlier in his career, he worked in Fujian province and Tianjin."
+            },
+            {
+              "text": "He has held a number of significant posts, including Party secretary of Fuzhou, party secretary of Xiamen, party secretary of Binhai New Area, deputy party secretary of Tianijn, Chairman of the Tianjin People's Political Consultative Conference, and, since 2014, a deputy director of the NDRC.",
+              "links": [
+                {
+                  "text": "Party secretary",
+                  "type": "internal",
+                  "page": "Party Committee Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Binhai New Area"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "He"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "list": [
+            "h",
+            "e",
+            "2",
+            "-",
+            "l",
+            "i",
+            "4",
+            "f",
+            "eng",
+            "1"
+          ],
+          "template": "ipac-cmn"
+        },
+        {
+          "c": "何立峰",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "He Lifeng"
+          },
+          "native_name": {
+            "text": "何立峰"
+          },
+          "image": {
+            "text": "He Lifeng (cropped).jpg"
+          },
+          "order": {
+            "text": "13th"
+          },
+          "office": {
+            "text": "National Development and Reform Commission"
+          },
+          "term_start": {
+            "text": "24 February 2017"
+          },
+          "predecessor": {
+            "text": "Xu Shaoshi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xu Shaoshi"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 1955"
+          },
+          "birth_place": {
+            "text": "Xingning, Guangdong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xingning, Guangdong"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Xiamen University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xiamen University"
+              }
+            ]
+          }
+        },
+        {
+          "c": {
+            "text": "何立峰"
+          },
+          "p": {
+            "text": "Hé Lìfëng"
+          }
+        }
+      ]
+    }
+  ]
+}

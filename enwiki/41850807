@@ -1,0 +1,191 @@
+{
+  "title": "Huang Ming (politician)",
+  "pageID": 41850807,
+  "categories": [
+    "1957 births",
+    "Chinese police officers",
+    "Politicians from Taizhou, Jiangsu",
+    "Living people",
+    "People's Republic of China politicians from Jiangsu",
+    "Chinese Communist Party politicians from Jiangsu",
+    "Members of the 19th Central Committee of the Chinese Communist Party"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Huang Ming (born October 1957) is a Chinese politician currently serving as Minister of Emergency Management and previously the director of the 610 Office an extrajudicial organisation set up by General Secretary Jiang Zeming for the purposes of disruption and suppression of the Falun Gong spiritual movement.",
+              "links": [
+                {
+                  "text": "Minister of Emergency Management",
+                  "type": "internal",
+                  "page": "Ministry of Emergency Management"
+                },
+                {
+                  "text": "610 Office",
+                  "type": "internal",
+                  "page": "610 Office"
+                },
+                {
+                  "text": "Jiang Zeming",
+                  "type": "internal",
+                  "page": "Jiang Zemin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Falun Gong"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Huang Ming"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Huang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1957",
+          "birth_month": "10",
+          "template": "birth year and age"
+        },
+        {
+          "s": "黄明",
+          "t": "黃明",
+          "p": "Huáng Míng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office1": {
+            "text": "Communist Party Secretary of Ministry of Emergency Management",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ministry of Emergency Management"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "19 March 2018"
+          },
+          "predecessor1": {
+            "text": "New title"
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Minister of Emergency Management"
+          },
+          "term_start2": {
+            "text": "19 March 2018"
+          },
+          "leader2": {
+            "text": "Wang Yupu (minister)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wang Yupu"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Deputy Minister of Public Security",
+            "links": [
+              {
+                "text": "Minister of Public Security",
+                "type": "internal",
+                "page": "Ministry of Public Security of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "August 2009"
+          },
+          "term_end3": {
+            "text": "2018",
+            "number": 2018
+          },
+          "leader3": {
+            "text": "Guo Shengkun (minister)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guo Shengkun"
+              }
+            ]
+          },
+          "name": {
+            "text": "Huang Ming"
+          },
+          "native_name": {
+            "text": "黄明"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "October 1957 (age 65)"
+          },
+          "birth_place": {
+            "text": "Xinghua, Jiangsu, China",
+            "links": [
+              {
+                "text": "Xinghua",
+                "type": "internal",
+                "page": "Xinghua, Jiangsu"
+              },
+              {
+                "type": "internal",
+                "page": "Jiangsu"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Jiangsu Police Academy\nNanjing Normal University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nanjing Normal University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

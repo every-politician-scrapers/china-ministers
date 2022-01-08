@@ -1,0 +1,88 @@
+{
+  "title": "Zhang Jinan",
+  "pageID": 47738784,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "People from Jiexi",
+    "People's Republic of China politicians from Guangdong",
+    "Chinese Communist Party politicians from Guangdong",
+    "Nankai University alumni",
+    "Wuhan University of Technology alumni",
+    "Politicians from Jieyang"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zhang Jinan (born February 1957) is the current chief of the General Office of the Central Institutional Organization Commission of the Communist Party of China (CPC), and the Minister of Human Resources and Social Security.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Institutional Organization Commission"
+                },
+                {
+                  "type": "internal",
+                  "page": "Communist Party of China"
+                },
+                {
+                  "text": "Minister of Human Resources and Social Security",
+                  "type": "internal",
+                  "page": "Ministry of Human Resources and Social Security"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Zhang Jinan "
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Chinese"
+          ],
+          "type": "check",
+          "listed": "nolist",
+          "template": "cleanup translation"
+        },
+        {
+          "list": [
+            "Zhang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "s": "张纪南",
+          "t": "張紀南",
+          "p": "Zhāng Jìnán",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Zhang Jinan"
+          },
+          "office": {
+            "text": "Minister of Human Resources and Social Security",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Human Resources and Social Security"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

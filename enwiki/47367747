@@ -1,0 +1,241 @@
+{
+  "title": "Hu Heping",
+  "pageID": 47367747,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "People's Republic of China politicians from Shandong",
+    "Chinese Communist Party politicians from Shandong",
+    "Political office-holders in Zhejiang",
+    "Political office-holders in Shaanxi",
+    "Tsinghua University alumni",
+    "University of Tokyo alumni",
+    "Alternate members of the 18th Central Committee of the Chinese Communist Party",
+    "Members of the 19th Central Committee of the Chinese Communist Party",
+    "Delegates to the 12th National People's Congress"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hu Heping (born 24 October 1962) is a Chinese politician and the current Communist Party Secretary of Ministry of Culture and Tourism.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Party Secretary"
+                },
+                {
+                  "text": "Ministry of Culture and Tourism",
+                  "type": "internal",
+                  "page": "Ministry of Culture and Tourism of the People's Republic of China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hu Heping"
+                ]
+              }
+            },
+            {
+              "text": "Previously, he served as the governor and party chief of Shaanxi province, Communist Party Secretary of Tsinghua University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shaanxi province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Communist Party Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tsinghua University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Hu"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1962",
+          "month": "10",
+          "day": "24",
+          "template": "birth date and age"
+        },
+        {
+          "c": "胡和平",
+          "p": "Hú Hépíng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hu Heping"
+          },
+          "native_name": {
+            "text": "胡和平"
+          },
+          "office": {
+            "text": "Minister of Culture and Tourism",
+            "links": [
+              {
+                "text": "Minister of Culture and Tourism",
+                "type": "internal",
+                "page": "Ministry of Culture and Tourism of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 August 2020"
+          },
+          "predecessor": {
+            "text": "Luo Shugang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luo Shugang"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Communist Party Seceretary of Shaanxi",
+            "links": [
+              {
+                "text": "Communist Party Seceretary",
+                "type": "internal",
+                "page": "Politics of Shaanxi"
+              },
+              {
+                "type": "internal",
+                "page": "Shaanxi"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 October 2017"
+          },
+          "term_end1": {
+            "text": "31 July 2020"
+          },
+          "predecessor1": {
+            "text": "Lou Qinjian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lou Qinjian"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Liu Guozhong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liu Guozhong"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Liu Guozhong (Governor)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liu Guozhong"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Shaanxi",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "Politics of Shaanxi"
+              },
+              {
+                "type": "internal",
+                "page": "Shaanxi"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 April 2016"
+          },
+          "term_end2": {
+            "text": "4 January 2018"
+          },
+          "predecessor2": {
+            "text": "Lou Qinjian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lou Qinjian"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Liu Guozhong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liu Guozhong"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 24, 1962"
+          },
+          "birth_place": {
+            "text": "Linyi, Shandong, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Linyi"
+              },
+              {
+                "type": "internal",
+                "page": "Shandong"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tsinghua University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tsinghua University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

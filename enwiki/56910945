@@ -1,0 +1,221 @@
+{
+  "title": "Liu Kun",
+  "pageID": 56910945,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Xiamen University alumni",
+    "Central Party School of the Chinese Communist Party alumni",
+    "People's Republic of China politicians from Guangdong",
+    "Chinese Communist Party politicians from Guangdong",
+    "Ministers of Finance of the People's Republic of China",
+    "Politicians from Chaozhou"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Liu Kun (born December 1956) is a Chinese politician and the current Minister of Finance.",
+              "links": [
+                {
+                  "text": "Chinese",
+                  "type": "internal",
+                  "page": "Chinese people"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance of the People's Republic of China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Liu Kun"
+                ]
+              }
+            },
+            {
+              "text": "Previously he served as director of Budgetary Affairs Commission of the National People's Congress, Vice-Minister of Finance, and vice-governor of Guangdong.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National People's Congress"
+                },
+                {
+                  "text": "vice-governor of Guangdong",
+                  "type": "internal",
+                  "page": "Politics of Guangdong"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Liu is a member of the 19th Central Commission for Discipline Inspection.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Commission for Discipline Inspection"
+                }
+              ]
+            },
+            {
+              "text": "He was a delegate to the 10th and 11th and 12th National People's Congress.",
+              "links": [
+                {
+                  "text": "10th",
+                  "type": "internal",
+                  "page": "10th National People's Congress"
+                },
+                {
+                  "text": "11th",
+                  "type": "internal",
+                  "page": "11th National People's Congress"
+                },
+                {
+                  "text": "12th National People's Congress",
+                  "type": "internal",
+                  "page": "12th National People's Congress"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the Jin dynasty general",
+            "Liu Kun (Jin dynasty)"
+          ],
+          "template": "for"
+        },
+        {
+          "list": [
+            "Liu"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1956",
+          "birth_month": "12",
+          "template": "birth year and age"
+        },
+        {
+          "s": "刘昆",
+          "t": "劉昆",
+          "p": "Liú Kūn",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office1": {
+            "text": "14th Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "19 March 2018"
+          },
+          "predecessor1": {
+            "text": "Xiao Jie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xiao Jie"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Director of Budgetary Affairs Commission of the National People's Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National People's Congress"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "December 2016"
+          },
+          "term_end2": {
+            "text": "March 2018"
+          },
+          "name": {
+            "text": "Liu Kun"
+          },
+          "native_name": {
+            "text": "刘昆"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "December 1956 (age 66)"
+          },
+          "birth_place": {
+            "text": "Raoping County, Guangdong, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raoping County"
+              },
+              {
+                "type": "internal",
+                "page": "Guangdong"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Xiamen University Central Party School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xiamen University"
+              },
+              {
+                "type": "internal",
+                "page": "Central Party School"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
