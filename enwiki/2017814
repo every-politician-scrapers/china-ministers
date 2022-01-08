@@ -44,7 +44,7 @@
         {
           "sentences": [
             {
-              "text": "Xi Jinping (, ; born 15 June 1953) is a Chinese politician who has been serving as General Secretary of the Chinese Communist Party (CCP) and Chairman of the Central Military Commission (CMC) since 2012, and President of the People's Republic of China (PRC) since 2013.",
+              "text": "Xi Jinping (born 15 June 1953) is a Chinese politician who has been serving as General Secretary of the Chinese Communist Party (CCP) and Chairman of the Central Military Commission (CMC) since 2012, and President of the People's Republic of China (PRC) since 2013.",
               "links": [
                 {
                   "text": "General Secretary",
@@ -627,6 +627,7 @@
         {
           "s": "习近平",
           "p": "Xí Jìnpíng",
+          "w": "Hsi Chin-p'ing",
           "template": "zh"
         },
         {
@@ -790,7 +791,7 @@
             ]
           },
           "vicepresident1": {
-            "text": "Li Yuanchao\n\nWang Qishan",
+            "text": "Li Yuanchao (2013-2018)\n\nWang Qishan (2018-)",
             "links": [
               {
                 "type": "internal",

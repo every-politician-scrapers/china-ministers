@@ -1,0 +1,186 @@
+{
+  "title": "Ma Xiaowei",
+  "pageID": 56910622,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "China Medical University (PRC) alumni",
+    "People's Republic of China politicians from Shanxi",
+    "Chinese Communist Party politicians from Shanxi",
+    "Politicians from Xinzhou",
+    "Physicians from Shanxi",
+    "Coronavirus researchers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ma Xiaowei (born December 1959) is a Chinese physician and politician who has served as the inaugural minister in charge of the National Health Commission since March 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National Health Commission"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ma Xiaowei"
+                ]
+              }
+            },
+            {
+              "text": "Ma is also President of the Chinese Medical Association and Vice President of the Red Cross Society of China.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chinese Medical Association"
+                },
+                {
+                  "type": "internal",
+                  "page": "Red Cross Society of China"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician and president of the Chinese Medical Association",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Ma"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1959",
+          "birth_month": "12",
+          "template": "birth year and age"
+        },
+        {
+          "child": "yes",
+          "s": "马晓伟",
+          "t": "馬曉偉",
+          "p": "Mǎ Xiǎowěi",
+          "template": "chinese"
+        },
+        {
+          "s": "马晓伟",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ma Xiaowei"
+          },
+          "native_name": {
+            "text": "马晓伟"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "image": {
+            "text": "马晓伟 2020.1.26.jpg"
+          },
+          "caption": {
+            "text": "Ma in January 2020"
+          },
+          "order1": {
+            "text": "1st"
+          },
+          "office1": {
+            "text": "National Health Commission"
+          },
+          "term_start1": {
+            "text": "19 March 2018"
+          },
+          "predecessor1": {
+            "text": "New position",
+            "formatting": {
+              "italic": [
+                "New position"
+              ]
+            }
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of the Chinese Medical Association",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Medical Association"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "15 December 2015"
+          },
+          "predecessor2": {
+            "text": "Chen Zhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Zhu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 1959 (age 63)"
+          },
+          "birth_place": {
+            "text": "Wutai County, Shanxi, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wutai County"
+              },
+              {
+                "type": "internal",
+                "page": "Shanxi"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Physician"
+          },
+          "alma_mater": {
+            "text": "China Medical University",
+            "links": [
+              {
+                "text": "China Medical University",
+                "type": "internal",
+                "page": "China Medical University (PRC)"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

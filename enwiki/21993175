@@ -1,0 +1,229 @@
+{
+  "title": "Lu Hao (born 1967)",
+  "pageID": 21993175,
+  "categories": [
+    "Living people",
+    "1967 births",
+    "Governors of Heilongjiang",
+    "Politicians from Xi'an",
+    "First Secretaries of the Communist Youth League of China",
+    "Deputy mayors of Beijing"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lu Hao (born 21 June 1967) is a Chinese politician, serving as the head of the Ministry of Natural Resources.",
+              "formatting": {
+                "bold": [
+                  "Lu Hao"
+                ]
+              }
+            },
+            {
+              "text": "Previously, Lu Hao was the youngest provincial governor in China, as the Governor of Heilongjiang Province from 2013 to 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Heilongjiang"
+                }
+              ]
+            },
+            {
+              "text": "Lu has also served as the First Secretary of the Communist Youth League, and vice-mayor of Beijing.",
+              "links": [
+                {
+                  "text": "Communist Youth League",
+                  "type": "internal",
+                  "page": "Communist Youth League of China"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Lu Hao (born 1947)"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "list": [
+            "Lu"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1967",
+          "month": "6",
+          "day": "21",
+          "template": "birth date and age"
+        },
+        {
+          "s": "陆昊",
+          "p": "Lù Hào",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lu Hao"
+          },
+          "native_name": {
+            "text": "陆昊"
+          },
+          "image_size": {
+            "text": "150px"
+          },
+          "office": {
+            "text": "Minister of Natural Resources",
+            "links": [
+              {
+                "text": "Minister of Natural Resources",
+                "type": "internal",
+                "page": "Ministry of Natural Resources of the People's Republic of China"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 2018"
+          },
+          "predecessor": {
+            "text": "Jiang Daming (as Minister of Land Resources)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jiang Daming"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Governor of Heilongjiang",
+            "links": [
+              {
+                "text": "Governor of Heilongjiang",
+                "type": "internal",
+                "page": "Politics of Heilongjiang"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "March 2013"
+          },
+          "term_end3": {
+            "text": "March 2018"
+          },
+          "predecessor3": {
+            "text": "Wang Xiankui",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wang Xiankui"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Wang Wentao",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wang Wentao"
+              }
+            ]
+          },
+          "office4": {
+            "text": "First Secretary of the Communist Youth League",
+            "links": [
+              {
+                "text": "Communist Youth League",
+                "type": "internal",
+                "page": "Communist Youth League of China"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "April 2008"
+          },
+          "term_end4": {
+            "text": "March 2013"
+          },
+          "predecessor4": {
+            "text": "Hu Chunhua",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hu Chunhua"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Qin Yizhi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qin Yizhi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 21, 1967"
+          },
+          "birth_place": {
+            "text": "Xi'an, Shaanxi, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xi'an"
+              },
+              {
+                "type": "internal",
+                "page": "Shaanxi"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chinese",
+            "links": [
+              {
+                "text": "Chinese",
+                "type": "internal",
+                "page": "China"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China (1985–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

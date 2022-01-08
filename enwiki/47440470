@@ -1,0 +1,243 @@
+{
+  "title": "Wang Wentao",
+  "pageID": 47440470,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "People's Republic of China politicians from Jiangsu",
+    "Chinese Communist Party politicians from Jiangsu",
+    "Political office-holders in Shandong",
+    "Politicians from Nantong",
+    "Fudan University alumni",
+    "Alternate members of the 18th Central Committee of the Chinese Communist Party",
+    "Alternate members of the 19th Central Committee of the Chinese Communist Party",
+    "Ministers of Commerce of the People's Republic of China",
+    "Governors of Heilongjiang",
+    "Political office-holders in Shanghai",
+    "Political office-holders in Yunnan",
+    "Political office-holders in Jiangxi"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wang Wentao (born May 1964) is a Chinese politician who has been Governor of Heilongjiang province since March 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Heilongjiang"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wang Wentao"
+                ]
+              }
+            },
+            {
+              "text": "He formerly served as Communist Party Secretary of Jinan and Deputy Party Secretary of Shandong province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Party Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jinan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Deputy Party Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shandong"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Wang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "August 2021",
+          "template": "fact"
+        },
+        {
+          "birth_year": "1964",
+          "birth_month": "5",
+          "template": "birth year and age"
+        },
+        {
+          "s": "王文涛",
+          "t": "王文濤",
+          "p": "Wáng Wéntāo",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wang Wentao"
+          },
+          "native_name": {
+            "text": "王文涛"
+          },
+          "native_name_lang": {
+            "text": "zh-Hans"
+          },
+          "image": {
+            "text": "Wang Wentao.jpg"
+          },
+          "caption": {
+            "text": "Wang in March 2021"
+          },
+          "office": {
+            "text": "Minister of Commerce",
+            "links": [
+              {
+                "text": "Minister of Commerce",
+                "type": "internal",
+                "page": "Ministry of Commerce (China)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 December 2020"
+          },
+          "predecessor": {
+            "text": "Zhong Shan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhong Shan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Governor of Heilongjiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heilongjiang"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 March 2018"
+          },
+          "term_end1": {
+            "text": "24 December 2020"
+          },
+          "predecessor1": {
+            "text": "Lu Hao",
+            "links": [
+              {
+                "text": "Lu Hao",
+                "type": "internal",
+                "page": "Lu Hao (born 1967)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Hu Changsheng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hu Changsheng"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Communist Party Secretary of Jinan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party Secretary"
+              },
+              {
+                "type": "internal",
+                "page": "Jinan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "March 2015"
+          },
+          "term_end2": {
+            "text": "March 2018"
+          },
+          "predecessor2": {
+            "text": "Wang Min",
+            "links": [
+              {
+                "text": "Wang Min",
+                "type": "internal",
+                "page": "Wang Min (born 1956)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Wang Zhonglin",
+            "links": [
+              {
+                "text": "Wang Zhonglin",
+                "type": "internal",
+                "page": "Wang Zhonglin (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 1964 (age 58)"
+          },
+          "birth_place": {
+            "text": "Nantong, Jiangsu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nantong"
+              },
+              {
+                "type": "internal",
+                "page": "Jiangsu"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China (1994-present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Fudan University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fudan University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

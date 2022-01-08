@@ -1,0 +1,195 @@
+{
+  "title": "Huang Runqiu",
+  "pageID": 63806078,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Chengdu University of Technology alumni",
+    "Politicians from Changsha",
+    "Chinese geologists",
+    "Chengdu University of Technology faculty",
+    "Delegates to the 12th National People's Congress"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Huang Runqiu (born August 1963) is a Chinese geologist and politician currently serving as Minister of Ecology and Environment.",
+              "links": [
+                {
+                  "text": "Minister of Ecology and Environment",
+                  "type": "internal",
+                  "page": "Ministry of Ecology and Environment"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Huang Runqiu"
+                ]
+              }
+            },
+            {
+              "text": "He is the third minister from a non-Communist party since the reform and opening-up in late 1970s.",
+              "links": [
+                {
+                  "text": "reform and opening-up",
+                  "type": "internal",
+                  "page": "reform and opening-up"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese geologist and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Huang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1963",
+          "birth_month": "08",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "黄",
+            "润",
+            "秋"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "黃",
+            "潤",
+            "秋"
+          ],
+          "template": "linktext"
+        },
+        {
+          "s": "黄润秋",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "p": {
+            "text": "Huáng Rùnqiū"
+          }
+        },
+        {
+          "office1": {
+            "text": "Minister of Ecology and Environment",
+            "links": [
+              {
+                "text": "Minister of Ecology and Environment",
+                "type": "internal",
+                "page": "Ministry of Ecology and Environment"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 April 2020"
+          },
+          "predecessor1": {
+            "text": "Li Ganjie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Ganjie"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Vice-President of Jiusan Society",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jiusan Society"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Wu Weihua",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wu Weihua"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "December 2017"
+          },
+          "name": {
+            "text": "Huang Runqiu"
+          },
+          "native_name": {
+            "text": "黄润秋"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "August 1963 (age 59)"
+          },
+          "birth_place": {
+            "text": "Changsha, Hunan, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Changsha"
+              },
+              {
+                "type": "internal",
+                "page": "Hunan"
+              }
+            ]
+          },
+          "party": {
+            "text": "Jiusan Society",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jiusan Society"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Chengdu University of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chengdu University of Technology"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
