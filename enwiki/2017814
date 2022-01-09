@@ -627,7 +627,6 @@
         {
           "s": "习近平",
           "p": "Xí Jìnpíng",
-          "w": "Hsi Chin-p'ing",
           "template": "zh"
         },
         {
@@ -791,7 +790,7 @@
             ]
           },
           "vicepresident1": {
-            "text": "Li Yuanchao (2013-2018)\n\nWang Qishan (2018-)",
+            "text": "Li Yuanchao (2013–2018)\n\nWang Qishan (since 2018)",
             "links": [
               {
                 "type": "internal",
