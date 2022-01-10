@@ -4,12 +4,13 @@
   "categories": [
     "1957 births",
     "Living people",
-    "People from Jiexi",
-    "People's Republic of China politicians from Guangdong",
-    "Chinese Communist Party politicians from Guangdong",
+    "People from Jiexi County",
+    "Politicians from Jieyang",
     "Nankai University alumni",
     "Wuhan University of Technology alumni",
-    "Politicians from Jieyang"
+    "People's Republic of China politicians from Guangdong",
+    "Chinese Communist Party politicians from Guangdong",
+    "Members of the 19th Central Committee of the Chinese Communist Party"
   ],
   "sections": [
     {
@@ -61,23 +62,119 @@
           "template": "family name hatnote"
         },
         {
+          "birth_year": "1957",
+          "birth_month": "02",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "张",
+            "纪",
+            "南"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "張",
+            "紀",
+            "南"
+          ],
+          "template": "linktext"
+        },
+        {
           "s": "张纪南",
-          "t": "張紀南",
-          "p": "Zhāng Jìnán",
           "template": "zh"
         }
       ],
       "infoboxes": [
         {
-          "name": {
-            "text": "Zhang Jinan"
+          "child": {
+            "text": "yes"
           },
-          "office": {
+          "order": {
+            "text": "st"
+          },
+          "p": {
+            "text": "Zhāng Jìnán"
+          }
+        },
+        {
+          "office1": {
             "text": "Minister of Human Resources and Social Security",
             "links": [
               {
+                "text": "Minister of Human Resources and Social Security",
                 "type": "internal",
-                "page": "Minister of Human Resources and Social Security"
+                "page": "Ministry of Human Resources and Social Security"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "March 2018"
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Yin Weimin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yin Weimin"
+              }
+            ]
+          },
+          "name": {
+            "text": "Zhang Jinan"
+          },
+          "native_name": {
+            "text": "张纪南"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "February 1957 (age 65)"
+          },
+          "birth_place": {
+            "text": "Jiexi County, Guangdong, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jiexi County"
+              },
+              {
+                "type": "internal",
+                "page": "Guangdong"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Wuhan University of Technology Nankai University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wuhan University of Technology"
+              },
+              {
+                "type": "internal",
+                "page": "Nankai University"
               }
             ]
           }
