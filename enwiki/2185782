@@ -396,11 +396,11 @@
             "text": "Chinese"
           },
           "party": {
-            "text": "Chinese Communist Party (1973-present)",
+            "text": "Communist Party of China (1973-present)",
             "links": [
               {
                 "type": "internal",
-                "page": "Chinese Communist Party"
+                "page": "Communist Party of China"
               }
             ]
           },
