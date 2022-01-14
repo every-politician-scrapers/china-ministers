@@ -445,9 +445,6 @@
           "template": "birth date and age"
         },
         {
-          "template": "prc"
-        },
-        {
           "spouse": "Ke Lingling",
           "from": "1979",
           "to": "1982",
@@ -973,8 +970,11 @@
               }
             ]
           },
+          "allegiance": {
+            "text": "People's Republic of China"
+          },
           "branch": {
-            "text": "People's Liberation Army Flag of the People's Republic of China.svg People's Liberation Army",
+            "text": "People's Liberation Army",
             "links": [
               {
                 "type": "internal",
