@@ -110,13 +110,26 @@
             "text": "Chief of the CMC Joint Staff Department",
             "links": [
               {
+                "text": "CMC Joint Staff Department",
                 "type": "internal",
-                "page": "CMC Joint Staff Department"
+                "page": "Joint Staff Department of the Central Military Commission"
               }
             ]
           },
           "term_start": {
             "text": "August 2017"
+          },
+          "1blankname": {
+            "text": "CMC Chairman"
+          },
+          "1namedata": {
+            "text": "Xi Jinping",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xi Jinping"
+              }
+            ]
           },
           "predecessor": {
             "text": "Fang Fenghui",
