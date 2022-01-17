@@ -176,6 +176,18 @@
           "premier2": {
             "text": "Li Keqiang"
           },
+          "1blankname2": {
+            "text": "CMC Chairman"
+          },
+          "1namedata2": {
+            "text": "Xi Jinping",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xi Jinping"
+              }
+            ]
+          },
           "term_start2": {
             "text": "13th State Council\n19 March 2018",
             "links": [
