@@ -93,7 +93,7 @@
               ]
             },
             {
-              "text": "He is often ranked among the most powerful people in the world."
+              "text": "He is ranked among the most powerful people in the world."
             }
           ]
         },
@@ -765,7 +765,7 @@
             ]
           },
           "office1": {
-            "text": "President of the People's Republic of China",
+            "text": "7th President of the People's Republic of China",
             "links": [
               {
                 "type": "internal",
@@ -948,16 +948,11 @@
             "text": "June 15, 1953"
           },
           "birth_place": {
-            "text": "Beijing, People's Republic of China",
+            "text": "Beijing, China",
             "links": [
               {
                 "type": "internal",
                 "page": "Beijing"
-              },
-              {
-                "text": "People's Republic of China",
-                "type": "internal",
-                "page": "China"
               }
             ]
           },
