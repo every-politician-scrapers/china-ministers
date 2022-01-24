@@ -399,16 +399,20 @@
               "text": "This is the third fundamental resolution of the Chinese Communist Party since its inception."
             },
             {
-              "text": "The first resolution was adopted in 1945 to increase and ratify the power of Mao Zedong.",
+              "text": "The first resolution was adopted in 1945 to increase and ratify the power of Mao Zedong, and the second was adopted under Deng Xiaoping.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Mao Zedong"
+                },
+                {
+                  "type": "internal",
+                  "page": "Deng Xiaoping"
                 }
               ]
             },
             {
-              "text": "The decision to issue one under Xi symbolically raises him to the same level of prestige as Mao."
+              "text": "The decision to issue one under Xi symbolically raises him to the same level of prestige as Mao and Deng."
             }
           ]
         }
