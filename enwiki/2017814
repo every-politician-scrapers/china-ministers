@@ -469,7 +469,7 @@
         },
         {
           "list": [
-            "The bachelor degree offered in Tsinghua University on chemical engineering is a Bachelor of Engineering but not a B.Sc. which is attained in some universities."
+            "The bachelor degree offered in Tsinghua University on chemical engineering is a Bachelor of Engineering but not a B.Sc., which is attained in some universities."
           ],
           "template": "notetag"
         },
@@ -961,7 +961,7 @@
             ]
           },
           "party": {
-            "text": "Chinese Communist Party (1974-present)",
+            "text": "Chinese Communist Party (1974–present)",
             "links": [
               {
                 "type": "internal",
