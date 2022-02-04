@@ -83,13 +83,6 @@
           "template": "family name hatnote"
         },
         {
-          "list": [
-            "Thursday, 22 July 2021",
-            "F7"
-          ],
-          "template": "deletable image-caption"
-        },
-        {
           "year": "1959",
           "month": "6",
           "day": "7",
@@ -110,12 +103,6 @@
           },
           "native_name": {
             "text": "李小鹏"
-          },
-          "image_size": {
-            "text": "150px"
-          },
-          "caption": {
-            "text": "Li in 2016."
           },
           "office": {
             "text": "Minister of Transport",
