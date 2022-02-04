@@ -435,13 +435,6 @@
           "template": "use dmy dates"
         },
         {
-          "list": [
-            "Xi"
-          ],
-          "lang": "Chinese",
-          "template": "family name hatnote"
-        },
-        {
           "df": "yes",
           "year": "1953",
           "month": "06",
@@ -607,6 +600,13 @@
         },
         {
           "template": "xi jinping sidebar"
+        },
+        {
+          "list": [
+            "Xi"
+          ],
+          "reftype": "NoteTag",
+          "template": "efn chinese name"
         },
         {
           "template": "ipac",
