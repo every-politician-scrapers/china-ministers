@@ -63,13 +63,6 @@
           "template": "birth date and age"
         },
         {
-          "list": [
-            "Thursday, 22 July 2021",
-            "F7"
-          ],
-          "template": "deletable image-caption"
-        },
-        {
           "s": "陈文清",
           "p": "Chēn Wénqīng",
           "template": "zh"
@@ -163,9 +156,6 @@
                 "page": "Xi Jinping"
               }
             ]
-          },
-          "caption": {
-            "text": "Chen in Tehran 2019."
           }
         }
       ]
