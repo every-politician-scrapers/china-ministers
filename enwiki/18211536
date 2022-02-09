@@ -22,24 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Wang Yi (born 19 October 1953) is a senior Chinese diplomat and politician.",
-              "formatting": {
-                "bold": [
-                  "Wang Yi"
-                ]
-              }
-            },
-            {
-              "text": "He formerly served as China's Vice Foreign Minister, Ambassador to Japan and Director of the Taiwan Affairs Office.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Taiwan Affairs Office"
-                }
-              ]
-            },
-            {
-              "text": "He has served as the Foreign Minister since March 2013 and a State Councilor since March 2018.",
+              "text": "Wang Yi (born 19 October 1953) is a senior Chinese diplomat and politician currently serving as the Foreign Minister since 2013 and State Councilor since 2018.",
               "links": [
                 {
                   "text": "Foreign Minister",
@@ -51,7 +34,12 @@
                   "type": "internal",
                   "page": "State councillor (China)"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Wang Yi"
+                ]
+              }
             }
           ]
         }
@@ -259,11 +247,11 @@
             ]
           },
           "party": {
-            "text": "Communist Party of China (1981-present)",
+            "text": "Chinese Communist Party (1981–present)",
             "links": [
               {
                 "type": "internal",
-                "page": "Communist Party of China"
+                "page": "Chinese Communist Party"
               }
             ]
           },
