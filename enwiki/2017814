@@ -100,7 +100,7 @@
         {
           "sentences": [
             {
-              "text": "The son of Chinese Communist veteran Xi Zhongxun, he was exiled to rural Yanchuan County as a teenager following his father's purge during the Cultural Revolution, and lived in a Yaodong in the village of Liangjiahe, where he joined the CCP and worked as the party secretary.",
+              "text": "The son of Chinese Communist veteran Xi Zhongxun, he was exiled to rural Yanchuan County as a teenager following his father's purge during the Cultural Revolution, and lived in a yaodong in the village of Liangjiahe, where he joined the CCP and worked as the party secretary.",
               "links": [
                 {
                   "type": "internal",
@@ -115,6 +115,7 @@
                   "page": "Cultural Revolution"
                 },
                 {
+                  "text": "yaodong",
                   "type": "internal",
                   "page": "Yaodong"
                 }
