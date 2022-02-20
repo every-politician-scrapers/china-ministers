@@ -473,8 +473,8 @@
           "list": [
             "Xi Yuanping (brother)",
             "Qi Qiaoqiao (sister)",
-            "Deng Jiagui (brother-in-law)",
-            "Zhang Lanlan (sister-in-law)",
+            "Deng Jiagui (brother–in–law)",
+            "Zhang Lanlan (sister–in–law)",
             "Ke Hua (former father–in–law)"
           ],
           "template": "ubl"
@@ -853,29 +853,21 @@
             ]
           },
           "office3": {
-            "text": "First Secretary of Secretariat of the Chinese Communist Party",
+            "text": "Vice President of the People's Republic of China",
             "links": [
               {
-                "text": "First Secretary of Secretariat of the",
                 "type": "internal",
-                "page": "Secretariat of the Chinese Communist Party"
-              },
-              {
-                "type": "internal",
-                "page": "Chinese Communist Party"
+                "page": "Vice President of the People's Republic of China"
               }
             ]
           },
           "term_start3": {
-            "text": "22 October 2007"
+            "text": "15 March 2008"
           },
           "term_end3": {
-            "text": "15 November 2012"
+            "text": "14 March 2013"
           },
-          "1blankname3": {
-            "text": "General Secretary"
-          },
-          "1namedata3": {
+          "president3": {
             "text": "Hu Jintao",
             "links": [
               {
@@ -894,30 +886,33 @@
             ]
           },
           "successor3": {
-            "text": "Liu Yunshan",
+            "text": "Li Yuanchao",
             "links": [
               {
                 "type": "internal",
-                "page": "Liu Yunshan"
+                "page": "Li Yuanchao"
               }
             ]
           },
           "office4": {
-            "text": "Vice President of the People's Republic of China",
+            "text": "First Secretary of the Secretariat of the Chinese Communist Party",
             "links": [
               {
                 "type": "internal",
-                "page": "Vice President of the People's Republic of China"
+                "page": "Secretariat of the Chinese Communist Party"
               }
             ]
           },
           "term_start4": {
-            "text": "15 March 2008"
+            "text": "22 October 2007"
           },
           "term_end4": {
-            "text": "14 March 2013"
+            "text": "15 November 2012"
           },
-          "president4": {
+          "1blankname4": {
+            "text": "General Secretary"
+          },
+          "1namedata4": {
             "text": "Hu Jintao",
             "links": [
               {
@@ -936,11 +931,11 @@
             ]
           },
           "successor4": {
-            "text": "Li Yuanchao",
+            "text": "Liu Yunshan",
             "links": [
               {
                 "type": "internal",
-                "page": "Li Yuanchao"
+                "page": "Liu Yunshan"
               }
             ]
           },
@@ -1036,7 +1031,7 @@
             "text": "Xi Zhongxun (father)\n\nQi Xin (mother)"
           },
           "relatives": {
-            "text": "Xi Yuanping (brother)\n\nQi Qiaoqiao (sister)\n\nDeng Jiagui (brother-in-law)\n\nZhang Lanlan (sister-in-law)\n\nKe Hua (former father–in–law)"
+            "text": "Xi Yuanping (brother)\n\nQi Qiaoqiao (sister)\n\nDeng Jiagui (brother–in–law)\n\nZhang Lanlan (sister–in–law)\n\nKe Hua (former father–in–law)"
           },
           "signature": {
             "text": "XiJinpingSignature.svg"
