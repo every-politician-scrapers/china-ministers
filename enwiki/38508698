@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Li Jiheng (born January 1957) is a Chinese politician, who is serving as the Minister of Civil Affairs.",
+              "text": "Li Jiheng (born January 1957) is a Chinese politician, who former served as Minister of Civil Affairs.",
               "links": [
                 {
                   "text": "Minister of Civil Affairs",
@@ -95,11 +95,37 @@
           "template": "linktext"
         },
         {
-          "p": "Lǐ Jǐhéng",
+          "list": [
+            "李",
+            "紀",
+            "恆"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "李",
+            "纪",
+            "恒"
+          ],
+          "template": "linktext"
+        },
+        {
           "template": "zh"
         }
       ],
       "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "order": {
+            "text": "st"
+          },
+          "p": {
+            "text": "Lǐ Jǐhéng"
+          }
+        },
         {
           "name": {
             "text": "Li Jiheng"
@@ -111,14 +137,26 @@
             "text": "Minister of Civil Affairs of the People's Republic of China",
             "links": [
               {
-                "text": "Minister of Civil Affairs",
+                "text": "Minister of Civil Affairs of the People's Republic of China",
                 "type": "internal",
                 "page": "Ministry of Civil Affairs"
               }
             ]
           },
           "term_start": {
-            "text": "October 26, 2019"
+            "text": "26 October 2019"
+          },
+          "term_end": {
+            "text": "28 February 2022"
+          },
+          "premier": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
           },
           "predecessor": {
             "text": "Huang Shuxian",
@@ -126,6 +164,15 @@
               {
                 "type": "internal",
                 "page": "Huang Shuxian"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Tang Dengjie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tang Dengjie"
               }
             ]
           },
@@ -275,7 +322,7 @@
             ]
           },
           "alma_mater": {
-            "text": "Guangxi University\nChinese Academy of Social Sciences",
+            "text": "Guangxi University Chinese Academy of Social Sciences",
             "links": [
               {
                 "type": "internal",

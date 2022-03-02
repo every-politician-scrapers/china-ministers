@@ -34,7 +34,8 @@
     "Vice presidents of the People's Republic of China",
     "Victims of the Cultural Revolution",
     "Recipients of the Olympic Order",
-    "Recipients of the Order of the Liberator General San Martin"
+    "Recipients of the Order of the Liberator General San Martin",
+    "Dictator"
   ],
   "sections": [
     {
@@ -91,9 +92,6 @@
                   "page": "paramount leader"
                 }
               ]
-            },
-            {
-              "text": "He is ranked among the most powerful people in the world."
             }
           ]
         },
@@ -735,7 +733,7 @@
             "text": "zh-Hans-CN"
           },
           "image": {
-            "text": "Xi Jinping 2019 (49060546152) 2.jpg"
+            "text": "Xi Jinping 2019.jpg"
           },
           "caption": {
             "text": "Xi in 2019"
