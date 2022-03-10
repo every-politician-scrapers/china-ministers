@@ -1,302 +1,37 @@
 {
-  "title": "Tang Yijun",
-  "pageID": 54414573,
-  "categories": [
-    "1961 births",
-    "Alternate members of the 19th Central Committee of the Chinese Communist Party",
-    "Chinese Communist Party politicians from Shandong",
-    "People's Republic of China politicians from Shandong",
-    "Governors of Liaoning",
-    "Living people",
-    "Mayors of Ningbo",
-    "Ministers of Justice of the People's Republic of China"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Tang Yijun (born March 1961) is a Chinese politician, and the current Minister of Justice.",
-              "links": [
-                {
-                  "text": "Minister of Justice",
-                  "type": "internal",
-                  "page": "Ministry of Justice of the People's Republic of China"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Tang Yijun"
-                ]
-              }
-            },
-            {
-              "text": "He formerly served as Governor of northeast China's Liaoning province.",
-              "links": [
-                {
-                  "text": "northeast China",
-                  "type": "internal",
-                  "page": "northeast China"
-                },
-                {
-                  "type": "internal",
-                  "page": "Liaoning"
-                }
-              ]
-            },
-            {
-              "text": "Prior to his transfer to Liaoning in October 2017, he spent his entire career in Zhejiang province.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Zhejiang"
-                }
-              ]
-            },
-            {
-              "text": "He was the mayor, then party chief of Ningbo."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chinese politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Tang"
-          ],
-          "lang": "Chinese",
-          "template": "family name hatnote"
-        },
-        {
-          "birth_year": "1961",
-          "birth_month": "3",
-          "template": "birth year and age"
-        },
-        {
-          "list": [
-            "唐",
-            "一",
-            "军"
-          ],
-          "template": "linktext"
-        },
-        {
-          "list": [
-            "唐",
-            "一",
-            "軍"
-          ],
-          "template": "linktext"
-        },
-        {
-          "s": "唐一军",
-          "p": "Táng Yījūn",
-          "template": "zh"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "p": {
-            "text": "Táng Yījūn"
-          }
-        },
-        {
-          "name": {
-            "text": "Tang Yijun"
-          },
-          "native_name": {
-            "text": "唐一军"
-          },
-          "office1": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Ministry of Justice of the People's Republic of China"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "29 April 2020"
-          },
-          "predecessor1": {
-            "text": "Fu Zhenghua",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Fu Zhenghua"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "Prime Minister"
-          },
-          "1namedata1": {
-            "text": "Li Keqiang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Li Keqiang"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Governor of Liaoning",
-            "links": [
-              {
-                "text": "Governor",
-                "type": "internal",
-                "page": "Politics of Liaoning"
-              },
-              {
-                "type": "internal",
-                "page": "Liaoning"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "October 2017"
-          },
-          "term_end2": {
-            "text": "April 2020"
-          },
-          "predecessor2": {
-            "text": "Chen Qiufa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chen Qiufa"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Liu Ning",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Liu Ning"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Party Secretary of Zhejiang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zhejiang"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "May 2017"
-          },
-          "term_end3": {
-            "text": "October 2017"
-          },
-          "predecessor3": {
-            "text": "Yuan Jiajun",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yuan Jiajun"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Zheng Shanjie"
-          },
-          "office4": {
-            "text": "Party Secretary of Ningbo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ningbo"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "August 2016"
-          },
-          "term_end4": {
-            "text": "October 2017"
-          },
-          "predecessor4": {
-            "text": "Liu Qi",
-            "links": [
-              {
-                "text": "Liu Qi",
-                "type": "internal",
-                "page": "Liu Qi (politician, born 1957)"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Zheng Shanjie"
-          },
-          "office5": {
-            "text": "Mayor of Ningbo"
-          },
-          "term_start5": {
-            "text": "May 2016"
-          },
-          "term_end5": {
-            "text": "February 2017"
-          },
-          "predecessor5": {
-            "text": "Lu Ziyue",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lu Ziyue"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Qiu Dongyao"
-          },
-          "birth_date": {
-            "text": "March 1961 (age 61)"
-          },
-          "birth_place": {
-            "text": "Ju County, Shandong, China",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ju County"
-              }
-            ]
-          },
-          "party": {
-            "text": "Communist Party of China",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Communist Party of China"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Central Party School of the Communist Party of China",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Central Party School of the Communist Party of China"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "p": "Táng Yījūn"
+}
+{
+  "name": "Tang Yijun",
+  "native_name": "唐一军",
+  "office1": "Minister of Justice",
+  "term_start1": "29 April 2020",
+  "predecessor1": "Fu Zhenghua",
+  "1blankname1": "Prime Minister",
+  "1namedata1": "Li Keqiang",
+  "office2": "Governor of Liaoning",
+  "term_start2": "October 2017",
+  "term_end2": "April 2020",
+  "predecessor2": "Chen Qiufa",
+  "successor2": "Liu Ning",
+  "office3": "Deputy Party Secretary of Zhejiang",
+  "term_start3": "May 2017",
+  "term_end3": "October 2017",
+  "predecessor3": "Yuan Jiajun",
+  "successor3": "Zheng Shanjie",
+  "office4": "Party Secretary of Ningbo",
+  "term_start4": "August 2016",
+  "term_end4": "October 2017",
+  "predecessor4": "Liu Qi",
+  "successor4": "Zheng Shanjie",
+  "office5": "Mayor of Ningbo",
+  "term_start5": "May 2016",
+  "term_end5": "February 2017",
+  "predecessor5": "Lu Ziyue",
+  "successor5": "Qiu Dongyao",
+  "birth_date": "March 1961 (age 61)",
+  "birth_place": "Ju County, Shandong, China",
+  "party": "Communist Party of China",
+  "alma_mater": "Central Party School of the Communist Party of China"
 }
