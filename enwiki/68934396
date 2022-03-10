@@ -1,288 +1,35 @@
 {
-  "title": "Xiao Yaqing",
-  "pageID": 68934396,
-  "categories": [
-    "1959 births",
-    "Living people",
-    "People from Xinle",
-    "Engineers from Hebei",
-    "Businesspeople from Hebei",
-    "Central South University alumni",
-    "People's Republic of China politicians from Hebei",
-    "Chinese Communist Party politicians from Hebei",
-    "Government ministers of the People's Republic of China",
-    "Alternate members of the 17th Central Committee of the Chinese Communist Party"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Xiao Yaqing (born September 1959) is a Chinese engineer, business executive and politician, currently serving as Minister of Industry and Information Technology.",
-              "links": [
-                {
-                  "text": "Minister of Industry and Information Technology",
-                  "type": "internal",
-                  "page": "Ministry of Industry and Information Technology"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Xiao Yaqing"
-                ]
-              }
-            },
-            {
-              "text": "Previously he served as director of the State Administration for Market Regulation and State-owned Assets Supervision and Administration Commission.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "State Administration for Market Regulation"
-                },
-                {
-                  "type": "internal",
-                  "page": "State-owned Assets Supervision and Administration Commission"
-                }
-              ]
-            },
-            {
-              "text": "He was an alternate members of the 17th Central Committee of the Chinese Communist Party and a member of the 18th Central Commission for Discipline Inspection of the Chinese Communist Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Central Committee of the Chinese Communist Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Central Commission for Discipline Inspection"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Xiao"
-          ],
-          "lang": "Chinese",
-          "template": "family name hatnote"
-        },
-        {
-          "description": "Chinese politician (born September 1959)",
-          "template": "short description"
-        },
-        {
-          "birth_year": "1959",
-          "birth_month": "09",
-          "template": "birth year and age"
-        },
-        {
-          "list": [
-            "肖",
-            "亚",
-            "庆"
-          ],
-          "template": "linktext"
-        },
-        {
-          "list": [
-            "肖",
-            "亞",
-            "慶"
-          ],
-          "template": "linktext"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "order": {
-            "text": "st"
-          },
-          "p": {
-            "text": "Xiāo Yàqìng"
-          }
-        },
-        {
-          "office1": {
-            "text": "Minister of Industry and Information Technology",
-            "links": [
-              {
-                "text": "Minister of Industry and Information Technology",
-                "type": "internal",
-                "page": "Ministry of Industry and Information Technology"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "11 August 2020"
-          },
-          "predecessor1": {
-            "text": "Miao Wei",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Miao Wei"
-              }
-            ]
-          },
-          "premier1": {
-            "text": "Li Keqiang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Li Keqiang"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Director of the State Administration for Market Regulation",
-            "links": [
-              {
-                "type": "internal",
-                "page": "State Administration for Market Regulation"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "17 May 2019"
-          },
-          "term_end2": {
-            "text": "12 August 2021"
-          },
-          "predecessor2": {
-            "text": "Zhang Mao"
-          },
-          "successor2": {
-            "text": "Zhang Gong"
-          },
-          "premier2": {
-            "text": "Li Keqiang"
-          },
-          "office3": {
-            "text": "Director of the State-owned Assets Supervision and Administration Commission",
-            "links": [
-              {
-                "type": "internal",
-                "page": "State-owned Assets Supervision and Administration Commission"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 February 2016"
-          },
-          "term_end3": {
-            "text": "17 May 2019"
-          },
-          "predecessor3": {
-            "text": "Zhang Yi",
-            "links": [
-              {
-                "text": "Zhang Yi",
-                "type": "internal",
-                "page": "Zhang Yi (politician)"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Hao Peng",
-            "links": [
-              {
-                "text": "Hao Peng",
-                "type": "internal",
-                "page": "Hao Peng (PRC)"
-              }
-            ]
-          },
-          "premier3": {
-            "text": "Li Keqiang"
-          },
-          "office4": {
-            "text": "General Manager of the Aluminum Corporation of China Limited",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aluminum Corporation of China Limited"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "28 April 2004"
-          },
-          "term_end4": {
-            "text": "17 February 2009"
-          },
-          "predecessor4": {
-            "text": "Guo Shengkun",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guo Shengkun"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Xiong Weiping",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Xiong Weiping"
-              }
-            ]
-          },
-          "name": {
-            "text": "Xiao Yaqing"
-          },
-          "native_name": {
-            "text": "肖亚庆"
-          },
-          "native_name_lang": {
-            "text": "zh"
-          },
-          "birth_date": {
-            "text": "September 1959 (age 63)"
-          },
-          "birth_place": {
-            "text": "Xinle County, Hebei, China",
-            "links": [
-              {
-                "text": "Xinle County",
-                "type": "internal",
-                "page": "Xinle, Hebei"
-              },
-              {
-                "type": "internal",
-                "page": "Hebei"
-              }
-            ]
-          },
-          "party": {
-            "text": "Communist Party of China",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Communist Party of China"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Central South University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Central South University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "order": "st",
+  "p": "Xiāo Yàqìng"
+}
+{
+  "office1": "Minister of Industry and Information Technology",
+  "term_start1": "11 August 2020",
+  "predecessor1": "Miao Wei",
+  "premier1": "Li Keqiang",
+  "office2": "Director of the State Administration for Market Regulation",
+  "term_start2": "17 May 2019",
+  "term_end2": "12 August 2021",
+  "predecessor2": "Zhang Mao",
+  "successor2": "Zhang Gong",
+  "premier2": "Li Keqiang",
+  "office3": "Director of the State-owned Assets Supervision and Administration Commission",
+  "term_start3": "1 February 2016",
+  "term_end3": "17 May 2019",
+  "predecessor3": "Zhang Yi",
+  "successor3": "Hao Peng",
+  "premier3": "Li Keqiang",
+  "office4": "General Manager of the Aluminum Corporation of China Limited",
+  "term_start4": "28 April 2004",
+  "term_end4": "17 February 2009",
+  "predecessor4": "Guo Shengkun",
+  "successor4": "Xiong Weiping",
+  "name": "Xiao Yaqing",
+  "native_name": "肖亚庆",
+  "native_name_lang": "zh",
+  "birth_date": "September 1959 (age 63)",
+  "birth_place": "Xinle County, Hebei, China",
+  "party": "Communist Party of China",
+  "alma_mater": "Central South University"
 }

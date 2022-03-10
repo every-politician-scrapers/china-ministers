@@ -1,169 +1,18 @@
 {
-  "title": "Chen Xiaojiang",
-  "pageID": 68937366,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "People from Longyou County",
-    "Wuhan University alumni",
-    "People's Republic of China politicians from Zhejiang",
-    "Chinese Communist Party politicians from Zhejiang"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Chen Xiaojiang (born June 1962) is a Chinese editor and politician, currently serving as minister of the State Ethnic Affairs Commission.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "State Ethnic Affairs Commission"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Chen Xiaojiang"
-                ]
-              }
-            },
-            {
-              "text": "Previously he served as deputy director of the National Supervisory Commission, the highest anti-corruption agency of China, and deputy secretary of the Central Commission for Discipline Inspection, the party's internal disciplinary body.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Supervisory Commission"
-                },
-                {
-                  "type": "internal",
-                  "page": "Central Commission for Discipline Inspection"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Chen"
-          ],
-          "lang": "Chinese",
-          "template": "family name hatnote"
-        },
-        {
-          "birth_year": "1962",
-          "birth_month": "06",
-          "template": "birth year and age"
-        },
-        {
-          "list": [
-            "陈",
-            "小",
-            "江"
-          ],
-          "template": "linktext"
-        },
-        {
-          "list": [
-            "陳",
-            "小",
-            "江"
-          ],
-          "template": "linktext"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "order": {
-            "text": "st"
-          },
-          "p": {
-            "text": "Chén Xiǎojiāng"
-          }
-        },
-        {
-          "office1": {
-            "text": "Minister of the State Ethnic Affairs Commission",
-            "links": [
-              {
-                "type": "internal",
-                "page": "State Ethnic Affairs Commission"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 December 2020"
-          },
-          "premier1": {
-            "text": "Li Keqiang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Li Keqiang"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Bagatur",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bagatur"
-              }
-            ]
-          },
-          "name": {
-            "text": "Chen Xiaojiang"
-          },
-          "native_name": {
-            "text": "陈小江"
-          },
-          "native_name_lang": {
-            "text": "zh"
-          },
-          "birth_date": {
-            "text": "June 1962 (age 60)"
-          },
-          "birth_place": {
-            "text": "Longyou County, Zhejiang, China",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Longyou County"
-              },
-              {
-                "type": "internal",
-                "page": "Zhejiang"
-              }
-            ]
-          },
-          "party": {
-            "text": "Communist Party of China",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Communist Party of China"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Wuhan University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wuhan University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "order": "st",
+  "p": "Chén Xiǎojiāng"
+}
+{
+  "office1": "Minister of the State Ethnic Affairs Commission",
+  "term_start1": "26 December 2020",
+  "premier1": "Li Keqiang",
+  "predecessor1": "Bagatur",
+  "name": "Chen Xiaojiang",
+  "native_name": "陈小江",
+  "native_name_lang": "zh",
+  "birth_date": "June 1962 (age 60)",
+  "birth_place": "Longyou County, Zhejiang, China",
+  "party": "Communist Party of China",
+  "alma_mater": "Wuhan University"
 }

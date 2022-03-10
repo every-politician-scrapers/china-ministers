@@ -1,424 +1,46 @@
 {
-  "title": "Han Zheng",
-  "pageID": 760312,
-  "categories": [
-    "1954 births",
-    "Living people",
-    "Fudan University alumni",
-    "East China Normal University alumni",
-    "Vice Premiers of the People's Republic of China",
-    "Mayors of Shanghai",
-    "Chinese Communist Party politicians from Shanghai",
-    "People's Republic of China politicians from Shanghai",
-    "Members of the 19th Politburo Standing Committee of the Chinese Communist Party",
-    "Members of the 18th Politburo of the Chinese Communist Party",
-    "Secretaries of the Communist Party Shanghai Committee"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Han Zheng (born 22 April 1954) is a Chinese politician serving as the Senior Vice Premier of the State Council and Politburo Standing Committee member of the Chinese Communist Party (CCP).",
-              "links": [
-                {
-                  "text": "Vice Premier",
-                  "type": "internal",
-                  "page": "Vice Premier of the People's Republic of China"
-                },
-                {
-                  "text": "State Council",
-                  "type": "internal",
-                  "page": "State Council of the People's Republic of China"
-                },
-                {
-                  "text": "Politburo Standing Committee",
-                  "type": "internal",
-                  "page": "Politburo Standing Committee of the Chinese Communist Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chinese Communist Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Han Zheng"
-                ]
-              }
-            },
-            {
-              "text": "He has also been leader of the Central Leading Group on Hong Kong and Macau Affairs since April 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Central Leading Group on Hong Kong and Macau Affairs"
-                }
-              ]
-            },
-            {
-              "text": "Han served as Mayor of Shanghai between 2003 and 2012.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Shanghai"
-                }
-              ]
-            },
-            {
-              "text": "In November 2012, he was promoted to become the Party Secretary of Shanghai, the top political post in the city, and also gained a seat on the CCP Politburo.",
-              "links": [
-                {
-                  "text": "Party Secretary",
-                  "type": "internal",
-                  "page": "Party Committee Secretary"
-                },
-                {
-                  "text": "CCP Politburo",
-                  "type": "internal",
-                  "page": "Politburo of the Chinese Communist Party"
-                }
-              ]
-            },
-            {
-              "text": "Han was once considered a member of the Shanghai clique, headed by former Party General Secretary Jiang Zemin.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Shanghai clique"
-                },
-                {
-                  "text": "Party General Secretary",
-                  "type": "internal",
-                  "page": "General Secretary of the Chinese Communist Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jiang Zemin"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Chinese politician",
-          "template": "short description"
-        },
-        {
-          "date": "July 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1954",
-          "month": "4",
-          "day": "22",
-          "template": "birth date and age"
-        },
-        {
-          "title": "Leading Groups and Commissions",
-          "titlestyle": "background-color:#FCF;text-align:center;",
-          "list": [
-            "2018-: Leader, Central Leading Group on Hong Kong and Macau Affairs",
-            "2018–: Deputy Leader, Commission on Comprehensively Deepening Reforms"
-          ],
-          "template": "collapsible list"
-        },
-        {
-          "list": [
-            "h",
-            "an",
-            "2",
-            "-",
-            "zh",
-            "eng",
-            "4"
-          ],
-          "template": "ipac-cmn"
-        },
-        {
-          "list": [
-            "Han"
-          ],
-          "template": "efn chinese name"
-        },
-        {
-          "s": "韩正",
-          "p": "Hán Zhèng",
-          "template": "zh"
-        },
-        {
-          "date": "February 2022",
-          "template": "cn"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Han_Zheng_(2018-09-18)_01.jpg"
-          },
-          "caption": {
-            "text": "Han in 2018"
-          },
-          "name": {
-            "text": "Han Zheng"
-          },
-          "native_name": {
-            "text": "韩正"
-          },
-          "native_name_lang": {
-            "text": "zh-Hans-CN"
-          },
-          "office": {
-            "text": "11th First Vice Premier of the People's Republic of China",
-            "links": [
-              {
-                "text": "First Vice Premier of the People's Republic of China",
-                "type": "internal",
-                "page": "Vice Premier of the People's Republic of China"
-              }
-            ]
-          },
-          "premier": {
-            "text": "Li Keqiang",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Li Keqiang"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "19 March 2018"
-          },
-          "predecessor": {
-            "text": "Zhang Gaoli",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Zhang Gaoli"
-              }
-            ]
-          },
-          "order1": {
-            "text": "Communist Party Secretary of Shanghai",
-            "links": [
-              {
-                "text": "Communist Party Secretary",
-                "type": "internal",
-                "page": "Party Committee Secretary"
-              },
-              {
-                "type": "internal",
-                "page": "Shanghai"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "20 November 2012"
-          },
-          "term_end1": {
-            "text": "29 October 2017"
-          },
-          "deputy1": {
-            "text": "Yang Xiong (mayor) Ying Yong (mayor)",
-            "links": [
-              {
-                "text": "Yang Xiong",
-                "type": "internal",
-                "page": "Yang Xiong (politician)"
-              },
-              {
-                "type": "internal",
-                "page": "Ying Yong"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "General Secretary"
-          },
-          "1namedata1": {
-            "text": "Xi Jinping",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Xi Jinping"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Yu Zhengsheng",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Yu Zhengsheng"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Li Qiang",
-            "links": [
-              {
-                "text": "Li Qiang",
-                "type": "internal",
-                "page": "Li Qiang (politician, born 1959)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "24 September 2006"
-          },
-          "term_end2": {
-            "text": "24 March 2007\n(acting)"
-          },
-          "1blankname2": {
-            "text": "General Secretary"
-          },
-          "1namedata2": {
-            "text": "Hu Jintao",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hu Jintao"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Chen Liangyu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chen Liangyu"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Xi Jinping",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Xi Jinping"
-              }
-            ]
-          },
-          "order3": {
-            "text": "20th Mayor of Shanghai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mayor of Shanghai"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "24 March 2003"
-          },
-          "term_end3": {
-            "text": "26 December 2012"
-          },
-          "predecessor3": {
-            "text": "Chen Liangyu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chen Liangyu"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Yang Xiong",
-            "links": [
-              {
-                "text": "Yang Xiong",
-                "type": "internal",
-                "page": "Yang Xiong (politician)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 22, 1954"
-          },
-          "birth_place": {
-            "text": "Shanghai, China",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shanghai"
-              },
-              {
-                "type": "internal",
-                "page": "China"
-              }
-            ]
-          },
-          "party": {
-            "text": "Chinese Communist Party (1979-present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chinese Communist Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Wan Ming (m. 1984)"
-          },
-          "children": {
-            "text": "1",
-            "number": 1
-          },
-          "alma_mater": {
-            "text": "East China Normal University, Fudan University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "East China Normal University"
-              },
-              {
-                "type": "internal",
-                "page": "Fudan University"
-              }
-            ]
-          },
-          "footnotes": {
-            "text": "Leading Groups and Commissions\n\n2018-: Leader, Central Leading Group on Hong Kong and Macau Affairs\n\n2018–: Deputy Leader, Commission on Comprehensively Deepening Reforms",
-            "formatting": {
-              "bold": [
-                "Leading Groups and Commissions"
-              ]
-            }
-          }
-        },
-        {
-          "pic": {
-            "text": "Han Zheng (Chinese characters).svg"
-          },
-          "piccap": {
-            "text": "\"Han Zheng\" in Simplified (top) and Traditional (bottom) Chinese characters"
-          },
-          "picupright": {
-            "text": "0.35",
-            "number": 0.35
-          },
-          "s": {
-            "text": "韩正"
-          },
-          "t": {
-            "text": "韓正"
-          },
-          "p": {
-            "text": "Hán Zhèng"
-          },
-          "order": {
-            "text": "st"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Han_Zheng_(2018-09-18)_01.jpg",
+  "caption": "Han in 2018",
+  "name": "Han Zheng",
+  "native_name": "韩正",
+  "native_name_lang": "zh-Hans-CN",
+  "office": "11th First Vice Premier of the People's Republic of China",
+  "premier": "Li Keqiang",
+  "term_start": "19 March 2018",
+  "predecessor": "Zhang Gaoli",
+  "order1": "Communist Party Secretary of Shanghai",
+  "term_start1": "20 November 2012",
+  "term_end1": "29 October 2017",
+  "deputy1": "Yang Xiong (mayor) Ying Yong (mayor)",
+  "1blankname1": "General Secretary",
+  "1namedata1": "Xi Jinping",
+  "predecessor1": "Yu Zhengsheng",
+  "successor1": "Li Qiang",
+  "term_start2": "24 September 2006",
+  "term_end2": "24 March 2007\n(acting)",
+  "1blankname2": "General Secretary",
+  "1namedata2": "Hu Jintao",
+  "predecessor2": "Chen Liangyu",
+  "successor2": "Xi Jinping",
+  "order3": "20th Mayor of Shanghai",
+  "term_start3": "24 March 2003",
+  "term_end3": "26 December 2012",
+  "predecessor3": "Chen Liangyu",
+  "successor3": "Yang Xiong",
+  "birth_date": "April 22, 1954",
+  "birth_place": "Shanghai, China",
+  "party": "Chinese Communist Party (1979-present)",
+  "spouse": "Wan Ming (m. 1984)",
+  "children": "1",
+  "alma_mater": "East China Normal University, Fudan University",
+  "footnotes": "Leading Groups and Commissions\n\n2018-: Leader, Central Leading Group on Hong Kong and Macau Affairs\n\n2018–: Deputy Leader, Commission on Comprehensively Deepening Reforms"
+}
+{
+  "pic": "Han Zheng (Chinese characters).svg",
+  "piccap": "\"Han Zheng\" in Simplified (top) and Traditional (bottom) Chinese characters",
+  "picupright": "0.35",
+  "s": "韩正",
+  "t": "韓正",
+  "p": "Hán Zhèng",
+  "order": "st"
 }
