@@ -2,13 +2,14 @@
   "honorific-prefix": "Police Commissioner General",
   "name": "Chen Wenqing",
   "native_name": "陈文清",
+  "office": "Minister of State Security",
+  "leader": "Xi Jinping",
+  "premier": "Li Keqiang",
+  "termstart": "7 November 2016",
+  "predecessor": "Geng Huichang",
   "birth_date": "January 24, 1960",
   "nationality": "Chinese",
   "party": "Chinese Communist Party",
   "alma_mater": "Southwest University of Political Science & Law",
-  "office": "Minister of State Security",
-  "termstart": "7 November 2016",
-  "predecessor": "Geng Huichang",
-  "birth_place": "Renshou County, Sichuan, China",
-  "leader": "Xi Jinping"
+  "birth_place": "Renshou County, Sichuan, China"
 }
