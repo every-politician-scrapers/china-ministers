@@ -1,0 +1,34 @@
+{
+  "child": "yes",
+  "fields": "Geology"
+}
+{
+  "name": "Ding Zhongli",
+  "native_name": "丁仲礼",
+  "native_name_lang": "zh-hans",
+  "image": "Ding Zhongli2021.jpg",
+  "office": "Vice Chairperson of the National People's Congress",
+  "term_start": "March 2018",
+  "1blankname": "Chairman",
+  "1namedata": "Li Zhanshu",
+  "office1": "Chairperson of the China Democratic League",
+  "term_start1": "December 2017",
+  "predecessor1": "Zhang Baowen",
+  "office2": "President of the University of the Chinese Academy of Sciences",
+  "term_start2": "April 2014",
+  "term_end2": "May 2018",
+  "predecessor2": "Bai Chunli",
+  "successor2": "Li Shushen",
+  "office3": "Vice President of the Chinese Academy of Sciences",
+  "term_start3": "January 2008",
+  "term_end3": "May 2020",
+  "1blankname3": "President",
+  "1namedata3": "Lu Yongxiang\nBai Chunli",
+  "office4": "Executive director of the European and American Students Association",
+  "term_start4": "January 2021",
+  "predecessor4": "Chen Zhu",
+  "birth_date": "August 17, 1953",
+  "birth_place": "Shengzhou, Shaoxing, Zhejiang",
+  "party": "China Democratic League",
+  "alma_mater": "Zhejiang University"
+}
