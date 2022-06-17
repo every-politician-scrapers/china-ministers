@@ -6,7 +6,7 @@ require 'pry'
 
 class OfficeholderNonTable < OfficeholderListBase::OfficeholderBase
   def empty?
-    false
+    too_early?
   end
 
   def combo_date?
