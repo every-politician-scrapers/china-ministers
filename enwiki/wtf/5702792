@@ -1,0 +1,330 @@
+{
+  "title": "Qiangba Puncog",
+  "pageID": 5702792,
+  "categories": [
+    "1947 births",
+    "Living people",
+    "People's Republic of China politicians from Tibet",
+    "Tibetan politicians",
+    "Chinese Communist Party politicians from Tibet",
+    "Vice Chairpersons of the National People's Congress",
+    "People from Chamdo",
+    "Political office-holders in Tibet"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Qiangba Puncog, also spelled Champa Phuntsok (born in May 1947) was the chairman of the government of Tibet Autonomous Region of China from 2003 until January 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tibet Autonomous Region"
+                },
+                {
+                  "type": "internal",
+                  "page": "China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Qiangba Puncog",
+                  "Champa Phuntsok"
+                ]
+              }
+            },
+            {
+              "text": "He is of Tibetan ethnicity.",
+              "links": [
+                {
+                  "text": "Tibetan",
+                  "type": "internal",
+                  "page": "Tibetan people"
+                }
+              ]
+            },
+            {
+              "text": "He was most visible in public during the 2008 Tibetan unrest, receiving diplomats and journalists.",
+              "links": [
+                {
+                  "text": "2008 Tibetan unrest",
+                  "type": "internal",
+                  "page": "2008 Tibetan unrest"
+                }
+              ]
+            },
+            {
+              "text": "Qiangba Puncog resigned as chairman on January 12, 2010, and subsequently began serving as chairman of the Standing Committee of the People's Congress of the Tibet Autonomous Region."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "བྱམས་པ་ཕུན་ཚོགས"
+          ],
+          "template": "bo-textonly"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": 1947,
+            "month": 5,
+            "date": 1
+          }
+        },
+        {
+          "t": "བྱམས་པ་ཕུན་ཚོགས་",
+          "w": "byams pa phun tshogs",
+          "template": "bo"
+        },
+        {
+          "c": "向巴平措",
+          "p": "Xiàngbā Píngcuò",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Qiangba Puncog"
+          },
+          "native_name": {
+            "text": "向巴平措"
+          },
+          "image": {
+            "text": "Qiangba Puncong.jpg"
+          },
+          "imagesize": {
+            "text": "150px"
+          },
+          "caption": {
+            "text": "Qiangba Puncog at the\n2010 National People's Congress",
+            "links": [
+              {
+                "text": "2010 National People's Congress",
+                "type": "internal",
+                "page": "2010 National People's Congress"
+              }
+            ]
+          },
+          "office": {
+            "text": "Chairman of the Standing Committee\nof the People's Congress\nof the Tibet Autonomous Region"
+          },
+          "term_start": {
+            "text": "15 January 2010"
+          },
+          "term_end": {
+            "text": "2013",
+            "number": 2013
+          },
+          "predecessor": {
+            "text": "Legqog",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legqog"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Padma Choling",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Padma Choling"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chairman of the Tibet Autonomous Region People's Government",
+            "links": [
+              {
+                "text": "Chairman of the Tibet Autonomous Region People's Government",
+                "type": "internal",
+                "page": "List of Chairmen of the Tibet Autonomous Region"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "April 2004"
+          },
+          "term_end1": {
+            "text": "15 January 2010"
+          },
+          "predecessor1": {
+            "text": "Legqog",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Legqog"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Padma Choling",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Padma Choling"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 1947"
+          },
+          "birth_place": {
+            "text": "Chamdo, Tibet",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chamdo"
+              },
+              {
+                "text": "Tibet",
+                "type": "internal",
+                "page": "Tibet (1912-1951)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chinese",
+            "links": [
+              {
+                "text": "Chinese",
+                "type": "internal",
+                "page": "Nationality law of the People's Republic of China"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Chongqing University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chongqing University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Who's Who in China's Leadership: Qiangba Puncog",
+          "publisher": "China Internet Information Center (www.china.org.cn)",
+          "url": "http://www.china.org.cn/english/MATERIAL/56213.htm",
+          "access-date": "2010-02-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Qiangba Puncog's statement at press conference",
+          "newspaper": "China Daily",
+          "date": "10 April 2008",
+          "url": "http://www.chinadaily.com.cn/china/2008-04/10/content_6606879.htm",
+          "access-date": "2010-02-04",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Qiangba Puncog was born in Chamdo, Tibet in May 1947.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chamdo"
+                },
+                {
+                  "text": "Tibet",
+                  "type": "internal",
+                  "page": "Tibet (1912-1951)"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from Chongqing University, and he joined in the Communist Party of China in 1974.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chongqing University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Communist Party of China"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-par"
+        },
+        {
+          "before": "Legqog",
+          "title": "Chairman of the Standing Committee of the Tibet Autonomous Region People's Congress",
+          "years": "2010–2013",
+          "after": "Padma Choling",
+          "template": "succession box"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Legqog",
+          "title": "Chairman of Tibet Autonomous Region People's Government",
+          "years": "2003–2010",
+          "after": "Padma Choling",
+          "template": "succession box"
+        },
+        {
+          "template": "npcsc vice-chairpersons"
+        },
+        {
+          "template": "tibet autonomous region leaders"
+        },
+        {
+          "template": "tibet-bio-stub"
+        }
+      ]
+    }
+  ]
+}

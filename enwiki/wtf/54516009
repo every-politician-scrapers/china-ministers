@@ -1,0 +1,552 @@
+{
+  "title": "Huai Jinpeng",
+  "pageID": 54516009,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Beihang University alumni",
+    "Beihang University faculty",
+    "Presidents of Beihang University",
+    "Chinese computer scientists",
+    "Harbin Institute of Technology alumni",
+    "Jilin University alumni",
+    "Members of the 19th Central Committee of the Chinese Communist Party",
+    "Members of the Chinese Academy of Sciences",
+    "Politicians from Harbin",
+    "Political office-holders in Tianjin",
+    "Scientists from Heilongjiang",
+    "Columbia University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Huai Jinpeng (born December 1962) is a Chinese computer scientist and politician.",
+              "formatting": {
+                "bold": [
+                  "Huai Jinpeng"
+                ]
+              }
+            },
+            {
+              "text": "He is the current party secretary of the China Association for Science and Technology (CAST) and an academician of the Chinese Academy of Sciences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "China Association for Science and Technology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chinese Academy of Sciences"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Huai"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1962",
+          "month": "12",
+          "day": "20",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "怀",
+            "进",
+            "鹏"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "懷",
+            "進",
+            "鵬"
+          ],
+          "template": "linktext"
+        },
+        {
+          "s": "怀进鹏",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "order": {
+            "text": "st"
+          },
+          "p": {
+            "text": "Huái Jìnpéng"
+          }
+        },
+        {
+          "office1": {
+            "text": "Minister of Education of the People's Republic of China",
+            "links": [
+              {
+                "text": "Minister of Education of the People's Republic of China",
+                "type": "internal",
+                "page": "Ministry of Education of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "20 August 2021"
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Chen Baosheng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Baosheng"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Party Branch Secretary of the China Association for Science and Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "China Association for Science and Technology"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "September 2017"
+          },
+          "term_end2": {
+            "text": "July 2021"
+          },
+          "predecessor2": {
+            "text": "Shang Yong"
+          },
+          "successor2": {
+            "text": "Zhang Yuzhuo"
+          },
+          "1blankname2": {
+            "text": "Chairman"
+          },
+          "1namedata2": {
+            "text": "Wan Gang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wan Gang"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Deputy Communist Party Secretary of Tianjin"
+          },
+          "term_start3": {
+            "text": "December 2016"
+          },
+          "term_end3": {
+            "text": "September 2017"
+          },
+          "predecessor3": {
+            "text": "Wang Dongfeng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wang Dongfeng"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Yin Hejun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yin Hejun"
+              }
+            ]
+          },
+          "1blankname3": {
+            "text": "Communist Party Secretary"
+          },
+          "1namedata3": {
+            "text": "Li Hongzhong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Hongzhong"
+              }
+            ]
+          },
+          "office4": {
+            "text": "President of Beihang University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beihang University"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "May 2009"
+          },
+          "term_end4": {
+            "text": "March 2015"
+          },
+          "predecessor4": {
+            "text": "Li Wei",
+            "links": [
+              {
+                "text": "Li Wei",
+                "type": "internal",
+                "page": "Li Wei (computer scientist)"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Xu Huibin"
+          },
+          "name": {
+            "text": "Huai Jinpeng"
+          },
+          "native_name": {
+            "text": "怀进鹏"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "December 20, 1962"
+          },
+          "birth_place": {
+            "text": "Harbin, Heilongjiang, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Harbin"
+              },
+              {
+                "type": "internal",
+                "page": "Heilongjiang"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "education": {
+            "text": "Jilin University Harbin Institute of Technology Columbia University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jilin University"
+              },
+              {
+                "type": "internal",
+                "page": "Harbin Institute of Technology"
+              },
+              {
+                "type": "internal",
+                "page": "Columbia University"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Huai was born in Harbin but traces his ancestry to Jinan, Shandong province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Harbin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jinan"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from Jilin University of Industry (now merged into Jilin University) in 1984.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jilin University"
+                }
+              ]
+            },
+            {
+              "text": "He joined the Chinese Communist Party in January 1986, and began work in September 1987 after obtaining a computer science master's degree at the Harbin Institute of Technology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Harbin Institute of Technology"
+                }
+              ]
+            },
+            {
+              "text": "In November 1993, he earned a doctorate from Beihang University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beihang University"
+                }
+              ]
+            },
+            {
+              "text": "He also attended Columbia University as a visiting scholar between 1995 and 1996.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Columbia University"
+                }
+              ]
+            },
+            {
+              "text": "In December 2000, he was named deputy party chief and vice president of Beihang University."
+            },
+            {
+              "text": "In May 2009, he was promoted to president of the university, obtaining vice-minister level rank."
+            },
+            {
+              "text": "In 2009 he was elected as a member of the Chinese Academy of Science.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chinese Academy of Science"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2015, Huai was named Deputy Minister of Information Technology."
+            },
+            {
+              "text": "In December 2016, Huai was named deputy party chief of Tianjin."
+            },
+            {
+              "text": "In September 2017, Huai was transferred to become party secretary of the China Association for Science and Technology (CAST).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "China Association for Science and Technology"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 August 2021, he was appointed Minister of Education.",
+              "links": [
+                {
+                  "text": "Minister of Education",
+                  "type": "internal",
+                  "page": "Ministry of Education of the People's Republic of China"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Huai is a deputy to the 12th National People's Congress and a member of the 19th Central Committee of the Chinese Communist Party.",
+              "links": [
+                {
+                  "text": "12th National People's Congress",
+                  "type": "internal",
+                  "page": "12th National People's Congress"
+                },
+                {
+                  "text": "19th Central Committee of the Chinese Communist Party",
+                  "type": "internal",
+                  "page": "19th Central Committee of the Chinese Communist Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-08-03",
+          "title": "China names top computer scientist as head of education ministry",
+          "url": "https://www.scmp.com/news/china/politics/article/3143557/china-names-top-computer-scientist-head-education-ministry",
+          "access-date": "2021-08-20",
+          "website": "South China Morning Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "怀进鹏已任教育部党组书记，曾任中国科协党组书记、北航校长_工作",
+          "url": "http://www.sohu.com/a/480899594_114988",
+          "access-date": "2021-08-20",
+          "website": "www.sohu.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "script-title": "zh:中共中央批准：怀进鹏任天津市委副书记",
+          "url": "http://www.thepaper.cn/newsDetail_forward_1578733",
+          "accessdate": "2016-12-12",
+          "newspaper": "thepaper.cn",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author1": "Wu Xiaodong ({{lang|zh|武晓东}})",
+          "url": "https://news.sina.com.cn/c/2021-08-20/doc-ikqciyzm2531795.shtml",
+          "script-title": "zh:怀进鹏任教育部部长！创了十八大以来的一个首例",
+          "work": "sina",
+          "date": "20 August 2021",
+          "access-date": "20 August 2021",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "script-title": "zh:全国人大代表信息-怀进鹏",
+          "url": "http://www.npc.gov.cn/delegate/viewDelegate.action?dbid=2008120034",
+          "accessdate": "2013-03-06",
+          "newspaper": "npc.gov.cn",
+          "archive-url": "https://web.archive.org/web/20161220125244/http://www.npc.gov.cn/delegate/viewDelegate.action?dbid=2008120034",
+          "archive-date": "2016-12-20",
+          "url-status": "dead",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-edu"
+        },
+        {
+          "before": "Li Wei",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Beihang University",
+          "years": "2009–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Xu Huibin",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Wang Dongfeng",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Party Secretary of Tianjin",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Yin Hejun",
+          "template": "s-aft"
+        },
+        {
+          "before": "Shang Yong",
+          "template": "s-bef"
+        },
+        {
+          "title": "Party Branch Secretary of the China Association for Science and Technology",
+          "years": "2017–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Zhang Yuzhuo",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Chen Baosheng",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Education of the People's Republic of China",
+          "years": "2021-",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "ministers of education of the people's republic of china"
+        },
+        {
+          "template": "13th state council of china"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

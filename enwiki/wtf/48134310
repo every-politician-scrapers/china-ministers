@@ -1,0 +1,400 @@
+{
+  "title": "Chen Wenqing",
+  "pageID": 48134310,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Ministers of State Security of the People's Republic of China",
+    "Chinese Communist Party politicians from Sichuan",
+    "People's Republic of China politicians from Sichuan",
+    "Politicians from Meishan"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chen Wenqing (born 24 January 1960) is a Chinese politician, Minister of State Security of the People's Republic of China since November 2016.",
+              "links": [
+                {
+                  "text": "Minister of State Security",
+                  "type": "internal",
+                  "page": "Ministry of State Security (China)"
+                },
+                {
+                  "text": "People's Republic of China",
+                  "type": "internal",
+                  "page": "China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chen Wenqing"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "January 2019",
+          "topic": "bio",
+          "template": "expand-zh"
+        },
+        {
+          "list": [
+            "Chen"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1960",
+          "month": "01",
+          "day": "24",
+          "template": "birth date and age"
+        },
+        {
+          "s": "陈文清",
+          "p": "Chēn Wénqīng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Police Commissioner General",
+            "links": [
+              {
+                "text": "Police Commissioner General",
+                "type": "internal",
+                "page": ":zh:总警监"
+              }
+            ]
+          },
+          "name": {
+            "text": "Chen Wenqing"
+          },
+          "native_name": {
+            "text": "陈文清"
+          },
+          "office": {
+            "text": "Minister of State Security",
+            "links": [
+              {
+                "text": "Minister of State Security",
+                "type": "internal",
+                "page": "Ministry of State Security (China)"
+              }
+            ]
+          },
+          "president": {
+            "text": "Xi Jinping",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xi Jinping"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "7 November 2016"
+          },
+          "predecessor": {
+            "text": "Geng Huichang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Geng Huichang"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 24, 1960"
+          },
+          "nationality": {
+            "text": "Chinese"
+          },
+          "party": {
+            "text": "Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Southwest University of Political Science & Law",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Southwest University of Political Science & Law"
+              }
+            ]
+          },
+          "birth_place": {
+            "text": "Renshou County, Sichuan, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Renshou County"
+              },
+              {
+                "type": "internal",
+                "page": "Sichuan"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.ifeng.com/a/20161107/50215867_0.shtml",
+          "title": "全国人大任命陈文清为国家安全部部长",
+          "publisher": "Xinhua",
+          "access-date": "2016-11-07",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A native of Renshou, a rural farming and coal-mining district in Sichuan, Chen's childhood was influenced by the onset of the Cultural Revolution and the rise of the Red Guards movement.",
+              "links": [
+                {
+                  "text": "Renshou",
+                  "type": "internal",
+                  "page": "Renshou County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sichuan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cultural Revolution"
+                },
+                {
+                  "type": "internal",
+                  "page": "Red Guards"
+                }
+              ]
+            },
+            {
+              "text": "His father was a police officer at the Sichuan branch of the Ministry of Public Security (MPS), and for 20 years in a row, starting in 1951, the elder Chen was also awarded recognition as a Sichuan Province \"progressive worker\" by the Chinese Communist Party authorities.",
+              "links": [
+                {
+                  "text": "police officer",
+                  "type": "internal",
+                  "page": "People's Police of the People's Republic of China"
+                },
+                {
+                  "text": "Ministry of Public Security",
+                  "type": "internal",
+                  "page": "Ministry of Public Security (China)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chinese Communist Party"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "progressive worker"
+                ]
+              }
+            },
+            {
+              "text": "There are no records publicly available about the elder Chen's role (if any) in the Cultural Revolution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cultural Revolution"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Brazil",
+          "first": "Matthew",
+          "title": "China’s Top Spy is a Working Class Hero",
+          "url": "https://www.spytalk.co/p/chinas-top-spy-is-a-working-class",
+          "access-date": "2021-07-19",
+          "website": "www.spytalk.co",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chen Wenqing studied Law and Political Science at Southwest University in Chongqing, and, following his father, entered the Ministry of Public Security in 1984, where he worked for ten years; in 1988, he was decorated for bravery for his role in the capture of two armed criminals.",
+              "links": [
+                {
+                  "text": "Southwest University",
+                  "type": "internal",
+                  "page": "Southwest University of Political Science & Law"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chongqing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1994, Chen was assigned to the Ministry of State Security (MSS), becoming Deputy Director at the Sichuan provincial state security department.",
+              "links": [
+                {
+                  "text": "Ministry of State Security",
+                  "type": "internal",
+                  "page": "Ministry of State Security (China)"
+                }
+              ]
+            },
+            {
+              "text": "In 1998 Chen took over leadership of the state security department in Sichuan."
+            },
+            {
+              "text": "He held this position until 2002, when he was appointed Chief Prosecutor at the Sichuan provincial People's Procuratorate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Procuratorate"
+                }
+              ]
+            },
+            {
+              "text": "In 2006, Chen moved over to Fujian, where he served until 2012 as Deputy Party Secretary and concurrently head of the provincial Central Commission for Discipline Inspection (CCDI).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fujian"
+                },
+                {
+                  "type": "internal",
+                  "page": "Central Commission for Discipline Inspection"
+                }
+              ]
+            },
+            {
+              "text": "Following the 18th National Congress of the Chinese Communist Party at which Xi Jinping became the General Secretary of the Chinese Communist Party, Chen went to Beijing to become one of the deputy secretaries of the CCDI.",
+              "links": [
+                {
+                  "text": "18th National Congress of the Chinese Communist Party",
+                  "type": "internal",
+                  "page": "18th National Congress of the Chinese Communist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Xi Jinping"
+                },
+                {
+                  "type": "internal",
+                  "page": "General Secretary of the Chinese Communist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Beijing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed Party Secretary of the MSS in October 2016 and Minister in November.",
+              "links": [
+                {
+                  "text": "Party Secretary",
+                  "type": "internal",
+                  "page": "Chinese Communist Party Committee Secretary"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Geng Huichang",
+          "title": "Minister of State Security",
+          "years": "2016–",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "template": "ministers of state security of the people's republic of china"
+        },
+        {
+          "template": "12th state council"
+        },
+        {
+          "template": "13th state council"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

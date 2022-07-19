@@ -1,0 +1,558 @@
+{
+  "title": "Tang Yijun",
+  "pageID": 54414573,
+  "categories": [
+    "1961 births",
+    "Alternate members of the 19th Central Committee of the Chinese Communist Party",
+    "Chinese Communist Party politicians from Shandong",
+    "People's Republic of China politicians from Shandong",
+    "Governors of Liaoning",
+    "Living people",
+    "Mayors of Ningbo",
+    "Ministers of Justice of the People's Republic of China"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tang Yijun (born March 1961) is a Chinese politician, and the current Minister of Justice.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice of the People's Republic of China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tang Yijun"
+                ]
+              }
+            },
+            {
+              "text": "He formerly served as Governor of northeast China's Liaoning province.",
+              "links": [
+                {
+                  "text": "northeast China",
+                  "type": "internal",
+                  "page": "northeast China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liaoning"
+                }
+              ]
+            },
+            {
+              "text": "Prior to his transfer to Liaoning in October 2017, he spent his entire career in Zhejiang province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zhejiang"
+                }
+              ]
+            },
+            {
+              "text": "He was the mayor, then party chief of Ningbo."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Tang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1961",
+          "birth_month": "3",
+          "template": "birth year and age"
+        },
+        {
+          "list": [
+            "唐",
+            "一",
+            "军"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "唐",
+            "一",
+            "軍"
+          ],
+          "template": "linktext"
+        },
+        {
+          "s": "唐一军",
+          "p": "Táng Yījūn",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "p": {
+            "text": "Táng Yījūn"
+          }
+        },
+        {
+          "name": {
+            "text": "Tang Yijun"
+          },
+          "native_name": {
+            "text": "唐一军"
+          },
+          "office1": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 April 2020"
+          },
+          "predecessor1": {
+            "text": "Fu Zhenghua",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fu Zhenghua"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Prime Minister"
+          },
+          "1namedata1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Liaoning",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "Politics of Liaoning"
+              },
+              {
+                "type": "internal",
+                "page": "Liaoning"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "October 2017"
+          },
+          "term_end2": {
+            "text": "April 2020"
+          },
+          "predecessor2": {
+            "text": "Chen Qiufa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Qiufa"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Liu Ning",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liu Ning"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Deputy Party Secretary of Zhejiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhejiang"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "May 2017"
+          },
+          "term_end3": {
+            "text": "October 2017"
+          },
+          "predecessor3": {
+            "text": "Yuan Jiajun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yuan Jiajun"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Zheng Shanjie"
+          },
+          "office4": {
+            "text": "Party Secretary of Ningbo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ningbo"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "August 2016"
+          },
+          "term_end4": {
+            "text": "October 2017"
+          },
+          "predecessor4": {
+            "text": "Liu Qi",
+            "links": [
+              {
+                "text": "Liu Qi",
+                "type": "internal",
+                "page": "Liu Qi (politician, born 1957)"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Zheng Shanjie"
+          },
+          "office5": {
+            "text": "Mayor of Ningbo"
+          },
+          "term_start5": {
+            "text": "May 2016"
+          },
+          "term_end5": {
+            "text": "February 2017"
+          },
+          "predecessor5": {
+            "text": "Lu Ziyue",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lu Ziyue"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Qiu Dongyao"
+          },
+          "birth_date": {
+            "text": "March 1961 (age 61)"
+          },
+          "birth_place": {
+            "text": "Ju County, Shandong, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ju County"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Central Party School of the Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central Party School of the Chinese Communist Party"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tang is considered native to Ju County, Shandong, but spent most of his life in Zhejiang.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ju County"
+                }
+              ]
+            },
+            {
+              "text": "He joined the workforce in July 1977, working for communes in Qingtian County, Yongkang County, and Lishui County, shortly after the death of Mao.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Qingtian County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yongkang County"
+                },
+                {
+                  "text": "Lishui County",
+                  "type": "internal",
+                  "page": "Liandu District"
+                }
+              ]
+            },
+            {
+              "text": "Between 1980 and 1984, shortly after economic reforms began, Tang was a clerical worker at the Lishui party school; he was admitted to the Zhejiang party school in 1984, and was assigned work in the propaganda department of Zhejiang."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 1985, Tang joined the Chinese Communist Party."
+            },
+            {
+              "text": "In 1991, Tang began working for the General Office of the Zhejiang party committee under Li Zemin.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Li Zemin"
+                }
+              ]
+            },
+            {
+              "text": "In July 1997, he became secretary-general of the Zhoushan party organization.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zhoushan"
+                }
+              ]
+            },
+            {
+              "text": "In June 2002, he was named secretary-general of the Zhejiang Commission for Discipline Inspection."
+            },
+            {
+              "text": "In June 2005, he was named deputy party chief and Discipline Inspection secretary of Ningbo."
+            },
+            {
+              "text": "In February 2010, he became the chief of the Political and Legal Affairs Commission of Ningbo."
+            },
+            {
+              "text": "In February 2011, he was named chairman of the Ningbo People's Political Consultative Conference."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2016, Tang was named mayor of Ningbo."
+            },
+            {
+              "text": "In August 2016, he became Communist Party Secretary of Ningbo and a member of the Zhejiang provincial party standing committee.",
+              "links": [
+                {
+                  "text": "provincial party standing committee",
+                  "type": "internal",
+                  "page": "provincial party standing committee"
+                }
+              ]
+            },
+            {
+              "text": "In May 2017, Tang was named deputy party chief of Zhejiang province."
+            },
+            {
+              "text": "He served in the role for five months before being appointed as acting governor of Liaoning in October 2017."
+            },
+            {
+              "text": "On April 29, 2020, he was appointed Minister of Justice, replacing Fu Zhenghua.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice of the People's Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fu Zhenghua"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "script-title": "zh:唐一军任宁波市代市长",
+          "language": "zh",
+          "url": "http://news.ifeng.com/a/20160506/48698326_0.shtml",
+          "website": "ifeng.com",
+          "date": "May 6, 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.thepaper.cn/newsDetail_forward_1518921",
+          "script-title": "zh:从宁波政协主席到代市长再到市委书记，唐一军罕见身挑三职",
+          "language": "zh",
+          "newspaper": "The Paper",
+          "via": "thepaper.cn",
+          "access-date": "2016-08-24",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://district.ce.cn/newarea/sddy/201705/03/t20170503_22500476.shtml",
+          "language": "zh",
+          "script-title": "zh:唐一军任浙江省委副书记(简历)",
+          "website": "ce.cn",
+          "date": "May 3, 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Zhong Yuhao ({{lang|zh|钟煜豪}})",
+          "url": "https://www.thepaper.cn/newsDetail_forward_7197047",
+          "script-title": "zh:司法部新任部长唐一军已任部党组副书记，还身兼多职",
+          "newspaper": "The Paper",
+          "via": "thepaper.cn",
+          "date": "29 April 2020",
+          "access-date": "29 April 2020",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "script-title": "zh:中国领导干部资料库：唐一军",
+          "language": "zh",
+          "url": "http://gbzl.people.com.cn/grzy.php?id=160500001",
+          "website": "people.com.cn",
+          "access-date": "July 10, 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "-"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Fu Zhenghua",
+          "template": "s-before"
+        },
+        {
+          "title": "Minister of Justice",
+          "years": "2020–",
+          "template": "s-title"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Chen Qiufa",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Liaoning",
+          "years": "2017–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Liu Ning",
+          "template": "s-after"
+        },
+        {
+          "before": "Lu Ziyue",
+          "template": "s-before"
+        },
+        {
+          "title": "Mayor of Ningbo",
+          "years": "2016–2017",
+          "template": "s-title"
+        },
+        {
+          "after": "Qiu Dongyao (裘东耀)",
+          "template": "s-after"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Yuan Jiajun",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Party Secretary of Zhejiang Province",
+          "years": "2017-2017",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "after": "Zheng Zhajie",
+          "template": "s-aft"
+        },
+        {
+          "before": "Liu Qi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Communist Party Secretary of Ningbo City",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "template": "13th state council"
+        },
+        {
+          "template": "ministers of justice of the people's republic of china"
+        },
+        {
+          "template": "liaoning leaders"
+        }
+      ]
+    }
+  ]
+}

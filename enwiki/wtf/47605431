@@ -1,0 +1,623 @@
+{
+  "title": "Li Zuocheng",
+  "pageID": 47605431,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "People's Liberation Army generals from Hunan",
+    "People from Yiyang",
+    "Commanders of the Chengdu Military Region",
+    "Chiefs of Staff of the Guangzhou Military Region",
+    "Members of the 19th Central Committee of the Chinese Communist Party"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Li Zuocheng (born October 1953) is a general of the People's Liberation Army (PLA) of China, currently serving as the chief of the Joint Staff Department of the Central Military Commission.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Liberation Army"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joint Staff Department of the Central Military Commission"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Li Zuocheng"
+                ]
+              }
+            },
+            {
+              "text": "Between 2015 and 2017, he served as the inaugural Commander of the PLA Ground Force.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "PLA Ground Force"
+                }
+              ]
+            },
+            {
+              "text": "A veteran of the Sino-Vietnamese War, he served in southern China for most of his career and was commander of the Chengdu Military Region between 2013 and 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sino-Vietnamese War"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chengdu Military Region"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese general",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Li"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1953",
+          "birth_month": "10",
+          "template": "birth year and age"
+        },
+        {
+          "c": "李作成",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "Jiang (rank)"
+              }
+            ]
+          },
+          "name": {
+            "text": "Li Zuocheng"
+          },
+          "native_name": {
+            "text": "李作成"
+          },
+          "native_name_lang": {
+            "text": "zh-cn"
+          },
+          "image": {
+            "text": "China’s Central Military Commission Gen. Li Zuocheng.jpg"
+          },
+          "office": {
+            "text": "Chief of the CMC Joint Staff Department",
+            "links": [
+              {
+                "text": "CMC Joint Staff Department",
+                "type": "internal",
+                "page": "Joint Staff Department of the Central Military Commission"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "August 2017"
+          },
+          "1blankname": {
+            "text": "CMC Chairman"
+          },
+          "1namedata": {
+            "text": "Xi Jinping",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xi Jinping"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Fang Fenghui",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fang Fenghui"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Commander of the PLA Ground Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PLA Ground Force"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 2016"
+          },
+          "term_end1": {
+            "text": "August 2017"
+          },
+          "predecessor1": {
+            "text": "Position created"
+          },
+          "successor1": {
+            "text": "Han Weiguo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Han Weiguo"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Commander of Chengdu Military Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chengdu Military Region"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "August 2013"
+          },
+          "term_end2": {
+            "text": "January 2016"
+          },
+          "predecessor2": {
+            "text": "Li Shiming",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Shiming"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Position abolished"
+          },
+          "birth_date": {
+            "text": "October 1953 (age 69)"
+          },
+          "birth_place": {
+            "text": "Anhua County, Hunan, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anhua County"
+              },
+              {
+                "type": "internal",
+                "page": "Hunan"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇨🇳 China",
+            "links": [
+              {
+                "text": "China",
+                "type": "internal",
+                "page": "china"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Ground Force Flag of the People's Republic of China.svg PLA Ground Force",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PLA Ground Force"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1970−present"
+          },
+          "rank": {
+            "text": "PLAGeneral r.png General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "Jiang (rank)"
+              }
+            ]
+          },
+          "commands": {
+            "text": "CMC Joint Staff Department,\nPLA Ground Force,\nChengdu Military Region,\n41st Group Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "CMC Joint Staff Department"
+              },
+              {
+                "type": "internal",
+                "page": "PLA Ground Force"
+              },
+              {
+                "type": "internal",
+                "page": "Chengdu Military Region"
+              },
+              {
+                "text": "41st Group Army",
+                "type": "internal",
+                "page": "41st Group Army"
+              }
+            ]
+          },
+          "battles": {
+            "text": "Sino-Vietnamese War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sino-Vietnamese War"
+              }
+            ]
+          },
+          "awards": {
+            "text": "Merit of the First Class"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://english.cntv.cn/2016/01/02/ARTI1451700400567827.shtml",
+          "title": "China inaugurates PLA Rocket Force as military reform deepens",
+          "date": "2 January 2016",
+          "publisher": "CCTV",
+          "author": "Zhang Jianfeng",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Li Zuocheng was born in October 1953 in Anhua County, Hunan Province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anhua County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hunan"
+                }
+              ]
+            },
+            {
+              "text": "He joined the PLA in 1970 at the age of 17."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1978, Li fought in the Sino-Vietnamese War as a company commander in the Guangxi Military District.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sino-Vietnamese War"
+                },
+                {
+                  "text": "company",
+                  "type": "internal",
+                  "page": "Company (military unit)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guangxi"
+                }
+              ]
+            },
+            {
+              "text": "His unit fought a lengthy engagement with the Vietnamese army that lasted 26 days."
+            },
+            {
+              "text": "He was injured in battle."
+            },
+            {
+              "text": "His unit was named by the Central Military Commission and awarded merit of the first class.",
+              "links": [
+                {
+                  "text": "Central Military Commission",
+                  "type": "internal",
+                  "page": "Central Military Commission (China)"
+                }
+              ]
+            },
+            {
+              "text": "In 1982, Li was selected to sit in the Presidium (主席团) of the 12th National Congress of the Chinese Communist Party at age 29.",
+              "links": [
+                {
+                  "text": "12th National Congress",
+                  "type": "internal",
+                  "page": "12th National Congress of the Chinese Communist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chinese Communist Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Li Zuocheng became a division commander by 1994."
+            },
+            {
+              "text": "His division helped in relief efforts of the Guangxi floods in the summer of 1994, and the entire division was awarded merit of the second class."
+            },
+            {
+              "text": "He was promoted to the rank of major general in 1997."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1998, 45-year-old Li Zuocheng succeeded Ou Jingu (欧金谷) as Commander of the 41st Group Army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ou Jingu"
+                },
+                {
+                  "text": "41st Group Army",
+                  "type": "internal",
+                  "page": "41st Group Army"
+                }
+              ]
+            },
+            {
+              "text": "He commanded the 41st Army in the relief efforts of the great Yangtze floods of that year.",
+              "links": [
+                {
+                  "text": "great Yangtze floods",
+                  "type": "internal",
+                  "page": "1998 China floods"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Li was appointed Deputy Chief of Staff of the Guangzhou Military Region in 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Guangzhou Military Region"
+                }
+              ]
+            },
+            {
+              "text": "Even though this was technically a lateral move, the transfer was seen as a 'sidelining' of Li, because he was no longer serving on the frontline of command."
+            },
+            {
+              "text": "In December 2007, he was transferred to the Chengdu Military Region and became its Deputy Commander.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chengdu Military Region"
+                }
+              ]
+            },
+            {
+              "text": "He attained the rank of lieutenant general in 2009."
+            },
+            {
+              "text": "In August 2013, he was promoted to Commander of the Chengdu Military Region, replacing the retiring general Li Shiming.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Li Shiming"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 31 July 2015, Li Zuocheng was promoted to general (shang jiang), alongside nine other officers by Central Military Commission chairman Xi Jinping.",
+              "links": [
+                {
+                  "text": "shang jiang",
+                  "type": "internal",
+                  "page": "shang jiang"
+                },
+                {
+                  "text": "chairman",
+                  "type": "internal",
+                  "page": "Chairman of the Central Military Commission (China)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Xi Jinping"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "shang jiang"
+                ]
+              }
+            },
+            {
+              "text": "After the PLA's re-organization in late 2015, Li was named the inaugural commander of the People's Liberation Army Ground Force.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Liberation Army Ground Force"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2017, Li was named by Xi Jinping Chief of the Joint Staff Department of the Central Military Commission.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Joint Staff Department of the Central Military Commission"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 30 May 2020, as the twin national security legislation for Hong Kong and National Anthem Bill for Hong Kong affairs startled the world, Li Zuocheng said that the Chinese government would \"resolutely smash\" any separatist moves by Taiwan.",
+              "links": [
+                {
+                  "text": "national security legislation for Hong Kong",
+                  "type": "internal",
+                  "page": "National People's Congress decision on Hong Kong national security legislation"
+                },
+                {
+                  "text": "National Anthem Bill for Hong Kong",
+                  "type": "internal",
+                  "page": "National Anthem Bill"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chinese government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taiwan"
+                }
+              ]
+            },
+            {
+              "text": "He spoke at the 15th anniversary of the Anti-Secession Law that gives the PLA a legal basis to take military action against China’s dissentient.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anti-Secession Law"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.xinhuanet.com/english/2015-07/31/c_134469023.htm",
+          "archive-url": "https://web.archive.org/web/20150731212423/http://news.xinhuanet.com/english/2015-07/31/c_134469023.htm",
+          "url-status": "dead",
+          "archive-date": "July 31, 2015",
+          "title": "China promotes 10 officers to general",
+          "date": "2015-07-31",
+          "agency": "Xinhua",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://news.sina.com.cn/c/nd/2016-01-01/doc-ifxneept3518879.shtml",
+          "title": "李作成出任解放军陆军司令员 刘雷任陆军政委",
+          "website": "Sina",
+          "access-date": "2016-01-01",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://renwuku.news.ifeng.com/index/detail/231/lizuocheng",
+          "title": "Li Zuocheng",
+          "publisher": "Phoenix New Media",
+          "date": "27 August 2013",
+          "language": "zh",
+          "access-date": "23 August 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "6 August 2013",
+          "script-title": "zh:李作成升任成都军区司令员",
+          "language": "zh",
+          "trans-title": "Li Zuocheng promoted to Commander of the Chengdu Military Region",
+          "website": "Caixin",
+          "url": "http://china.caixin.com/2013-08-06/100565903.html",
+          "access-date": "23 August 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.thepaper.cn/newsDetail_forward_1775796",
+          "title": "中央军委联合参谋部参谋长李作成会见巴基斯坦陆军参谋长",
+          "date": "2017-08-26",
+          "website": "Thepaper.cn",
+          "language": "zh",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Chinese general says Beijing will 'resolutely smash' any separatist moves by Taiwan",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3086775/chinese-general-says-beijing-will-resolutely-smash-any",
+          "publisher": "South China Morning Post",
+          "date": "30 May 2020",
+          "author": "Minnie Chan",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "-"
+        },
+        {
+          "template": "generals of the people's republic of china in active service"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

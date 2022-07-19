@@ -1,0 +1,105 @@
+{
+  "title": "Chen Changzhi",
+  "pageID": 25603204,
+  "categories": [
+    "1945 births",
+    "Living people",
+    "People's Republic of China politicians from Hubei",
+    "Politicians from Xiaogan",
+    "Members of the China National Democratic Construction Association",
+    "Vice Chairpersons of the National People's Congress"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chen Changzhi (born July 1945 in Hubei Province ) is the chairman of the China Democratic National Construction Association, a legally recognized non-Communist political party in China, and one of the Vice Chairmen of the Standing Committee of the National People's Congress of the People's Republic of China, having served in this capacity since 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hubei"
+                },
+                {
+                  "type": "internal",
+                  "page": "China Democratic National Construction Association"
+                },
+                {
+                  "type": "internal",
+                  "page": "Standing Committee of the National People's Congress"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Republic of China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chen Changzhi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Chen_Changzhi.JPG",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chen_Changzhi.JPG?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chen_Changzhi.JPG",
+          "caption": "Chen Changzhi",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Chen"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "c": "陈昌智",
+          "template": "zh"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.xinhuanet.com/ziliao/2007-12/20/content_7284329.htm",
+          "title": "Archived copy",
+          "accessdate": "2009-12-30",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20100804055925/http://news.xinhuanet.com/ziliao/2007-12/20/content_7284329.htm",
+          "archivedate": "2010-08-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "npcsc vice-chairpersons"
+        },
+        {
+          "template": "china-politician-stub"
+        }
+      ]
+    }
+  ]
+}

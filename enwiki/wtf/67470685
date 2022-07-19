@@ -1,0 +1,83 @@
+{
+  "title": "Zhang Baowen",
+  "pageID": 67470685,
+  "categories": [
+    "1946 births",
+    "Vice Chairpersons of the National People's Congress",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zhang Baowen (November, 1946 – ) is a Chinese male politician, who served as the vice chairperson of the Standing Committee of the National People's Congress.",
+              "formatting": {
+                "bold": [
+                  "Zhang Baowen"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "zh",
+          "otherarticle": "张宝文",
+          "date": "April 2021",
+          "template": "expand language"
+        },
+        {
+          "s": "张宝文",
+          "template": "zh"
+        }
+      ],
+      "references": [
+        {
+          "title": "中华人民共和国职官志",
+          "author": "何虎生, 李耀东, 向常福主编",
+          "publisher": "中国社会出版社",
+          "year": "2003",
+          "isbn": "9787800883934",
+          "location": "北京",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "张宝文",
+          "url": "http://npc.people.com.cn/GB/28320/359131/359315/",
+          "accessdate": "2021-04-22",
+          "work": "人民网",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "npcsc vice-chairpersons"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "china-politician-stub"
+        }
+      ]
+    }
+  ]
+}

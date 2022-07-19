@@ -1,0 +1,1263 @@
+{
+  "title": "Wang Yi (politician)",
+  "pageID": 18211536,
+  "categories": [
+    "Foreign Ministers of the People's Republic of China",
+    "State councillors of China",
+    "1953 births",
+    "Living people",
+    "Ambassadors of China to Japan",
+    "Beijing International Studies University people",
+    "20th-century Chinese politicians",
+    "21st-century Chinese politicians",
+    "Members of the 19th Central Committee of the Chinese Communist Party",
+    "Members of the 18th Central Committee of the Chinese Communist Party",
+    "Members of the 17th Central Committee of the Chinese Communist Party"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wang Yi (born 19 October 1953) is a senior Chinese diplomat and politician currently serving as the Foreign Minister since 2013 and State Councilor since 2018.",
+              "links": [
+                {
+                  "text": "Foreign Minister",
+                  "type": "internal",
+                  "page": "Foreign Minister of the People's Republic of China"
+                },
+                {
+                  "text": "State Councilor",
+                  "type": "internal",
+                  "page": "State councillor"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wang Yi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese diplomat and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "王毅"
+          ],
+          "date": "May 2022",
+          "topic": "gov",
+          "template": "expand chinese"
+        },
+        {
+          "date": "July 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Wang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1953",
+          "month": "10",
+          "day": "19",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Beijing International Studies University",
+            "China Foreign Affairs University",
+            "Georgetown University"
+          ],
+          "template": "ubl"
+        },
+        {
+          "c": "王毅",
+          "p": "Wáng Yì",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wang Yi"
+          },
+          "native_name": {
+            "text": "王毅"
+          },
+          "native_name_lang": {
+            "text": "zh-Hans-CN"
+          },
+          "image": {
+            "text": "Wang Yi Japan 2019.jpg"
+          },
+          "caption": {
+            "text": "Wang in November 2019"
+          },
+          "office": {
+            "text": "State Councilor of the People's Republic of China",
+            "links": [
+              {
+                "text": "State Councilor of the People's Republic of China",
+                "type": "internal",
+                "page": "State councillor"
+              }
+            ]
+          },
+          "premier": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 March 2018"
+          },
+          "office1": {
+            "text": "11th Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "Foreign Minister of the People's Republic of China"
+              }
+            ]
+          },
+          "deputy1": {
+            "text": "Le Yucheng"
+          },
+          "1blankname1": {
+            "text": "Party Secretary"
+          },
+          "1namedata1": {
+            "text": "Zhang Yesui\nQi Yu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhang Yesui"
+              },
+              {
+                "type": "internal",
+                "page": "Qi Yu"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "16 March 2013"
+          },
+          "predecessor1": {
+            "text": "Yang Jiechi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yang Jiechi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "8th Director of the Taiwan Affairs Office",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taiwan Affairs Office"
+              }
+            ]
+          },
+          "premier2": {
+            "text": "Wen Jiabao",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wen Jiabao"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 June 2008"
+          },
+          "term_end2": {
+            "text": "16 March 2013"
+          },
+          "predecessor2": {
+            "text": "Chen Yunlin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Yunlin"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Zhang Zhijun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhang Zhijun"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Chinese Ambassador to Japan",
+            "links": [
+              {
+                "text": "Chinese Ambassador to Japan",
+                "type": "internal",
+                "page": "List of ambassadors of China to Japan"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "26 September 2004"
+          },
+          "term_end3": {
+            "text": "24 September 2007"
+          },
+          "predecessor3": {
+            "text": "Wu Dawei",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wu Dawei"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Cui Tiankai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cui Tiankai"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 19, 1953"
+          },
+          "birth_place": {
+            "text": "Beijing, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beijing"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party (1981–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Beijing International Studies University\n\nChina Foreign Affairs University\n\nGeorgetown University"
+          },
+          "website": {
+            "text": "www.gov.cn/wangyi"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Minister",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/wjb_663304/wjbz_663308/",
+          "access-date": "2022-05-27",
+          "website": "fmprc.gov.cn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Foreign Minister Wang Yi",
+          "date": "5 April 2018",
+          "url": "https://www.uschina.org/foreign-minister-wang-yi",
+          "publisher": "The US-China Business Council",
+          "accessdate": "18 April 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wang was born in Beijing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beijing"
+                }
+              ]
+            },
+            {
+              "text": "After graduating from high school in September 1969, he was sent to Northeast China."
+            },
+            {
+              "text": "He subsequently served in the Northeast Construction Army Corps in Heilongjiang Province for eight years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Heilongjiang Province"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 1977, Wang returned to Beijing, and in the same year was enrolled in the department of Asian and African Languages of Beijing International Studies University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beijing International Studies University"
+                }
+              ]
+            },
+            {
+              "text": "He studied the Japanese language at the institution, graduating in February 1982 with a bachelor's degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Japanese language"
+                }
+              ]
+            },
+            {
+              "text": "He is known to speak fluent English and Japanese."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Ford",
+          "first1": "Peter",
+          "title": "The new face of Chinese diplomacy: Who is Wang Yi?",
+          "url": "https://www.csmonitor.com/World/Asia-Pacific/2013/0318/The-new-face-of-Chinese-diplomacy-Who-is-Wang-Yi",
+          "access-date": "14 May 2020",
+          "work": "The Christian Science Monitor",
+          "date": "18 March 2013",
+          "location": "Beijing",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Early career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Upon graduation from university, Wang was sent to the Asian section of the Ministry of Foreign Affairs by his father-in-law, where he began his career as a diplomat."
+            },
+            {
+              "text": "In September 1989, he was sent to the Chinese embassy in Japan and served there for five years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                }
+              ]
+            },
+            {
+              "text": "When he returned to China in March 1994, Wang was appointed as vice section chief of the Asian section of the foreign ministry and was promoted to section chief the next year."
+            },
+            {
+              "text": "From August 1997 to February 1998, Wang was a visiting scholar at the Institute of Foreign Relations of Georgetown University in the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Georgetown University"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            },
+            {
+              "text": "Soon after his return, he was promoted to assistant minister and the director of office of policy research."
+            },
+            {
+              "text": "From September 1999, Wang studied international relations at China Foreign Affairs University and obtained a doctoral degree.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "China Foreign Affairs University"
+                }
+              ]
+            },
+            {
+              "text": "In February 2001, Wang was elevated to Deputy Minister of Foreign Affairs, in charge of Asian affairs."
+            },
+            {
+              "text": "He was then the youngest Deputy Minister."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2004, Wang was appointed as China's Ambassador to Japan."
+            },
+            {
+              "text": "He served in this post until September 2007."
+            },
+            {
+              "text": "In June 2008, Wang succeeded Chen Yunlin as the director of Taiwan Affairs Office of the State Council of China.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chen Yunlin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taiwan Affairs Office"
+                },
+                {
+                  "text": "State Council",
+                  "type": "internal",
+                  "page": "State Council of the People's Republic of China"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.chinavitae.com/biography/Wang_Yi%7C416",
+          "title": "Biography of Wang Yi",
+          "publisher": "China Vitae",
+          "access-date": "28 December 2010",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Minister of Foreign Affairs",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Secretary_Michael_R._Pompeo_shakes_hands_with_Chinese_Foreign_Minister_Wang_Yi_(42918097385).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Michael_R._Pompeo_shakes_hands_with_Chinese_Foreign_Minister_Wang_Yi_(42918097385).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Michael_R._Pompeo_shakes_hands_with_Chinese_Foreign_Minister_Wang_Yi_(42918097385).jpg",
+          "caption": "Wang with US Secretary of State Mike Pompeo in 2018",
+          "links": []
+        }
+      ]
+    },
+    {
+      "title": "Appointment",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 16 March 2013, Wang was appointed Minister of Foreign Affairs after he was approved by the Congress."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "China People's Congress approves new cabinet",
+          "url": "https://www.bbc.co.uk/news/world-asia-china-21812057",
+          "access-date": "16 March 2013",
+          "publisher": "BBC",
+          "date": "16 March 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Middle East mediation",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wang initiated a significant state visit to the Middle East in December 2013 to visit Israel and Palestine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Middle East"
+                },
+                {
+                  "type": "internal",
+                  "page": "Israel"
+                },
+                {
+                  "text": "Palestine",
+                  "type": "internal",
+                  "page": "State of Palestine"
+                }
+              ]
+            },
+            {
+              "text": "He discussed with leaders of both countries the importance of the nuclear agreement with Iran and the importance of the continued peace talks, saying \"War does not solve the problems. Violence increases the hatred. The peace talks are the appropriate and the only path\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iran"
+                }
+              ]
+            },
+            {
+              "text": "In November 2017, he expressed 3 points (counter-terrorism, negotiation and reconstruction) to improve Syria's situation.",
+              "links": [
+                {
+                  "text": "counter-terrorism",
+                  "type": "internal",
+                  "page": "counter-terrorism"
+                },
+                {
+                  "text": "negotiation",
+                  "type": "internal",
+                  "page": "negotiation"
+                },
+                {
+                  "text": "reconstruction",
+                  "type": "internal",
+                  "page": "Reconstruction (architecture)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Syria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wang criticized the speed and timing of withdrawal of the American-led NATO forces from Afghanistan and urged them to withdraw in a \"responsible and orderly manner\".",
+              "links": [
+                {
+                  "text": "withdrawal",
+                  "type": "internal",
+                  "page": "Withdrawal of United States troops from Afghanistan (2020–2021)"
+                },
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                },
+                {
+                  "type": "internal",
+                  "page": "Afghanistan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "China FM: Iran deal 'first step' toward settling nuclear issue",
+          "url": "https://www.timesofisrael.com/china-fm-iran-deal-first-step-toward-settling-nuclear-issue/",
+          "access-date": "14 May 2020",
+          "work": "The Times of Israel",
+          "date": "19 December 2013",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Wang Yi: Counter-terrorism, dialogue and reconstruction are three key points for solving Syrian issue at new stage",
+          "url": "http://www.china-embassy.org/eng/zgyw/t1514519.htm",
+          "website": "Embassy of the People's Republic of China in the United States of America",
+          "access-date": "9 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.voanews.com/south-central-asia/china-collective-efforts-required-contain-afghan-insecurity-spillover",
+          "title": "China: Collective Efforts Required to Contain Afghan Insecurity 'Spillover' &#124; Voice of America - English",
+          "website": "voanews.com",
+          "archive-date": "18 July 2021",
+          "archive-url": "https://web.archive.org/web/20210718055453/https://www.voanews.com/south-central-asia/china-collective-efforts-required-contain-afghan-insecurity-spillover",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "China-Somalia Summit",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In June 2014, during the China-Arab summit in Beijing, Foreign Minister Wang met his Somali counterpart Abdirahman Duale Beyle to discuss bilateral cooperation between China and Somalia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdirahman Duale Beyle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Somalia"
+                }
+              ]
+            },
+            {
+              "text": "The meeting was held at the Chinese foreign ministry center and focused on trade, security and reconstruction."
+            },
+            {
+              "text": "Among the issues discussed were the various Chinese development projects that are in the process of being implemented in Somalia."
+            },
+            {
+              "text": "Beyle also indicated that the Chinese authorities are slated to broaden their support for Somalia, which would serve to create new employment opportunities."
+            },
+            {
+              "text": "Additionally, Wang commended the Somali federal government on its peace-building efforts."
+            },
+            {
+              "text": "He likewise reaffirmed the historically close diplomatic ties between both territories, recalling China's recognition of the nascent Somali Republic in 1960 and Somalia's subsequent campaigning which helped the PRC government attain a position on the United Nations Security Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Somali Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations Security Council"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Wang_with_Brazilian_President_Jair_Bolsonaro_in_2019.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wang_with_Brazilian_President_Jair_Bolsonaro_in_2019.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wang_with_Brazilian_President_Jair_Bolsonaro_in_2019.jpg",
+          "caption": "Wang with Brazilian President Jair Bolsonaro, Brasília, 25 July 2019",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "title": "Foreign affairs minister meets his Chinese counterpart",
+          "url": "http://goobjoog.com/en/index.php?option=com_content&view=article&id=2652:foreign-affairs-minister-meets-his-chinese-counterpart&catid=124:local-news&Itemid=653",
+          "archive-url": "https://web.archive.org/web/20140607005429/http://goobjoog.com/en/index.php?option=com_content&view=article&id=2652:foreign-affairs-minister-meets-his-chinese-counterpart&catid=124:local-news&Itemid=653",
+          "url-status": "dead",
+          "archive-date": "7 June 2014",
+          "access-date": "6 June 2014",
+          "work": "Goobjoog",
+          "date": "6 June 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "East Asia",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On the evening of 15 April 2018, Wang was received by his Japanese counterpart Taro Kono, on the first such official visit of a Foreign Minister of China to Japan since November 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taro Kono"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "China foreign minister Wang Yi visits Japan for talks on North Korea, regional issues",
+          "url": "https://www.straitstimes.com/asia/east-asia/china-foreign-minister-wang-yi-visits-japan-for-talks-on-north-korea-regional-issues",
+          "access-date": "14 May 2020",
+          "work": "The Straits Times",
+          "agency": "AFP",
+          "date": "15 April 2018",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Canadian journalist incident",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During a joint news conference in Ottawa on 1 June 2016, with Canadian Minister of Foreign Affairs Stéphane Dion, Wang responded to Canadian reporter Amanda Connolly of online news site IPolitics over a question she raised regarding human rights in China, saying \"Your question was full of prejudice against China and an arrogance that comes from I don’t know where. This is totally unacceptable to me\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ottawa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Canadian Minister of Foreign Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stéphane Dion"
+                },
+                {
+                  "text": "human rights in China",
+                  "type": "internal",
+                  "page": "human rights in China"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Vladimir_Putin_with_Wang_Yi_(2018-04-05)_02.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_with_Wang_Yi_(2018-04-05)_02.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vladimir_Putin_with_Wang_Yi_(2018-04-05)_02.jpg",
+          "caption": "Wang with Russian President Vladimir Putin in 2018",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "last1": "Buckley",
+          "first1": "Chris",
+          "title": "China's Foreign Minister Castigates Canadian Reporter for Rights Question",
+          "url": "https://www.nytimes.com/2016/06/03/world/asia/canada-china-wang-yi.html",
+          "access-date": "14 May 2020",
+          "work": "The New York Times",
+          "date": "2 June 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "China berates Canadian reporter",
+          "url": "https://edition.cnn.com/2016/06/02/asia/china-canada-wang-yi-journalist/index.html",
+          "access-date": "14 May 2020",
+          "publisher": "CNN",
+          "date": "2 June 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/law/2016/jun/02/chinese-foreign-minister-canada-angry-human-rights-question",
+          "title": "Chinese minister vents anger when Canadian reporter asks about human rights",
+          "first1": "Ashifa",
+          "last1": "Kassam",
+          "first2": "Tom",
+          "last2": "Phillips",
+          "location": "Beijing",
+          "date": "2 June 2016",
+          "work": "The Guardian",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Xinjiang internment camps",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wang Yi said the world should ignore \"gossip\" about Xinjiang internment camps.",
+              "links": [
+                {
+                  "text": "gossip",
+                  "type": "internal",
+                  "page": "gossip"
+                },
+                {
+                  "type": "internal",
+                  "page": "Xinjiang internment camps"
+                }
+              ]
+            },
+            {
+              "text": "In March 2021, Wang said that \"We welcome more people to visit Xinjiang - seeing is believing. This is the best way to debunk rumours.\""
+            },
+            {
+              "text": "However, journalists from the BBC have reported being followed by unmarked cars, and being chased out of restaurants and shops, and being forced to delete footage while trying to report from Xinjiang.",
+              "links": [
+                {
+                  "text": "BBC",
+                  "type": "internal",
+                  "page": "BBC News"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Uyghur genocide"
+          ],
+          "template": "further"
+        }
+      ],
+      "references": [
+        {
+          "title": "Academics condemn China over Xinjiang camps, urge sanctions",
+          "url": "https://www.aljazeera.com/news/2018/11/academics-condemn-china-xinjiang-camps-urge-sanctions-181127015605193.html",
+          "publisher": "Al Jazeera",
+          "date": "27 November 2018",
+          "access-date": "14 May 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-01-15",
+          "title": "China's pressure and propaganda - the reality of reporting Xinjiang",
+          "language": "en-GB",
+          "publisher": "BBC News",
+          "url": "https://www.bbc.com/news/world-asia-china-55666153",
+          "access-date": "2021-03-16",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "'Only Chinese people have a say in China's affairs' - RTHK",
+          "url": "https://news.rthk.hk/rthk/en/component/k2/1579244-20210307.htm?",
+          "access-date": "2021-03-16",
+          "website": "news.rthk.hk",
+          "language": "en-gb",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "COVID-19",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It was reported that during Wang's visit in Norway in August 2020, he said that while China was the first country to report the existence of the virus to the World Health Organization, \"it does not mean that the virus originated in China. Actually, for the past months, we have seen reports ... showing that the virus emerged in different parts of the world, and may have emerged earlier than in China.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Wang_Yi_and_Mohammad_Javad_Zarif_at_the_Ministry_of_Foreign_Affairs_of_Iran_2021-03-27.jpeg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wang_Yi_and_Mohammad_Javad_Zarif_at_the_Ministry_of_Foreign_Affairs_of_Iran_2021-03-27.jpeg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wang_Yi_and_Mohammad_Javad_Zarif_at_the_Ministry_of_Foreign_Affairs_of_Iran_2021-03-27.jpeg",
+          "caption": "Wang and Iranian Foreign Minister Mohammad Javad Zarif signed a 25-year strategic cooperation agreement on 27 March 2021",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "last1": "Fouche",
+          "first1": "Gwladys",
+          "title": "Senior Chinese diplomat Wang Yi casts doubt on coronavirus originating in China",
+          "url": "https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313",
+          "agency": "Reuters",
+          "date": "27 August 2020",
+          "access-date": "28 August 2020",
+          "archive-url": "https://web.archive.org/web/20200828211156/https://www.reuters.com/article/us-health-coronavirus-china-norway/senior-chinese-diplomat-wang-yi-casts-doubt-on-coronavirus-originating-in-china-idUSKBN25N313",
+          "archive-date": "28 August 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "US sanctions",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 22 February 2021, Wang Yi urged the administration of US President Joe Biden to lift the sanctions on trade and people-to-people contact imposed by his predecessor, Donald Trump.",
+              "links": [
+                {
+                  "text": "administration",
+                  "type": "internal",
+                  "page": "Presidency of Joe Biden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Joe Biden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Donald Trump"
+                }
+              ]
+            },
+            {
+              "text": "At the Foreign Ministry forum on US-China relations, he said that the US \"must not interfere in the internal affairs of China\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "US-China relations"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://apnews.com/article/joe-biden-donald-trump-beijing-global-trade-tibet-a9038d1fea6606a3d52e96a12a9e4ca2",
+          "title": "China urges US to lift trade restrictions, stop interference",
+          "access-date": "22 February 2021",
+          "website": "Associated Press",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In March 2021, Wang supported the decision to have only \"patriots\" rule Hong Kong, stating that \"loving Hong Kong and loving the motherland are consistent requirements...in the past 24 years since Hong Kong's [handover], no one has cared more about the [SAR's] democracy, prosperity and stability than the central government.\""
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2019–2020 Hong Kong protests"
+          ],
+          "template": "see also"
+        }
+      ]
+    },
+    {
+      "title": "State Councilor",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In March 2018, Wang was appointed as a State Councilor."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.scmp.com/news/china/diplomacy-defence/article/2137769/china-promotes-foreign-minister-wang-yi-state",
+          "title": "China promotes foreign minister Wang Yi to state councillor, General Wei Fenghe named defence minister",
+          "work": "South China Morning Post",
+          "first": "Teddy",
+          "last": "Ng",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Diplomatic relations",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During Wang's current Foreign Ministry leadership he has facilitated obtaining the diplomatic recognition of China by Panama in 2017 as well as getting the Dominican Republic and El Salvador to switch over in recognizing China (People's Republic of China) instead of Taiwan (Republic of China) in 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Panama"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dominican Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "El Salvador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Taiwan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.theguardian.com/world/2018/aug/21/taiwan-further-isolated-as-el-salvador-switches-allegiance-to-china",
+          "title": "Taiwan vows to stand up to China after El Salvador cuts ties",
+          "last": "Kuo",
+          "first": "Lily",
+          "date": "21 August 2018",
+          "work": "The Guardian",
+          "language": "en",
+          "access-date": "21 August 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.smh.com.au/world/asia/taiwan-angry-as-china-snatches-ally-away-20180501-p4zcoy.html",
+          "title": "Taiwan angry as China snatches ally away",
+          "last": "Yu",
+          "first": "Jess Macy",
+          "date": "1 May 2018",
+          "work": "The Sydney Morning Herald",
+          "language": "en",
+          "access-date": "2 May 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.nytimes.com/2018/05/01/world/asia/taiwan-dominican-republic-recognize.html",
+          "title": "Taiwan's Diplomatic Isolation Increases as Dominican Republic Recognizes China",
+          "last": "Ramzy",
+          "first": "Austin",
+          "date": "1 May 2018",
+          "work": "The New York Times",
+          "access-date": "2 May 2018",
+          "language": "en",
+          "issn": "0362-4331",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Internet celebrity",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In July 2016, Wang became an internet celebrity on the Chinese micro-blog Sina Weibo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sina Weibo"
+                }
+              ]
+            },
+            {
+              "text": "A fan club on Weibo devoted to Wang has more than 130,000 followers in a country of over 1,400,000,000 people."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.buzzfeed.com/beimengfu/these-diplomats-are-now-basically-pop-stars-and-its-super-we",
+          "title": "People Are Super Thirsty Over This Diplomat And It's Kinda Weird",
+          "website": "BuzzFeed",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "-"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of foreign ministers in 2017",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of foreign ministers in 2017"
+              }
+            ]
+          },
+          {
+            "text": "List of current foreign ministers",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of current foreign ministers"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "list": [
+            "Wang Yi"
+          ],
+          "template": "wikiquote"
+        },
+        {
+          "list": [
+            "http://www.gov.cn/guowuyuan/wangyi/index.htm"
+          ],
+          "template": "official website"
+        },
+        {
+          "list": [
+            "77528"
+          ],
+          "template": "c-span"
+        },
+        {
+          "template": "-"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Yang Jiechi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Foreign Affairs",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Wu Dawei",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chinese Ambassador to Japan",
+          "years": "2004–2007",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Cui Tiankai",
+          "template": "s-aft"
+        },
+        {
+          "template": "state councillors"
+        },
+        {
+          "template": "13th state council"
+        },
+        {
+          "template": "12th state council"
+        },
+        {
+          "template": "foreign ministers of the people's republic of china"
+        },
+        {
+          "template": "unsc permanent members-foreign"
+        },
+        {
+          "template": "g20-foreign"
+        },
+        {
+          "template": "apec foreign ministers"
+        },
+        {
+          "template": "ambassadors of china to japan"
+        }
+      ]
+    }
+  ]
+}

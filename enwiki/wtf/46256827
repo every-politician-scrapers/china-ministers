@@ -1,0 +1,600 @@
+{
+  "title": "Chen Jining",
+  "pageID": 46256827,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Alumni of Brunel University London",
+    "Alumni of Imperial College London",
+    "Biologists from Liaoning",
+    "Chinese civil engineers",
+    "Chinese ecologists",
+    "Chinese Communist Party politicians from Liaoning",
+    "Educators from Liaoning",
+    "Engineering academics",
+    "Engineers from Liaoning",
+    "Environmental engineers",
+    "Mayors of Beijing",
+    "Members of the 19th Central Committee of the Chinese Communist Party",
+    "Members of the Standing Committee of the 12th National People's Congress",
+    "Ministers of Environmental Protection of the People's Republic of China",
+    "People from Gaizhou",
+    "People's Republic of China politicians from Liaoning",
+    "Politicians from Yingkou",
+    "Political office-holders in Beijing",
+    "Presidents of Tsinghua University",
+    "Tsinghua University alumni",
+    "Tsinghua University faculty",
+    "Recipients of the Olympic Order"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chen Jining (born 4 February 1964) is a Chinese academic and politician.",
+              "formatting": {
+                "bold": [
+                  "Chen Jining"
+                ]
+              }
+            },
+            {
+              "text": "He is the current Mayor of Beijing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beijing"
+                }
+              ]
+            },
+            {
+              "text": "An environmental engineer by profession, Chen served as the President of Tsinghua University from 2012 to 2015 and Minister of Environmental Protection between 2015 and 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Tsinghua University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese academic and politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Chen Jiming"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "list": [
+            "Chen"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1964",
+          "month": "2",
+          "day": "4",
+          "template": "birth date and age"
+        },
+        {
+          "s": "陈吉宁",
+          "t": "陳吉寧",
+          "p": "Chén Jíníng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Chen Jining (cropped).jpg"
+          },
+          "caption": {
+            "text": "Chen in 2015"
+          },
+          "office1": {
+            "text": "Mayor of Beijing",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Beijing"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "27 May 2017"
+          },
+          "predecessor1": {
+            "text": "Cai Qi"
+          },
+          "1blankname1": {
+            "text": "Party Secretary"
+          },
+          "1namedata1": {
+            "text": "Cai Qi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cai Qi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Environmental Protection",
+            "links": [
+              {
+                "text": "Minister of Environmental Protection",
+                "type": "internal",
+                "page": "Ministry of Environmental Protection of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 February 2015"
+          },
+          "term_end2": {
+            "text": "27 June 2017"
+          },
+          "predecessor2": {
+            "text": "Zhou Shengxian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhou Shengxian"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Li Ganjie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Ganjie"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "office3": {
+            "text": "President of Tsinghua University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of Tsinghua University"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "20 February 2012"
+          },
+          "term_end3": {
+            "text": "28 January 2015"
+          },
+          "predecessor3": {
+            "text": "Gu Binglin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gu Binglin"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Qiu Yong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qiu Yong"
+              }
+            ]
+          },
+          "name": {
+            "text": "Chen Jining"
+          },
+          "native_name": {
+            "text": "陈吉宁"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "February 4, 1964"
+          },
+          "birth_place": {
+            "text": "Gaizhou, Liaoning, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gaizhou"
+              },
+              {
+                "type": "internal",
+                "page": "Liaoning"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Academic, environmental engineer, ecologist, politician"
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tsinghua University Brunel University London Imperial College London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tsinghua University"
+              },
+              {
+                "type": "internal",
+                "page": "Brunel University London"
+              },
+              {
+                "type": "internal",
+                "page": "Imperial College London"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.tsinghua.edu.cn/publish/newsen/6054/2012/20120221094051432728980/20120221094051432728980_.html",
+          "title": "State Council Appoints Dr. Chen Jining President Tsinghua University",
+          "publisher": "Tsinghua University",
+          "date": "2012-02-21",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20150402092951/http://news.tsinghua.edu.cn/publish/newsen/6054/2012/20120221094051432728980/20120221094051432728980_.html",
+          "archive-date": "2015-04-02",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Bo Zhiyue",
+          "url": "https://thediplomat.com/2015/03/chinas-new-environmental-minister-a-rising-star/",
+          "title": "China's New Environmental Minister: A Rising Star",
+          "newspaper": "The Diplomat",
+          "date": "2015-03-04",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chen was born and raised in Gaizhou, Liaoning, with his ancestral home in Lishu County, Jilin.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gaizhou"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liaoning"
+                },
+                {
+                  "text": "ancestral home",
+                  "type": "internal",
+                  "page": "Ancestral home (Chinese)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lishu County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jilin"
+                }
+              ]
+            },
+            {
+              "text": "In 1981, he attended Tsinghua University, where he graduated with a BSc degree in environmental engineering in 1986.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tsinghua University"
+                },
+                {
+                  "text": "BSc",
+                  "type": "internal",
+                  "page": "Bachelor of Science"
+                }
+              ]
+            },
+            {
+              "text": "Chen was then educated at Brunel University London, and next at Imperial College London where he earned a PhD degree in civil and environmental engineering in 1993.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brunel University London"
+                },
+                {
+                  "type": "internal",
+                  "page": "Imperial College London"
+                },
+                {
+                  "text": "PhD",
+                  "type": "internal",
+                  "page": "Doctor of Philosophy"
+                }
+              ]
+            },
+            {
+              "text": "After graduation he worked as a research assistant at Imperial College London until 1998."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.chinapictorial.com.cn/en/people/txt/2015-05/07/content_686613.htm",
+          "title": "Chen Jining: Environmental Protector",
+          "work": "China Pictorial",
+          "access-date": "30 October 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In March 1998 he became the Deputy Director of the Environmental Engineering Department of Tsinghua University, rising to Director the next year."
+            },
+            {
+              "text": "In February 2006 he was Vice-President of Tsinghua University, a year later, he was promoted to become the Executive Vice-President."
+            },
+            {
+              "text": "He concurrently served as Dean of the Graduate School of Tsinghua University from January 2010 to February 2012, Dean of the Graduate School at Shenzhen, Tsinghua University between January 2010 to July 2011."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2012, Chen was appointed the President of Tsinghua University, he remained in that position until January 2015, when he was appointed Minister of Environmental Protection, People's Republic of China.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Tsinghua University"
+                },
+                {
+                  "text": "Environmental Protection, People's Republic of China",
+                  "type": "internal",
+                  "page": "Ministry of Environmental Protection of the People's Republic of China"
+                }
+              ]
+            },
+            {
+              "text": "At the time of his appointment, he was the youngest member of Li Keqiang's cabinet."
+            },
+            {
+              "text": "In 2015, he was also a member of the judging panel for the Queen Elizabeth Prize for Engineering.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen Elizabeth Prize for Engineering"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2017, Chen was appointed acting Mayor of Beijing, becoming the 17th person to hold the office since the founding of the People's Republic of China."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Chen was a deputy to the 12th National People's Congress.",
+              "links": [
+                {
+                  "text": "12th National People's Congress",
+                  "type": "internal",
+                  "page": "12th National People's Congress"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was awarded the Silver Olympic Order after the 2022 Winter Olympics.",
+              "links": [
+                {
+                  "text": "Silver Olympic Order",
+                  "type": "internal",
+                  "page": "Olympic Order",
+                  "anchor": "Silver Olympic Order"
+                },
+                {
+                  "text": "2022 Winter Olympics",
+                  "type": "internal",
+                  "page": "2022 Winter Olympics"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.xinhuanet.com/edu/2012-02/20/c_111546140.htm",
+          "archive-url": "https://web.archive.org/web/20120223152739/http://news.xinhuanet.com/edu/2012-02/20/c_111546140.htm",
+          "url-status": "dead",
+          "archive-date": "February 23, 2012",
+          "language": "zh-cn",
+          "script-title": "zh:陈吉宁任清华校长",
+          "work": "Xinhua News",
+          "date": "2012-02-20",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://news.sina.com.cn/c/nd/2017-05-27/doc-ifyfqvmh9306766.shtml",
+          "language": "zh-cn",
+          "script-title": "zh:陈吉宁任北京代市长",
+          "work": "Sina News",
+          "date": "2017-05-27",
+          "access-date": "2017-05-27",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "script-title": "zh:全国人大代表信息-陈吉宁",
+          "url": "http://www.npc.gov.cn/delegate/viewDelegate.action?dbid=2008120037",
+          "language": "zh",
+          "access-date": "2013-03-06",
+          "publisher": "National People's Congress",
+          "archive-url": "https://web.archive.org/web/20140103125122/http://www.npc.gov.cn/delegate/viewDelegate.action?dbid=2008120037",
+          "archive-date": "2014-01-03",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Zhou Qunfeng",
+          "date": "September 2016",
+          "title": "Chen Jining: Green Warrior",
+          "url": "http://www.newschinamag.com/newschina/articleDetail.do?article_id=961&section_id=39&magazine_id=9",
+          "magazine": "News China",
+          "issn": "1943-1902",
+          "access-date": "2019-07-22",
+          "template": "citation",
+          "type": "magazine"
+        },
+        {
+          "title": "IOC thanks Beijing 2022 for memorable Olympic Winter Games",
+          "url": "https://olympics.com/ioc/news/ioc-thanks-beijing-2022-for-memorable-olympic-winter-games",
+          "website": "International Olympic Committee",
+          "date": "2022-02-21",
+          "accessdate": "2022-02-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "start box"
+        },
+        {
+          "template": "s-edu"
+        },
+        {
+          "before": "Gu Binglin",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of Tsinghua University",
+          "years": "2012–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Qiu Yong",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Zhou Shengxian",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Environmental Protection",
+          "years": "2015–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Li Ganjie",
+          "template": "s-aft"
+        },
+        {
+          "before": "Cai Qi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Beijing",
+          "years": "2017–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "beijing leaders"
+        },
+        {
+          "template": "mayors of the largest cities in the world by gdp"
+        },
+        {
+          "template": "regional leaders in the people's republic of china"
+        },
+        {
+          "template": "12th state council"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

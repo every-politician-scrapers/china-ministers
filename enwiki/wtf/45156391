@@ -1,0 +1,532 @@
+{
+  "title": "Gong Zheng",
+  "pageID": 45156391,
+  "categories": [
+    "Living people",
+    "1960 births",
+    "Mayors of Shanghai",
+    "Governors of Shandong",
+    "Chinese Communist Party politicians from Jiangsu",
+    "People's Republic of China politicians from Jiangsu",
+    "Members of the 19th Central Committee of the Chinese Communist Party",
+    "Political office-holders in Zhejiang",
+    "Politicians from Suzhou",
+    "Beijing University of International Business and Economics alumni",
+    "Golden Gate University alumni",
+    "Xiamen University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gong Zheng (born 4 March 1960) is a Chinese politician who serves as Mayor and Deputy Communist Party Secretary of Shanghai Municipality.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Communist Party Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shanghai"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gong Zheng"
+                ]
+              }
+            },
+            {
+              "text": "He was formerly Governor of Shandong Province, the Party Secretary of Hangzhou, the capital of Zhejiang province, and before that, Vice Governor and Executive Vice Governor of Zhejiang, and deputy director of the General Administration of Customs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shandong"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hangzhou"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zhejiang"
+                },
+                {
+                  "type": "internal",
+                  "page": "General Administration of Customs"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from the University of International Business and Economics (UIBE)."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the football player",
+            "Gong Zheng (footballer)"
+          ],
+          "template": "for"
+        },
+        {
+          "list": [
+            "Gong"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1960",
+          "month": "3",
+          "day": "4",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "龚",
+            "正"
+          ],
+          "template": "linktext"
+        },
+        {
+          "p": "Gōng Zhèng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Gong Zheng"
+          },
+          "native_name": {
+            "text": "龚正"
+          },
+          "image": {
+            "text": "龚正.jpg"
+          },
+          "office": {
+            "text": "Mayor of Shanghai",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayor of Shanghai"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 23, 2020"
+          },
+          "predecessor": {
+            "text": "Ying Yong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ying Yong"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Party Secretary"
+          },
+          "1namedata": {
+            "text": "Li Qiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Qiang"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Governor of Shandong",
+            "links": [
+              {
+                "text": "Governor of Shandong",
+                "type": "internal",
+                "page": "Politics of Shandong"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "April 11, 2017"
+          },
+          "term_end1": {
+            "text": "April 17, 2020"
+          },
+          "predecessor1": {
+            "text": "Guo Shuqing",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guo Shuqing"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Party Secretary"
+          },
+          "1namedata1": {
+            "text": "Liu Jiayi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liu Jiayi"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Communist Party Secretary of Hangzhou",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hangzhou"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "September 2013"
+          },
+          "term_end3": {
+            "text": "August 2015"
+          },
+          "predecessor4": {
+            "text": "Huang Kunming",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Huang Kunming"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Zhao Yide",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhao Yide"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 4, 1960"
+          },
+          "birth_place": {
+            "text": "Suzhou, Jiangsu, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Suzhou"
+              },
+              {
+                "type": "internal",
+                "page": "Jiangsu"
+              },
+              {
+                "type": "internal",
+                "page": "China"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Beijing University of International Business and Economics\nGolden Gate University\nXiamen University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beijing University of International Business and Economics"
+              },
+              {
+                "type": "internal",
+                "page": "Golden Gate University"
+              },
+              {
+                "type": "internal",
+                "page": "Xiamen University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://gbzl.people.com.cn/grzy.php?id=121000316",
+          "script-title": "zh:龚正",
+          "trans-title": "Gong Zheng",
+          "language": "zh",
+          "work": "People's Daily",
+          "access-date": "2015-01-21",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.chinavitae.com/biography/Gong_Zheng",
+          "title": "Gong Zheng",
+          "work": "China Vitae",
+          "access-date": "2015-01-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gong Zheng was born in March 1960 in Suzhou, Jiangsu province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Suzhou"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jiangsu"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from Beijing Institute of Foreign Trade (later renamed University of International Business and Economics, UIBE) in 1982, and worked for the Chinese General Administration of Customs after graduation.",
+              "links": [
+                {
+                  "text": "University of International Business and Economics",
+                  "type": "internal",
+                  "page": "Beijing University of International Business and Economics"
+                },
+                {
+                  "type": "internal",
+                  "page": "General Administration of Customs"
+                }
+              ]
+            },
+            {
+              "text": "He later furthered his studies at the School of Taxation of Golden Gate University in 1987 in the United States, and returned to UIBE, earning an MBA in 1997.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Golden Gate University"
+                }
+              ]
+            },
+            {
+              "text": "He also enrolled at Xiamen University from 2001 to 2004, obtaining a Ph.D. in Economics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xiamen University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gong served as deputy director of the Tianjin customs department from 1993 to 1996, and director of the Shenzhen customs department from 2001 to 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tianjin"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shenzhen"
+                }
+              ]
+            },
+            {
+              "text": "In 2003, he was promoted to Deputy Director of the General Administration of Customs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "General Administration of Customs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2008, Gong Zheng was appointed Vice Governor of Zhejiang province, and was promoted to Executive Vice Governor in June 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zhejiang"
+                }
+              ]
+            },
+            {
+              "text": "In September 2013, he became the Communist Party Chief of Hangzhou, the provincial capital.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hangzhou"
+                }
+              ]
+            },
+            {
+              "text": "In August 2015, Gong was named deputy party chief of Shandong province, replacing Wang Junmin, who left the post due to reaching the mandatory retirement age."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2017, Gong was appointed as Governor of Shandong."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On March 23, 2020, Gong was appointed as Mayor of Shanghai."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A Hangzhou official described Gong as an \"open-minded\" leader who could speak English reasonably well."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "access-date": "2017-04-11",
+          "url": "http://www.thepaper.cn/newsDetail_forward_1659561",
+          "title": "龚正任山东省副省长、代省长，青岛市委原书记李群任副省长",
+          "publisher": "thepaper.cn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.scmp.com/news/china/politics/article/3075990/shanghai-set-endorse-gong-zheng-its-new-mayor",
+          "title": "Shanghai set to endorse Gong Zheng as its new mayor",
+          "date": "20 March 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "杭州书记龚正将调任山东省委副书记",
+          "url": "http://news.ifeng.com/a/20150810/44389424_0.shtml",
+          "date": "August 10, 2015",
+          "work": "Phoenix TV",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "龚正任上海市副市长、代理市长_浦江头条_澎湃新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_6646249",
+          "access-date": "2020-03-23",
+          "work": "m.thepaper.cn",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Ying Yong",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Shanghai",
+          "years": "2020–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Guo Shuqing",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Shandong",
+          "years": "2017–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Wang Junmin",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Party Secretary of Shandong",
+          "years": "2015–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Wang Wentao",
+          "template": "s-aft"
+        },
+        {
+          "before": "Huang Kunming",
+          "template": "s-bef"
+        },
+        {
+          "title": "Communist Party Secretary of Hangzhou",
+          "years": "2013–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Zhao Yide",
+          "template": "s-aft"
+        },
+        {
+          "template": "regional leaders in china"
+        },
+        {
+          "template": "shanghai leaders"
+        },
+        {
+          "template": "shandong leaders"
+        },
+        {
+          "template": "mayors of the largest cities in the world by gdp"
+        }
+      ]
+    }
+  ]
+}

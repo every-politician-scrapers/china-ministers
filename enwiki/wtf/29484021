@@ -1,0 +1,244 @@
+{
+  "title": "Wang Yong (politician)",
+  "pageID": 29484021,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "People's Republic of China politicians from Liaoning",
+    "Politicians from Yingkou",
+    "Chinese Communist Party politicians from Liaoning",
+    "State councillors of China",
+    "Harbin Institute of Technology alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wang Yong (born December 1955 in Gaizhou) is a Chinese politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gaizhou"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wang Yong"
+                ]
+              }
+            },
+            {
+              "text": "He has been serving since 2013 as a State Councilor and is the former Chairman of the State-owned Assets Supervision and Administration Commission (SASAC).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State Councilor"
+                },
+                {
+                  "type": "internal",
+                  "page": "State-owned Assets Supervision and Administration Commission"
+                }
+              ]
+            },
+            {
+              "text": "From September 2008 to August 2010 he was the Director of the General Administration of Quality Supervision, Inspection and Quarantine (AQSIQ) and in 2010, he was named by Forbes Magazine the 62nd World's Most Powerful Person.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "General Administration of Quality Supervision, Inspection and Quarantine"
+                },
+                {
+                  "text": "''Forbes'' Magazine",
+                  "type": "internal",
+                  "page": "Forbes"
+                },
+                {
+                  "text": "World's Most Powerful Person",
+                  "type": "internal",
+                  "page": "Forbes Magazine's List of The World's Most Powerful People"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Forbes"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "",
+            "Wang Yong (disambiguation)",
+            "Wang Yong"
+          ],
+          "template": "other people"
+        },
+        {
+          "list": [
+            "Wang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1955",
+          "birth_month": "12",
+          "template": "birth year and age"
+        },
+        {
+          "c": "王勇",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wang Yong"
+          },
+          "native_name": {
+            "text": "王勇"
+          },
+          "image": {
+            "text": "Vương Dũng, 2019.jpg"
+          },
+          "imagesize": {
+            "text": "Wang Yong, 2019."
+          },
+          "office": {
+            "text": "Director of SASAC",
+            "links": [
+              {
+                "text": "Director of SASAC",
+                "type": "internal",
+                "page": "State-owned Assets Supervision and Administration Commission"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 August 2010"
+          },
+          "term_end": {
+            "text": "March 2013"
+          },
+          "premier": {
+            "text": "Wen Jiabao\nLi Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wen Jiabao"
+              },
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Li Rongrong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Rongrong"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Jiang Jiemin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jiang Jiemin"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 1955 (age 67)"
+          },
+          "birth_place": {
+            "text": "Gaizhou, Liaoning",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gaizhou"
+              },
+              {
+                "type": "internal",
+                "page": "Liaoning"
+              }
+            ]
+          },
+          "party": {
+            "text": "Communist Party of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Party of China"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Harbin Institute of Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Harbin Institute of Technology"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://online.wsj.com/article/BT-CO-20100824-702118.html",
+          "title": "China Names Wang Yong New Head Of State Assets Regulator",
+          "work": "Forbes",
+          "date": "2010-11-03",
+          "access-date": "2010-11-04",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.forbes.com/2010/11/01/obama-china-power-opinions-powerful-people-10-intro.html",
+          "title": "The Most Powerful People On Earth",
+          "publisher": "The Wall Street Journal",
+          "date": "2010-08-24",
+          "access-date": "2010-11-05",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "13th state council"
+        },
+        {
+          "template": "12th state council"
+        },
+        {
+          "template": "state councillors"
+        },
+        {
+          "template": "china-politician-stub"
+        }
+      ]
+    }
+  ]
+}

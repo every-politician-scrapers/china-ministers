@@ -1,0 +1,537 @@
+{
+  "title": "Wang Chen (politician)",
+  "pageID": 17850760,
+  "categories": [
+    "1950 births",
+    "Living people",
+    "People's Republic of China politicians from Beijing",
+    "Chinese Communist Party politicians from Beijing",
+    "People's Republic of China journalists",
+    "Members of the 19th Politburo of the Chinese Communist Party",
+    "Vice Chairpersons of the National People's Congress",
+    "People's Daily people",
+    "Guangming Daily people",
+    "Individuals sanctioned by the United States under the Hong Kong Autonomy Act",
+    "Specially Designated Nationals and Blocked Persons List"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wang Chen (born 2 December 1950) is a Chinese journalist and politician.",
+              "formatting": {
+                "bold": [
+                  "Wang Chen"
+                ]
+              }
+            },
+            {
+              "text": "He served as Director of State Council Information Office from 2008 to 2013, and currently serves as the Secretary-General of the 12th National People's Congress Standing Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State Council Information Office"
+                },
+                {
+                  "text": "Secretary-General",
+                  "type": "internal",
+                  "page": "Secretary-General of the National People's Congress"
+                },
+                {
+                  "text": "12th National People's Congress",
+                  "type": "internal",
+                  "page": "12th National People's Congress"
+                },
+                {
+                  "text": "Standing Committee",
+                  "type": "internal",
+                  "page": "Standing Committee of the National People's Congress"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese journalist and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Wang"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "df": "yes",
+          "year": "1950",
+          "month": "12",
+          "day": "2",
+          "template": "birth date and age"
+        },
+        {
+          "c": "王晨",
+          "p": "Wáng Chén",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wang Chen"
+          },
+          "native_name": {
+            "text": "王晨"
+          },
+          "image": {
+            "text": "Wang Chen in 2020.jpg"
+          },
+          "caption": {
+            "text": "Wang Chen in 2020"
+          },
+          "office": {
+            "text": "First-ranked Vice-Chairman of the Standing Committee of the National People's Congress",
+            "links": [
+              {
+                "text": "First-ranked Vice-Chairman",
+                "type": "internal",
+                "page": "Vice Chairperson of the Standing Committee of the National People's Congress"
+              },
+              {
+                "text": "Standing Committee",
+                "type": "internal",
+                "page": "Standing Committee of the National People's Congress"
+              },
+              {
+                "type": "internal",
+                "page": "National People's Congress"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 March 2018"
+          },
+          "1blankname": {
+            "text": "Chairman"
+          },
+          "1namedata": {
+            "text": "Li Zhanshu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Zhanshu"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Li Jianguo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Jianguo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Vice-Chairman of the Standing Committee of the National People's Congress",
+            "links": [
+              {
+                "text": "Vice-Chairman",
+                "type": "internal",
+                "page": "Vice Chairperson of the Standing Committee of the National People's Congress"
+              },
+              {
+                "text": "Standing Committee",
+                "type": "internal",
+                "page": "Standing Committee of the National People's Congress"
+              },
+              {
+                "type": "internal",
+                "page": "National People's Congress"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "15 March 2013"
+          },
+          "term_end1": {
+            "text": "18 March 2018"
+          },
+          "1blankname1": {
+            "text": "Chairman"
+          },
+          "1namedata1": {
+            "text": "Zhang Dejiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhang Dejiang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Secretary-General of the Standing Committee of the National People's Congress",
+            "links": [
+              {
+                "text": "Secretary-General",
+                "type": "internal",
+                "page": "Secretary-General of the National People's Congress"
+              },
+              {
+                "text": "Standing Committee",
+                "type": "internal",
+                "page": "Standing Committee of the National People's Congress"
+              },
+              {
+                "type": "internal",
+                "page": "National People's Congress"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "5 March 2013"
+          },
+          "term_end2": {
+            "text": "17 March 2018"
+          },
+          "predecessor2": {
+            "text": "Li Jianguo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Jianguo"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Yang Zhenwu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yang Zhenwu"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Director of the State Council Information Office",
+            "links": [
+              {
+                "type": "internal",
+                "page": "State Council Information Office"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end3": {
+            "text": "2013",
+            "number": 2013
+          },
+          "predecessor3": {
+            "text": "Cai Wu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cai Wu"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Cai Mingzhao",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cai Mingzhao"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 2, 1950"
+          },
+          "birth_place": {
+            "text": "Beijing, People’s Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beijing"
+              },
+              {
+                "type": "internal",
+                "page": "People’s Republic of China"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party (1975–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Graduate School of Chinese Academy of Social Sciences",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Graduate School of Chinese Academy of Social Sciences"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "王晨简历",
+          "url": "http://news.xinhuanet.com/ziliao/2002-11/20/content_635495.htm",
+          "website": "xinhuanet.com",
+          "access-date": "2010-12-18",
+          "archive-date": "2010-12-19",
+          "archive-url": "https://web.archive.org/web/20101219170934/http://news.xinhuanet.com/ziliao/2002-11/20/content_635495.htm",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wang was born in Beijing in 1950.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beijing"
+                }
+              ]
+            },
+            {
+              "text": "He served in Guangming Daily Agency for many years, and became the editor in chief of that newspaper in 1995.",
+              "links": [
+                {
+                  "text": "Guangming Daily",
+                  "type": "internal",
+                  "page": "Guangming Daily (China)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Guangming Daily"
+                ]
+              }
+            },
+            {
+              "text": "In June 2000 he was appointed as Deputy Director of Propaganda Department of the Chinese Communist Party (CCP).",
+              "links": [
+                {
+                  "text": "Propaganda Department of the Chinese Communist Party (CCP)",
+                  "type": "internal",
+                  "page": "Publicity Department of the Chinese Communist Party"
+                }
+              ]
+            },
+            {
+              "text": "In August 2001, he became the Editor in Chief of People's Daily.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Daily"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "People's Daily"
+                ]
+              }
+            },
+            {
+              "text": "In October of same year, he became vice chairman of China National Journalist Association."
+            },
+            {
+              "text": "He was promoted to president of People's Daily Agency.",
+              "formatting": {
+                "italic": [
+                  "People's Daily"
+                ]
+              }
+            },
+            {
+              "text": "In March 2003, he became the chairman of Chinese Newspapers Association."
+            },
+            {
+              "text": "From 2008 to 2013, he served as Director of the Information Office of the State Council.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Information Office of the State Council"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Director of the newly created State Internet Information Office under the Information Office in May 2011."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a member of the 19th CCP Politburo.",
+              "links": [
+                {
+                  "text": "CCP Politburo",
+                  "type": "internal",
+                  "page": "Politburo of the Chinese Communist Party"
+                }
+              ]
+            },
+            {
+              "text": "He was also a member of the 16th, 17th and 18th CCP Central Committees, and a member of the 9th National Committee of the Chinese People's Political Consultative Conference (CPPCC).",
+              "links": [
+                {
+                  "text": "CCP Central Committees",
+                  "type": "internal",
+                  "page": "Central Committee of the Chinese Communist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chinese People's Political Consultative Conference"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "China Vitae : Biography of Wang Chen",
+          "work": "chinavitae.com",
+          "access-date": "December 13, 2020",
+          "url": "https://www.chinavitae.com/biography/Wang_Chen",
+          "archive-date": "February 10, 2020",
+          "archive-url": "https://web.archive.org/web/20200210065227/http://www.chinavitae.com/biography/Wang_Chen",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "U.S. sanctions",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On December 7, 2020, the U.S. Department of the Treasury imposed sanctions on the entire body of 14 Vice Chairpersons of the National People's Congress of China, including Wang Chen, for \"undermining Hong Kong's autonomy and restricting the freedom of expression or assembly.\"",
+              "links": [
+                {
+                  "text": "U.S. Department of the Treasury",
+                  "type": "internal",
+                  "page": "United States Department of the Treasury"
+                },
+                {
+                  "text": "sanctions",
+                  "type": "internal",
+                  "page": "Executive Order 13936"
+                },
+                {
+                  "text": "Vice Chairpersons of the National People's Congress",
+                  "type": "internal",
+                  "page": "Vice Chairperson of the National People's Congress"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Despite these sanctions, the American Chamber of Commerce in China hosted Wang at its annual appreciation dinner on December 10, 2020, which stirred controversy and criticism in the U.S.",
+              "links": [
+                {
+                  "text": "American Chamber of Commerce in China",
+                  "type": "internal",
+                  "page": "American Chamber of Commerce in the People's Republic of China"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Hong Kong-related Designations",
+          "url": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20201207",
+          "date": "December 7, 2020",
+          "access-date": "December 13, 2020",
+          "archive-date": "December 7, 2020",
+          "archive-url": "https://web.archive.org/web/20201207162753/https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20201207",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "China Sends Sanctioned Official to AmCham Dinner in Beijing",
+          "agency": "Bloomberg News",
+          "date": "December 10, 2020",
+          "access-date": "December 13, 2020",
+          "url": "https://www.bloomberg.com/news/articles/2020-12-11/china-sends-sanctioned-official-to-amcham-dinner-in-beijing",
+          "archive-date": "December 12, 2020",
+          "archive-url": "https://web.archive.org/web/20201212030516/https://www.bloomberg.com/news/articles/2020-12-11/china-sends-sanctioned-official-to-amcham-dinner-in-beijing",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "McCaul Statement on AmCham China Hosting Sanctioned CCP Official at Appreciation Gala - Committee on Foreign Affairs",
+          "department": "United States House Committee on Foreign Affairs",
+          "date": "11 December 2020",
+          "access-date": "13 December 2020",
+          "url": "https://gop-foreignaffairs.house.gov/press-release/mccaul-statement-on-amcham-china-hosting-sanctioned-ccp-official-at-appreciation-gala/",
+          "archive-date": "11 December 2020",
+          "archive-url": "https://web.archive.org/web/20201211231222/https://gop-foreignaffairs.house.gov/press-release/mccaul-statement-on-amcham-china-hosting-sanctioned-ccp-official-at-appreciation-gala/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "19th politburo of the chinese communist party"
+        },
+        {
+          "template": "npcsc vice-chairpersons"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

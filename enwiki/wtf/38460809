@@ -1,0 +1,865 @@
+{
+  "title": "Zhao Kezhi",
+  "pageID": 38460809,
+  "categories": [
+    "Living people",
+    "1953 births",
+    "State councillors of China",
+    "Ministers of Public Security of the People's Republic of China",
+    "Governors of Guizhou",
+    "Political office-holders in Shandong",
+    "Political office-holders in Jiangsu",
+    "Chinese Communist Party politicians from Shandong",
+    "People's Republic of China politicians from Shandong",
+    "Politicians from Qingdao",
+    "Vice-governors of Shandong",
+    "Vice-governors of Jiangsu",
+    "Members of the 18th Central Committee of the Chinese Communist Party",
+    "Members of the 19th Central Committee of the Chinese Communist Party"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zhao Kezhi (born 28 December 1953) is a Chinese politician who currently serves as a State Councilor of the People’s Republic of China and the former Minister and Party Committee Secretary of the Ministry of Public Security, with the top police officer rank of Police Commissioner General.",
+              "links": [
+                {
+                  "text": "State Councilor of the People’s Republic of China",
+                  "type": "internal",
+                  "page": "State councillor (China)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Party Committee Secretary"
+                },
+                {
+                  "text": "Ministry of Public Security",
+                  "type": "internal",
+                  "page": "Ministry of Public Security (China)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Zhao Kezhi"
+                ]
+              }
+            },
+            {
+              "text": "He is the former Communist Party Secretary of Hebei and Guizhou provinces, and the former Governor of Guizhou province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Party Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hebei"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guizhou"
+                }
+              ]
+            },
+            {
+              "text": "He had also previously served as a vice governor of Shandong and Jiangsu provinces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shandong"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jiangsu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Zhao"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "list": [
+            "Zhao Keshi"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "df": "yes",
+          "year": "1953",
+          "month": "12",
+          "day": "28",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "赵",
+            "克",
+            "志"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "趙",
+            "克",
+            "志"
+          ],
+          "template": "linktext"
+        },
+        {
+          "list": [
+            "赵",
+            "克",
+            "志"
+          ],
+          "template": "linktext"
+        },
+        {
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "order": {
+            "text": "st"
+          },
+          "p": {
+            "text": "Zhào Kèzhì"
+          }
+        },
+        {
+          "honorific-prefix": {
+            "text": "Police Commissioner General",
+            "links": [
+              {
+                "text": "Police Commissioner General",
+                "type": "internal",
+                "page": ":zh:总警监"
+              }
+            ]
+          },
+          "image": {
+            "text": "Zhao Kezhi 2018 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Zhao attends the groundbreaking ceremony for the China-US Demonstration Farm on September 23, 2017"
+          },
+          "office1": {
+            "text": "State Councilor of the People's Republic of China",
+            "links": [
+              {
+                "text": "State Councilor of the People's Republic of China",
+                "type": "internal",
+                "page": "State councillor (China)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "19 March 2018"
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Guo Shengkun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guo Shengkun"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Public Security",
+            "links": [
+              {
+                "text": "Minister of Public Security",
+                "type": "internal",
+                "page": "Ministry of Public Security (China)"
+              }
+            ]
+          },
+          "premier2": {
+            "text": "Li Keqiang"
+          },
+          "term_start2": {
+            "text": "4 November 2017"
+          },
+          "term_end2": {
+            "text": "24 June 2022"
+          },
+          "deputy2": {
+            "text": "Fu Zhenghua, Wang Xiaohong, others",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fu Zhenghua"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Guo Shengkun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Guo Shengkun"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Wang Xiaohong",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wang Xiaohong"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Chairman of Hebei People's Congress"
+          },
+          "term_start3": {
+            "text": "January 2016"
+          },
+          "term_end3": {
+            "text": "December 2017"
+          },
+          "predecessor3": {
+            "text": "Zhou Benshun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhou Benshun"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Wang Dongfeng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wang Dongfeng"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Communist Party Secretary of Hebei",
+            "links": [
+              {
+                "text": "Communist Party Secretary of Hebei",
+                "type": "internal",
+                "page": "Politics of Hebei"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "July 2015"
+          },
+          "term_end4": {
+            "text": "October 2017"
+          },
+          "deputy4": {
+            "text": "Zhang Qingwei→Xu Qin (Governor) Zhao Yong (party affairs)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhang Qingwei"
+              },
+              {
+                "type": "internal",
+                "page": "Xu Qin"
+              },
+              {
+                "text": "Zhao Yong",
+                "type": "internal",
+                "page": "Zhao Yong (politician)"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Zhou Benshun"
+          },
+          "successor4": {
+            "text": "Wang Dongfeng"
+          },
+          "office5": {
+            "text": "Chairman of Guizhou People's Congress"
+          },
+          "term_start5": {
+            "text": "January 2013"
+          },
+          "term_end5": {
+            "text": "January 2016"
+          },
+          "predecessor5": {
+            "text": "Li Zhanshu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Zhanshu"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Chen Min'er",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Min'er"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Communist Party Secretary of Guizhou",
+            "links": [
+              {
+                "text": "Communist Party Secretary of Guizhou",
+                "type": "internal",
+                "page": "Politics of Guizhou"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "July 2012"
+          },
+          "term_end6": {
+            "text": "July 2015"
+          },
+          "deputy6": {
+            "text": "Chen Min'er (Governor) Chen Yiqin (party affairs)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Yiqin"
+              }
+            ]
+          },
+          "predecessor6": {
+            "text": "Li Zhanshu"
+          },
+          "successor6": {
+            "text": "Chen Min'er"
+          },
+          "office7": {
+            "text": "Governor of Guizhou",
+            "links": [
+              {
+                "text": "Governor of Guizhou",
+                "type": "internal",
+                "page": "Politics of Guizhou"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "August 2010"
+          },
+          "term_end7": {
+            "text": "December 2012"
+          },
+          "predecessor7": {
+            "text": "Lin Shusen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lin Shusen"
+              }
+            ]
+          },
+          "successor7": {
+            "text": "Chen Min'er"
+          },
+          "name": {
+            "text": "Zhao Kezhi"
+          },
+          "native_name": {
+            "text": "赵克志"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "December 28, 1953"
+          },
+          "birth_place": {
+            "text": "Laixi, Shandong, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Laixi"
+              },
+              {
+                "type": "internal",
+                "page": "Shandong"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Central Party School",
+            "links": [
+              {
+                "text": "Central Party School",
+                "type": "internal",
+                "page": "Central Party School of the Chinese Communist Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.xinhuanet.com/ziliao/2010-08/31/content_14102763.htm",
+          "archive-url": "https://web.archive.org/web/20100910095817/http://news.xinhuanet.com/ziliao/2010-08/31/content_14102763.htm",
+          "url-status": "dead",
+          "archive-date": "September 10, 2010",
+          "script-title": "zh:赵克志简历",
+          "trans-title": "Biography of Zhao Kezhi",
+          "language": "zh",
+          "work": "Xinhua News Agency",
+          "access-date": "2013-02-08",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://leaders.people.com.cn/n/2012/1116/c58278-19605175.html",
+          "script-title": "zh:赵克志简历",
+          "trans-title": "Biography of Zhao Kezhi",
+          "language": "zh",
+          "work": "People's Daily",
+          "access-date": "2013-02-08",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zhao was born in Laixi, Shandong province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Laixi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shandong"
+                }
+              ]
+            },
+            {
+              "text": "Zhao Kezhi entered the workforce in March 1973 as a middle school teacher in Laixi, and joined the Chinese Communist Party in January 1975.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chinese Communist Party"
+                }
+              ]
+            },
+            {
+              "text": "In April 1984, he became the mayor and deputy Communist Party Chief of Laixi County, was transferred in March 1987 to be the mayor and deputy party chief of nearby Jimo, and became party chief of Jimo in 1989.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jimo"
+                }
+              ]
+            },
+            {
+              "text": "In December 1997, he was promoted to be the party chief of Dezhou, a prefecture-level city in Shandong.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dezhou"
+                },
+                {
+                  "text": "prefecture-level city",
+                  "type": "internal",
+                  "page": "prefecture-level city"
+                }
+              ]
+            },
+            {
+              "text": "From February 2001 to March 2006, he was a vice governor of Shandong province."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2006, Zhao Kezhi was transferred to neighbouring Jiangsu province, where he was the executive vice governor until August 2010, when he was transferred again to southwestern Guizhou province, where he was appointed deputy party chief and acting governor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jiangsu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guizhou"
+                }
+              ]
+            },
+            {
+              "text": "A month later he was elected by the Guizhou Provincial Congress as governor."
+            },
+            {
+              "text": "In July 2012 Zhao was promoted to concurrently serve as the Communist Party Secretary of Guizhou; in December he relinquished his governor post, and Chen Min'er was chosen as his successor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chen Min'er"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2015, following the dismissal of Zhou Benshun, Zhao was named party chief of Hebei province.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Zhou Benshun"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hebei"
+                }
+              ]
+            },
+            {
+              "text": "During his term in Hebei, planning began for the ambitious Xiong'an New Area.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xiong'an New Area"
+                }
+              ]
+            },
+            {
+              "text": "In October 2017, shortly after the 19th Party Congress, Zhao, then 63, was appointed as the Party Committee Secretary of the Ministry of Public Security.",
+              "links": [
+                {
+                  "text": "19th Party Congress",
+                  "type": "internal",
+                  "page": "19th Party Congress"
+                },
+                {
+                  "text": "Ministry of Public Security",
+                  "type": "internal",
+                  "page": "Ministry of Public Security (China)"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed as the Minister of Public Security on November 4, 2017."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2018, Zhao was appointed as a State Councilor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "State Councilor"
+                }
+              ]
+            },
+            {
+              "text": "In June 2018, he became"
+            },
+            {
+              "text": "Deputy Secretary of the Central Political and Legal Affairs Commission.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Political and Legal Affairs Commission"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Zhao is a member of the 18th and 19th Central Committees of the Chinese Communist Party.",
+              "links": [
+                {
+                  "text": "18th",
+                  "type": "internal",
+                  "page": "18th Central Committee of the Chinese Communist Party"
+                },
+                {
+                  "text": "19th",
+                  "type": "internal",
+                  "page": "19th Central Committee of the Chinese Communist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chinese Communist Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.sina.com.cn/c/nd/2017-11-01/doc-ifynfvar5625243.shtml",
+          "script-title": "zh:赵克志出任公安部党委书记(图/简历)",
+          "access-date": "2017-11-01",
+          "website": "news.sina.com.cn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.thepaper.cn/newsDetail_forward_1850179",
+          "script-title": "zh:全国人大常委会决定任命赵克志为公安部部长_人事风向_澎湃新闻",
+          "access-date": "2017-11-04",
+          "website": "www.thepaper.cn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://news.ifeng.com/a/20180319/56857742_0.shtml",
+          "script-title": "zh:国务院副总理、国务委员、各部部长完整名单",
+          "access-date": "2018-03-19",
+          "date": "2018-03-19",
+          "agency": "Xinhua",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.xinhuanet.com/renshi/2018-06/14/c_1122982796.htm",
+          "archive-url": "https://web.archive.org/web/20180614045812/http://www.xinhuanet.com/renshi/2018-06/14/c_1122982796.htm",
+          "url-status": "dead",
+          "archive-date": "June 14, 2018",
+          "script-title": "zh:赵克志任中央政法委副书记（图/简历）",
+          "access-date": "2018-06-14",
+          "date": "2018-06-14",
+          "work": "Xinhua",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "-"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Xiao Shicheng (肖世诚)",
+          "template": "s-bef"
+        },
+        {
+          "title": "Magistrate of Jimo County",
+          "years": "1987–1989",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Meng Guangyao (孟广耀)",
+          "template": "s-aft"
+        },
+        {
+          "before": "Jiang Dingzhi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Executive Vice Governor of Jiangsu",
+          "years": "2006–2010",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Li Yunfeng",
+          "template": "s-aft"
+        },
+        {
+          "before": "Lin Shusen",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Guizhou",
+          "years": "2010–2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Chen Min'er",
+          "template": "s-aft"
+        },
+        {
+          "before": "Guo Shengkun",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Public Security",
+          "years": "2017–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Wang Xiaohong",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Qin Yusheng (秦玉生)",
+          "template": "s-bef"
+        },
+        {
+          "title": "Communist Party Secretary of Jimo County (Jimo)",
+          "years": "1989–1991",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Meng Guangyao",
+          "template": "s-aft"
+        },
+        {
+          "text": "Mo Zhenkui",
+          "lan1": "zh",
+          "text1": "莫振奎",
+          "template": "ill"
+        },
+        {
+          "before": "Mo Zhenkui",
+          "template": "s-bef"
+        },
+        {
+          "title": "Communist Party Secretary of Dezhou",
+          "years": "1997–2001",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Huang Sheng (黄胜)",
+          "template": "s-aft"
+        },
+        {
+          "before": "Li Zhanshu",
+          "template": "s-bef"
+        },
+        {
+          "title": "Communist Party Secretary of Guizhou",
+          "years": "2012–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Chen Min'er",
+          "template": "s-aft"
+        },
+        {
+          "before": "Zhou Benshun",
+          "template": "s-bef"
+        },
+        {
+          "title": "Communist Party Secretary of Hebei",
+          "years": "2015–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Wang Dongfeng",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-par"
+        },
+        {
+          "before": "Li Zhanshu",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chairman of Guizhou People's Congress",
+          "years": "2013–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Chen Min'er",
+          "template": "s-aft"
+        },
+        {
+          "before": "Zhou Benshun",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chairman of Hebei People's Congress",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Wang Dongfeng",
+          "template": "s-aft"
+        },
+        {
+          "template": "state councillors"
+        },
+        {
+          "template": "13th state council"
+        },
+        {
+          "template": "12th state council"
+        },
+        {
+          "template": "ministers of public security of the people's republic of china"
+        },
+        {
+          "template": "hebei leaders"
+        },
+        {
+          "template": "guizhou leaders"
+        }
+      ]
+    }
+  ]
+}

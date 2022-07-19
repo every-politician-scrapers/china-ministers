@@ -1,0 +1,481 @@
+{
+  "title": "Ding Zhongli",
+  "pageID": 15607593,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Chinese geologists",
+    "Members of the Chinese Academy of Sciences",
+    "People from Shengzhou",
+    "People's Republic of China politicians from Zhejiang",
+    "Politicians from Shaoxing",
+    "Scientists from Shaoxing",
+    "Members of the China Democratic League",
+    "Vice Chairpersons of the National People's Congress",
+    "Zhejiang University alumni",
+    "Individuals sanctioned by the United States under the Hong Kong Autonomy Act"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ding Zhongli (born 14 January 1957) is a Chinese geologist and politician.",
+              "links": [
+                {
+                  "text": "geologist",
+                  "type": "internal",
+                  "page": "geologist"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ding Zhongli"
+                ]
+              }
+            },
+            {
+              "text": "He is a Vice Chairman of the Standing Committee of the National People's Congress and chairman of the China Democratic League.",
+              "links": [
+                {
+                  "text": "Vice Chairman",
+                  "type": "internal",
+                  "page": "Vice Chairperson of the Standing Committee of the National People's Congress"
+                },
+                {
+                  "type": "internal",
+                  "page": "Standing Committee of the National People's Congress"
+                },
+                {
+                  "type": "internal",
+                  "page": "China Democratic League"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese geologist and politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "April 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "reason": "Conflicting dates of birth.",
+          "date": "July 2021",
+          "template": "cleanup"
+        },
+        {
+          "list": [
+            "Ding"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1953",
+          "month": "8",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "s": "丁仲礼",
+          "p": "Dīng Zhònglǐ",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "child": {
+            "text": "yes"
+          },
+          "fields": {
+            "text": "Geology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Geology"
+              }
+            ]
+          }
+        },
+        {
+          "name": {
+            "text": "Ding Zhongli"
+          },
+          "native_name": {
+            "text": "丁仲礼"
+          },
+          "native_name_lang": {
+            "text": "zh-hans"
+          },
+          "image": {
+            "text": "Ding Zhongli2021.jpg"
+          },
+          "office": {
+            "text": "Vice Chairperson of the National People's Congress",
+            "links": [
+              {
+                "text": "Vice Chairperson of the National People's Congress",
+                "type": "internal",
+                "page": "Vice Chairperson of the Standing Committee of the National People's Congress"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 2018"
+          },
+          "1blankname": {
+            "text": "Chairman"
+          },
+          "1namedata": {
+            "text": "Li Zhanshu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Zhanshu"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chairperson of the China Democratic League",
+            "links": [
+              {
+                "type": "internal",
+                "page": "China Democratic League"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "December 2017"
+          },
+          "predecessor1": {
+            "text": "Zhang Baowen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhang Baowen"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of the University of the Chinese Academy of Sciences",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the Chinese Academy of Sciences"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "April 2014"
+          },
+          "term_end2": {
+            "text": "May 2018"
+          },
+          "predecessor2": {
+            "text": "Bai Chunli",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bai Chunli"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Li Shushen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Shushen"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Vice President of the Chinese Academy of Sciences",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Academy of Sciences"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "January 2008"
+          },
+          "term_end3": {
+            "text": "May 2020"
+          },
+          "1blankname3": {
+            "text": "President"
+          },
+          "1namedata3": {
+            "text": "Lu Yongxiang\nBai Chunli",
+            "links": [
+              {
+                "text": "Lu Yongxiang",
+                "type": "internal",
+                "page": "Lu Yongxiang (engineer)"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Executive director of the European and American Students Association"
+          },
+          "term_start4": {
+            "text": "January 2021"
+          },
+          "predecessor4": {
+            "text": "Chen Zhu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chen Zhu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 17, 1953"
+          },
+          "birth_place": {
+            "text": "Shengzhou, Shaoxing, Zhejiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shengzhou"
+              },
+              {
+                "type": "internal",
+                "page": "Shaoxing"
+              }
+            ]
+          },
+          "party": {
+            "text": "China Democratic League",
+            "links": [
+              {
+                "type": "internal",
+                "page": "China Democratic League"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Zhejiang University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhejiang University"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ding was born in Shengzhou, Zhejiang Province, on 14 January 1957.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shengzhou"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zhejiang Province"
+                }
+              ]
+            },
+            {
+              "text": "In 1982, he earned his B.Sc of geochemistry from Zhejiang University.",
+              "links": [
+                {
+                  "text": "geochemistry",
+                  "type": "internal",
+                  "page": "geochemistry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zhejiang University"
+                }
+              ]
+            },
+            {
+              "text": "In 1988, he obtained PhD from the Institute of Geology and Geophysics, Chinese Academy of Science.",
+              "formatting": {
+                "italic": [
+                  "Institute of Geology and Geophysics, Chinese Academy of Science"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ding's research mainly focuses on the Neogene eolian sediments and ancient climate."
+            },
+            {
+              "text": "He is the current Director-general of the Institute of Geology and Geophysics, Chinese Academy of Science.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Director-general"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Institute of Geology and Geophysics, Chinese Academy of Science"
+                ]
+              }
+            },
+            {
+              "text": "He's also the vice-president of the Chinese Society for Mineralogy, Petrology and Geochemistry.",
+              "formatting": {
+                "italic": [
+                  "Chinese Society for Mineralogy, Petrology and Geochemistry"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2005, Ding was elected as an academician of the Chinese Academy of Science."
+            },
+            {
+              "text": "In January 2008, he was pointed as the vice-president of the Chinese Academy of Sciences."
+            },
+            {
+              "text": "In December 2017, Ding was elected as the chairperson of the China Democratic League, one of the political parties in China.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "China Democratic League"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2018, Ding was elected as the Vice Chairperson of the Standing Committee of the National People's Congress.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice Chairperson of the Standing Committee of the National People's Congress"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 7 December 2020, pursuant to Executive Order 13936, the US Department of the Treasury imposed sanctions on all 14 Vice Chairperson of the National People's Congress, including Ding, for \"undermining Hong Kong's autonomy and restricting the freedom of expression or assembly.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Executive Order 13936"
+                },
+                {
+                  "type": "internal",
+                  "page": "US Department of the Treasury"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vice Chairperson of the National People's Congress"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "March 2018",
+          "template": "cn"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.dem-league.org.cn/mmgk/1186/default.aspx",
+          "title": "中国民主同盟",
+          "website": "www.dem-league.org.cn",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "十三届全国人大一次会议选举产生全国人大常委会副委员长、秘书长",
+          "url": "http://www.xinhuanet.com/2018-03/17/c_1122550486.htm",
+          "archive-url": "https://web.archive.org/web/20180317164932/http://www.xinhuanet.com/2018-03/17/c_1122550486.htm",
+          "url-status": "dead",
+          "archive-date": "17 March 2018",
+          "website": "Xinhua",
+          "access-date": "17 March 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hong Kong-related Designations {{!}} U.S. Department of the Treasury",
+          "url": "https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20201207",
+          "access-date": "19 January 2021",
+          "website": "home.treasury.gov",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "-"
+        },
+        {
+          "template": "npcsc vice-chairpersons"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

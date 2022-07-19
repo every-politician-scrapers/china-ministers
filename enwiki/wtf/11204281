@@ -1,0 +1,170 @@
+{
+  "title": "Zhai Jun",
+  "pageID": 11204281,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Ambassadors of China to France",
+    "Diplomats of the People's Republic of China"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zhai Jun (born December 1954) is a Chinese diplomat.",
+              "formatting": {
+                "bold": [
+                  "Zhai Jun"
+                ]
+              }
+            },
+            {
+              "text": "He served as Deputy Foreign Minister from 2009 to 2014, and was appointed Chinese ambassador to France in January 2014, replacing Kong Quan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign Minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kong Quan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese diplomat",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Zhai"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1954",
+            "month": "12",
+            "date": "1",
+            "df": "yes",
+            "template": "birth date",
+            "text": "December 1, 1954"
+          }
+        },
+        {
+          "c": "翟隽",
+          "template": "zh"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Kong Quan",
+          "template": "s-before"
+        },
+        {
+          "title": "Chinese Ambassador to France and Monaco",
+          "years": "2009–2014",
+          "template": "s-title"
+        },
+        {
+          "after": "Lu Shaye",
+          "template": "s-after"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Zhai Jun"
+          },
+          "native_name": {
+            "text": "翟隽"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "ambassador_from": {
+            "text": "Chinese"
+          },
+          "country": {
+            "text": "France"
+          },
+          "term_start": {
+            "text": "2014",
+            "number": 2014
+          },
+          "term_end": {
+            "text": "2019",
+            "number": 2019
+          },
+          "office2": {
+            "text": "Deputy Foreign Minister"
+          },
+          "term_start2": {
+            "text": "2009",
+            "number": 2009
+          },
+          "term_end2": {
+            "text": "2014",
+            "number": 2014
+          },
+          "birth_date": {
+            "text": "December 1, 1954"
+          },
+          "nationality": {
+            "text": "Chinese"
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Alghamdi",
+          "first": "Jassim",
+          "title": "OIC receives Chinese delegation",
+          "url": "http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentID=2010121989622",
+          "access-date": "27 December 2010",
+          "newspaper": "Saudi Gazette",
+          "date": "18 December 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "外交部副部长翟隽履新中国驻法大使",
+          "url": "http://renshi.people.com.cn/n/2014/0109/c139617-24069542.html",
+          "access-date": "2014-09-21",
+          "newspaper": "People's Daily",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "china-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

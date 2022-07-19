@@ -1,0 +1,443 @@
+{
+  "title": "Liu Kun",
+  "pageID": 56910945,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Xiamen University alumni",
+    "Central Party School of the Chinese Communist Party alumni",
+    "People's Republic of China politicians from Guangdong",
+    "Chinese Communist Party politicians from Guangdong",
+    "Ministers of Finance of the People's Republic of China",
+    "Politicians from Chaozhou"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Liu Kun (born December 1956) is a Chinese politician and the current Minister of Finance.",
+              "links": [
+                {
+                  "text": "Chinese",
+                  "type": "internal",
+                  "page": "Chinese people"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance of the People's Republic of China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Liu Kun"
+                ]
+              }
+            },
+            {
+              "text": "Previously he served as director of Budgetary Affairs Commission of the National People's Congress, Vice-Minister of Finance, and vice-governor of Guangdong.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National People's Congress"
+                },
+                {
+                  "text": "vice-governor of Guangdong",
+                  "type": "internal",
+                  "page": "Politics of Guangdong"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Liu is a member of the 19th Central Commission for Discipline Inspection.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Central Commission for Discipline Inspection"
+                }
+              ]
+            },
+            {
+              "text": "He was a delegate to the 10th and 11th and 12th National People's Congress.",
+              "links": [
+                {
+                  "text": "10th",
+                  "type": "internal",
+                  "page": "10th National People's Congress"
+                },
+                {
+                  "text": "11th",
+                  "type": "internal",
+                  "page": "11th National People's Congress"
+                },
+                {
+                  "text": "12th National People's Congress",
+                  "type": "internal",
+                  "page": "12th National People's Congress"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the Jin dynasty general",
+            "Liu Kun (Jin dynasty)"
+          ],
+          "template": "for"
+        },
+        {
+          "list": [
+            "Liu"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "birth_year": "1956",
+          "birth_month": "12",
+          "template": "birth year and age"
+        },
+        {
+          "s": "刘昆",
+          "t": "劉昆",
+          "p": "Liú Kūn",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office1": {
+            "text": "14th Minister of Finance",
+            "links": [
+              {
+                "text": "Minister of Finance",
+                "type": "internal",
+                "page": "Ministry of Finance of the People's Republic of China"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "19 March 2018"
+          },
+          "predecessor1": {
+            "text": "Xiao Jie",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xiao Jie"
+              }
+            ]
+          },
+          "premier1": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Director of Budgetary Affairs Commission of the National People's Congress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National People's Congress"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "December 2016"
+          },
+          "term_end2": {
+            "text": "March 2018"
+          },
+          "name": {
+            "text": "Liu Kun"
+          },
+          "native_name": {
+            "text": "刘昆"
+          },
+          "native_name_lang": {
+            "text": "zh"
+          },
+          "birth_date": {
+            "text": "December 1956 (age 66)"
+          },
+          "birth_place": {
+            "text": "Raoping County, Guangdong, China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raoping County"
+              },
+              {
+                "type": "internal",
+                "page": "Guangdong"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Xiamen University Central Party School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xiamen University"
+              },
+              {
+                "type": "internal",
+                "page": "Central Party School"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.chinadaily.com.cn/a/201803/19/WS5aaf1a7aa3106e7dcc1426fd.html",
+          "title": "China's new cabinet members endorsed",
+          "newspaper": "Chinadaily",
+          "date": "2018-03-19",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.xinhuanet.com/politics/19cpcnc/2017-10/24/c_1121848898.htm",
+          "script-title": "zh:十九大受权发布：中国共产党第十九届中央纪律检查委员会委员名单",
+          "newspaper": "xinhuanet",
+          "date": "2017-10-24",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0
+    },
+    {
+      "title": "Early life and education",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Liu was born in Raoping County, Guangdong in December 1956.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Raoping County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guangdong"
+                }
+              ]
+            },
+            {
+              "text": "In June 1973, during the Cultural Revolution, he was forced to work in a factory in Yunxiao County, Fujian instead of going to university.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cultural Revolution"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yunxiao County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fujian"
+                }
+              ]
+            },
+            {
+              "text": "He entered Xiamen University in February 1978, majoring in finance and monetary economics at the School of Economics, where he graduated in February 1982.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xiamen University"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Beginning in 1982, he served in various posts in the Office of the Guangdong Provincial Government, where he served as deputy director until December 2001.",
+              "links": [
+                {
+                  "text": "Guangdong Provincial Government",
+                  "type": "internal",
+                  "page": "Politics of Guangdong"
+                }
+              ]
+            },
+            {
+              "text": "He joined the Chinese Communist Party in July 1984.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chinese Communist Party"
+                }
+              ]
+            },
+            {
+              "text": "In December 2001 he was promoted to become deputy secretary-general of Guangdong Provincial Government, a department-level position he held until October 2002."
+            },
+            {
+              "text": "He was director of Guangdong Provincial Department of Finance in October 2002, and held that office until July 2010."
+            },
+            {
+              "text": "In July 2010 he was promoted again to become vice-governor of Guangdong, he remained in that position until May 2013, when he was transferred to Beijing and appointed vice-minister of Finance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Beijing"
+                },
+                {
+                  "text": "vice-minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance of the People's Republic of China"
+                }
+              ]
+            },
+            {
+              "text": "He became director of Budgetary Affairs Commission of the National People's Congress in December 2016, and served until March 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "National People's Congress"
+                }
+              ]
+            },
+            {
+              "text": "On March 19, 2018, he was elected minister of Finance at the first session of the 13th National People's Congress.",
+              "links": [
+                {
+                  "text": "minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance of the People's Republic of China"
+                },
+                {
+                  "text": "13th National People's Congress",
+                  "type": "internal",
+                  "page": "13th National People's Congress"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://politics.people.com.cn/n/2013/0522/c1001-21573344.html?_fin",
+          "script-title": "zh:广东副省长刘昆调任财政部党组成员 分管国库司等",
+          "newspaper": "people.com",
+          "date": "2013-05-22",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.chinanews.com/gn/2013/05-22/4844844.shtml",
+          "script-title": "zh:广东副省长刘昆调任财政部党组成员、副部长(图)",
+          "newspaper": "Chinanews",
+          "date": "2013-05-22",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/201803/19/t20180319_28523980.shtml",
+          "script-title": "zh:全国人大常委会预算工委主任刘昆出任财政部部长",
+          "newspaper": "ce.cn",
+          "date": "2018-03-19",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.ce.cn/xwzx/gnsz/gdxw/201803/22/t20180322_28570683.shtml",
+          "script-title": "zh:新任“大管家” 刘昆将如何管好国家的“钱袋子”？",
+          "newspaper": "ce.cn",
+          "date": "2018-03-22",
+          "language": "zh",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Xiao Jie",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Finance",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "ministers of finance of the people's republic of china"
+        },
+        {
+          "template": "13th state council"
+        },
+        {
+          "template": "g20-finance"
+        },
+        {
+          "template": "apec finance ministers"
+        }
+      ]
+    }
+  ]
+}

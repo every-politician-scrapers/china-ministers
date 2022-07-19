@@ -1,0 +1,707 @@
+{
+  "title": "Zhou Qiang",
+  "pageID": 18162320,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "People's Republic of China politicians from Hubei",
+    "Tuanpai",
+    "Politicians from Huanggang",
+    "Governors of Hunan",
+    "First Secretaries of the Communist Youth League of China",
+    "Southwest University of Political Science & Law alumni",
+    "Presidents of the Supreme People's Court",
+    "Chinese Communist Party politicians from Hubei",
+    "People from Huangmei County",
+    "20th-century Chinese judges",
+    "21st-century Chinese judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Zhou Qiang (born 25 April 1960) is a Chinese politician who is the current Chief Justice and President of the Supreme People's Court of China.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Justice"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme People's Court"
+                },
+                {
+                  "type": "internal",
+                  "page": "China"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Zhou Qiang"
+                ]
+              }
+            },
+            {
+              "text": "Previously, he served as the secretary of the Chinese Communist Party's Hunan committee, the effective head of the province of Hunan.",
+              "links": [
+                {
+                  "text": "secretary",
+                  "type": "internal",
+                  "page": "Chinese Communist Party Committee Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chinese Communist Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hunan"
+                }
+              ]
+            },
+            {
+              "text": "He served as the province's governor between 2007 and 2010."
+            },
+            {
+              "text": "Zhou also served as the First Secretary of the Communist Youth League of China between 1998 and 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Youth League of China"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Chinese politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Zhou"
+          ],
+          "lang": "Chinese",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1960",
+          "month": "4",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "zh",
+            "ou",
+            "1",
+            "-",
+            "q",
+            "iang",
+            "2"
+          ],
+          "template": "ipac-cmn"
+        },
+        {
+          "s": "周强",
+          "p": "Zhōu Qiáng",
+          "template": "zh"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Chief Justice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Justice"
+              }
+            ]
+          },
+          "name": {
+            "text": "Zhou Qiang"
+          },
+          "native_name": {
+            "text": "周强"
+          },
+          "image": {
+            "text": "ZhouQiang.jpg"
+          },
+          "image_size": {
+            "text": "250px"
+          },
+          "office": {
+            "text": "Chief Justice and President of the Supreme People's Court",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Supreme People's Court"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "15 March 2013"
+          },
+          "deputy": {
+            "text": "Shen Deyong"
+          },
+          "predecessor": {
+            "text": "Wang Shengjun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wang Shengjun"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Secretary of the Chinese Communist Party of Hunan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              },
+              {
+                "type": "internal",
+                "page": "Hunan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "25 April 2010"
+          },
+          "term_end2": {
+            "text": "20 March 2013"
+          },
+          "deputy2": {
+            "text": "Xu Shousheng (governor)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xu Shousheng"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Zhang Chunxian",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhang Chunxian"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Xu Shousheng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Xu Shousheng"
+              }
+            ]
+          },
+          "office3": {
+            "text": "First Secretary of the Communist Youth League of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Youth League of China"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "25 June 1998"
+          },
+          "term_end3": {
+            "text": "6 November 2006"
+          },
+          "predecessor3": {
+            "text": "Li Keqiang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Li Keqiang"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Hu Chunhua",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hu Chunhua"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 25, 1960"
+          },
+          "birth_place": {
+            "text": "Huangmei County, Hubei, People's Republic of China",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Huangmei County"
+              },
+              {
+                "type": "internal",
+                "page": "Hubei"
+              },
+              {
+                "text": "People's Republic of China",
+                "type": "internal",
+                "page": "History of the People's Republic of China (1949–1976)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Chinese",
+            "links": [
+              {
+                "text": "Chinese",
+                "type": "internal",
+                "page": "People's Republic of China"
+              }
+            ]
+          },
+          "party": {
+            "text": "Chinese Communist Party (1983–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chinese Communist Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Southwest University of Political Science & Law",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Southwest University of Political Science & Law"
+              }
+            ]
+          }
+        },
+        {
+          "s": {
+            "text": "周强"
+          },
+          "t": {
+            "text": "周強"
+          },
+          "order": {
+            "text": "st"
+          },
+          "p": {
+            "text": "Zhōu Qiáng"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.chinadaily.com.cn/china/2010-04/26/content_9772343.htm",
+          "title": "Young official named Hunan Party chief",
+          "last": "Cui",
+          "first": "Jia",
+          "date": "2010-04-23",
+          "publisher": "China Daily",
+          "access-date": "26 April 2010",
+          "archive-url": "https://web.archive.org/web/20100429180758/http://www.chinadaily.com.cn/china/2010-04/26/content_9772343.htm",
+          "archive-date": "29 April 2010",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Huangmei County, Hubei Province, Zhou grew up during the Cultural Revolution.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Huangmei County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hubei Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cultural Revolution"
+                }
+              ]
+            },
+            {
+              "text": "In 1978, he was part of the first batch of students admitted through the National College Entrance Examinations to the Southwest University of Political Science & Law.",
+              "links": [
+                {
+                  "text": "National College Entrance Examinations",
+                  "type": "internal",
+                  "page": "National College Entrance Examination"
+                },
+                {
+                  "type": "internal",
+                  "page": "Southwest University of Political Science & Law"
+                }
+              ]
+            },
+            {
+              "text": "Zhou obtained a master's degree in law in 1986."
+            },
+            {
+              "text": "He joined the Chinese Communist Party (CCP) during his studies, in 1983."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 1995, he was elected secretary of the central secretariat of the Chinese Communist Youth League (CYL) at the 4th plenary session of the 13th CYL central committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chinese Communist Youth League"
+                }
+              ]
+            },
+            {
+              "text": "In June 1998, he was elevated to first secretary of the CYL central secretariat, and was re-elected in July 2003.",
+              "links": [
+                {
+                  "text": "first secretary",
+                  "type": "internal",
+                  "page": "Secretary (title)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2007, Zhou was appointed governor of Hunan, after a five-month period that saw him made a standing committee member and vice secretary of the CCP Hunan committee (September 3), and then acting governor of Hunan (September 30), appointed by the standing committee of the 10th Hunan People's Congress; he resigned as first secretary of the central secretariat of the CYL in December.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hunan"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected governor of Hunan on January 24, 2008."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On April 25, 2010, Zhou, then aged 50, was appointed Communist Party Secretary of Hunan, becoming one of the youngest provincial party chiefs in the country.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Party Secretary"
+                }
+              ]
+            },
+            {
+              "text": "His rise to power is comparable to that of then-Party general secretary Hu Jintao and then-Vice-Premier Li Keqiang; all three men had background in the Communist Youth League of China.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hu Jintao"
+                },
+                {
+                  "type": "internal",
+                  "page": "Li Keqiang"
+                },
+                {
+                  "text": "had background",
+                  "type": "internal",
+                  "page": "Tuanpai"
+                },
+                {
+                  "type": "internal",
+                  "page": "Communist Youth League of China"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2013, the NPC installed Zhou as the President of the Supreme People's Court.",
+              "links": [
+                {
+                  "text": "NPC",
+                  "type": "internal",
+                  "page": "National People's Congress"
+                },
+                {
+                  "text": "Supreme People's Court",
+                  "type": "internal",
+                  "page": "Supreme People's Court of the People's Republic of China"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Like other top Chinese leaders, Zhou spoke often of promoting the 'rule of law' and was thought to be aligned with CCP general secretary Xi Jinping's stated ambition to make the court system in China fairer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Xi Jinping"
+                }
+              ]
+            },
+            {
+              "text": "Indeed, in his first few years in office, Zhou overturned several court decisions as unjust, including the wrongful execution of Nie Shubin in 1995; granted judges more independence; and restricted local officials’ influence over court rulings, although ultimately courts at all levels had to answer to the party leadership.",
+              "links": [
+                {
+                  "text": "Nie Shubin",
+                  "type": "internal",
+                  "page": "List of miscarriage of justice cases",
+                  "anchor": "China"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "But in 2017, speaking at a Supreme People's Court meeting on January 14, Zhou warned the courts against the 'idea of judicial independence'.",
+              "links": [
+                {
+                  "text": "judicial independence",
+                  "type": "internal",
+                  "page": "judicial independence"
+                }
+              ]
+            },
+            {
+              "text": "He said: [China's courts] must firmly resist the western idea of “constitutional democracy”, “separation of powers” and “judicial independence”.",
+              "links": [
+                {
+                  "text": "constitutional democracy",
+                  "type": "internal",
+                  "page": "Liberal democracy"
+                },
+                {
+                  "text": "separation of powers",
+                  "type": "internal",
+                  "page": "separation of powers"
+                }
+              ]
+            },
+            {
+              "text": "These are erroneous western notions that threaten the leadership of the ruling Communist Party and defame the Chinese socialist path on the rule of law."
+            },
+            {
+              "text": "We have to raise our flag and show our sword to struggle against such thoughts."
+            },
+            {
+              "text": "We must not fall into the trap of western thoughts and judicial independence."
+            },
+            {
+              "text": "We must stay firm on the Chinese socialist path on the rule of law."
+            },
+            {
+              "text": "This tougher line was interpreted as self-protection amid a CCP power struggle ahead of the 19th National Congress of the Chinese Communist Party.",
+              "links": [
+                {
+                  "text": "19th National Congress of the Chinese Communist Party",
+                  "type": "internal",
+                  "page": "19th National Congress of the Chinese Communist Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Zhou is currently a member of the 19th Central Committee of the Chinese Communist Party.",
+              "links": [
+                {
+                  "text": "19th Central Committee of the Chinese Communist Party",
+                  "type": "internal",
+                  "page": "19th Central Committee of the Chinese Communist Party"
+                }
+              ]
+            },
+            {
+              "text": "He was previously a member of the 16th, 17th and 18th Central Committees.",
+              "links": [
+                {
+                  "text": "16th",
+                  "type": "internal",
+                  "page": "16th Central Committee of the Chinese Communist Party"
+                },
+                {
+                  "text": "17th",
+                  "type": "internal",
+                  "page": "17th Central Committee of the Chinese Communist Party"
+                },
+                {
+                  "text": "18th Central Committees",
+                  "type": "internal",
+                  "page": "18th Central Committee of the Chinese Communist Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.enghunan.gov.cn/wwwHome/201004/t20100425_204963.htm",
+          "title": "Archived copy",
+          "access-date": "April 25, 2010",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20110721164426/http://www.enghunan.gov.cn/wwwHome/201004/t20100425_204963.htm",
+          "archive-date": "July 21, 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Zhou Qiang Picked as Head of China's Supreme People's Court",
+          "url": "https://www.bloomberg.com/news/2013-03-15/zhou-qiang-picked-as-president-of-china-s-supreme-people-s-court.html",
+          "publisher": "Bloomberg News",
+          "date": "March 15, 2013",
+          "access-date": "December 1, 2019",
+          "archive-url": "https://web.archive.org/web/20140808053239/http://www.bloomberg.com/news/2013-03-15/zhou-qiang-picked-as-president-of-china-s-supreme-people-s-court.html",
+          "archive-date": "August 8, 2014",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "-"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-legal"
+        },
+        {
+          "before": "Wang Shengjun",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Supreme People's Court",
+          "years": "2013–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Li Keqiang",
+          "template": "s-bef"
+        },
+        {
+          "title": "First Secretary of the Communist Youth League of China",
+          "years": "1998–2006",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Hu Chunhua",
+          "template": "s-aft"
+        },
+        {
+          "before": "Zhang Chunxian",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of the Hunan CPC Committee",
+          "years": "2010–2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Xu Shousheng",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Zhou Bohua",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Hunan",
+          "years": "2006–2010",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Xu Shousheng",
+          "template": "s-aft"
+        },
+        {
+          "template": "presidents of the supreme people's court"
+        },
+        {
+          "template": "hunan leaders"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}
