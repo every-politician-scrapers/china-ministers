@@ -4220,7 +4220,13 @@
               "text": "A blog post where the photograph was juxtaposed with the cartoon depiction went viral, but Chinese censors rapidly deleted it."
             },
             {
-              "text": "When Shinzo Abe met Xi the following year, a photograph of the meeting, again juxtaposed to a cartoon, went viral."
+              "text": "When Shinzo Abe met Xi the following year, a photograph of the meeting, again juxtaposed to a cartoon, went viral.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shinzo Abe"
+                }
+              ]
             },
             {
               "text": "When Xi Jinping inspected troops through his limousine's sunroof, a popular meme was created with Winnie the Pooh in a toy car."
@@ -6236,13 +6242,13 @@
         {
           "sentences": [
             {
-              "text": "In the 2019, the Pew Research Center made a survey on attitude to Xi Jinping among six-country medians based on Australia, India, Indonesia, Japan, Philippines and South Korea."
+              "text": "In the spring of 2019, the Pew Research Center made a survey on attitude to Xi Jinping among six-country medians based on Australia, India, Indonesia, Japan, Philippines and South Korea."
             },
             {
               "text": "The survey indicated that a median 29% have confidence in Xi Jinping to do the right thing regarding world affairs, meanwhile a median of 45% have no confidence."
             },
             {
-              "text": "These number are almost same with those of North Korean leader Kim Jong Un (23% confidence, 53% no confidence)."
+              "text": "These numbers are almost same with those of North Korean leader Kim Jong Un (23% confidence, 53% no confidence)."
             }
           ]
         },
