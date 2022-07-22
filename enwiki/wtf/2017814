@@ -121,7 +121,7 @@
               ]
             },
             {
-              "text": "After studying chemical engineering at Tsinghua University as a \"Worker-Peasant-Soldier student\", Xi rose through the ranks politically in China's coastal provinces.",
+              "text": "After studying chemical engineering at Tsinghua University as a worker-peasant-soldier student, Xi rose through the ranks politically in China's coastal provinces.",
               "links": [
                 {
                   "text": "chemical engineering",
@@ -133,6 +133,7 @@
                   "page": "Tsinghua University"
                 },
                 {
+                  "text": "worker-peasant-soldier student",
                   "type": "internal",
                   "page": "Worker-Peasant-Soldier student"
                 }
@@ -205,7 +206,7 @@
               ]
             },
             {
-              "text": "He officially received the title of \"leadership core\" from the CCP in 2016.",
+              "text": "He officially received the title of leadership core from the CCP in 2016.",
               "links": [
                 {
                   "text": "leadership core",
@@ -425,6 +426,10 @@
         {
           "date": "November 2021",
           "template": "use dmy dates"
+        },
+        {
+          "date": "July 2022",
+          "template": "political pov"
         },
         {
           "list": [
@@ -1661,7 +1666,7 @@
         {
           "sentences": [
             {
-              "text": "From 1975 to 1979, Xi studied chemical engineering at Tsinghua University as a \"Worker-Peasant-Soldier student\" in Beijing.",
+              "text": "From 1975 to 1979, Xi studied chemical engineering at Tsinghua University as a worker-peasant-soldier student in Beijing.",
               "links": [
                 {
                   "text": "chemical engineering",
@@ -1673,6 +1678,7 @@
                   "page": "Tsinghua University"
                 },
                 {
+                  "text": "worker-peasant-soldier student",
                   "type": "internal",
                   "page": "Worker-Peasant-Soldier student"
                 }
@@ -2566,6 +2572,10 @@
         {
           "date": "October 2021",
           "template": "better source needed"
+        },
+        {
+          "date": "July 2022",
+          "template": "undue weight inline"
         }
       ],
       "references": [
@@ -2998,6 +3008,12 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "undue weight inline"
+        }
+      ],
       "references": [
         {
           "url": "http://www.newyorker.com/magazine/2015/04/06/born-red",
@@ -3425,7 +3441,13 @@
               "text": "In his inaugural speech as general secretary, Xi mentioned that fighting corruption was one of the toughest challenges for the party."
             },
             {
-              "text": "A few months into his term, Xi outlined the \"eight-point guide\", listing rules intended to curb corruption and waste during official party business; it aimed at stricter discipline on the conduct of party officials."
+              "text": "A few months into his term, Xi outlined the Eight-point Regulation, listing rules intended to curb corruption and waste during official party business; it aimed at stricter discipline on the conduct of party officials.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eight-point Regulation"
+                }
+              ]
             },
             {
               "text": "Xi also vowed to root out \"tigers and flies\", that is, high-ranking officials and ordinary party functionaries."
@@ -3553,6 +3575,10 @@
           "year": "2017",
           "pp": "62–75",
           "template": "sfn"
+        },
+        {
+          "date": "July 2022",
+          "template": "by whom"
         }
       ],
       "references": [
@@ -3653,7 +3679,7 @@
         {
           "sentences": [
             {
-              "text": "\"Document No. 9\" is a confidential internal document widely circulated within the CCP in 2013 by the party's General Office.",
+              "text": "Document No. 9 is a confidential internal document widely circulated within the CCP in 2013 by the party's General Office.",
               "links": [
                 {
                   "text": "Document No. 9",
@@ -3685,9 +3711,6 @@
         },
         {
           "sentences": [
-            {
-              "text": "Coverage of these topics in educational materials is forbidden."
-            },
             {
               "text": "Although it predates Xi Jinping's formal rise to the top party and state posts, the release of this internal document, which has introduced new topics that were previously not \"off-limits\", was seen as Xi's recognition of the \"sacrosanct\" nature of CCP rule over China.",
               "links": [
@@ -3727,10 +3750,18 @@
           "template": "sfn"
         },
         {
+          "date": "July 2022",
+          "template": "dubious"
+        },
+        {
           "author": "Bougon",
           "pp": "156–57",
           "year": "2018",
           "template": "sfn"
+        },
+        {
+          "date": "July 2022",
+          "template": "dubious"
         },
         {
           "reason": "Nothing in article supports this claim, WP:HEADLINE applies.",
@@ -3926,20 +3957,6 @@
           "url-access": "limited",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "url": "http://www.scmp.com/news/china/article/1234453/seven-subjects-limits-teaching-chinese-universities-told",
-          "title": "Seven subjects off limits for teaching, Chinese universities told",
-          "last": "Li",
-          "first": "Raymond",
-          "date": "29 August 2013",
-          "newspaper": "South China Morning Post",
-          "access-date": "19 September 2013",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20131022211500/http://www.scmp.com/news/china/article/1234453/seven-subjects-limits-teaching-chinese-universities-told",
-          "archive-date": "22 October 2013",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -3966,7 +3983,7 @@
               "text": "His administration has also overseen more Internet restrictions imposed in China, and is described as being \"stricter across the board\" on speech than previous administrations."
             },
             {
-              "text": "Xi has taken a very strong stand to control internet usage inside China, including Google and Facebook, advocating Internet censorship in the country as the concept of \"internet sovereignty\".",
+              "text": "Xi has taken a very strong stand to control internet usage inside China, including Google and Facebook, advocating Internet censorship in the country under the concept of internet sovereignty.",
               "links": [
                 {
                   "type": "internal",
@@ -4190,193 +4207,6 @@
       ]
     },
     {
-      "title": "Winnie the Pooh caricature and censorship",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": []
-        },
-        {
-          "sentences": [
-            {
-              "text": "Comparisons between Xi and the Disney character Winnie the Pooh are censored on Chinese internet following the spread of an internet meme in which photographs of Xi were compared to the bear.",
-              "links": [
-                {
-                  "text": "Winnie the Pooh",
-                  "type": "internal",
-                  "page": "Winnie the Pooh (Disney character)"
-                },
-                {
-                  "text": "internet meme",
-                  "type": "internal",
-                  "page": "internet meme"
-                }
-              ]
-            },
-            {
-              "text": "The first heavily censored viral meme can be traced back to the official visit to the United States in 2013 during which Xi was photographed by a Reuters photographer walking with then-US President Barack Obama in Sunnylands, California."
-            },
-            {
-              "text": "A blog post where the photograph was juxtaposed with the cartoon depiction went viral, but Chinese censors rapidly deleted it."
-            },
-            {
-              "text": "When Shinzo Abe met Xi the following year, a photograph of the meeting, again juxtaposed to a cartoon, went viral.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Shinzo Abe"
-                }
-              ]
-            },
-            {
-              "text": "When Xi Jinping inspected troops through his limousine's sunroof, a popular meme was created with Winnie the Pooh in a toy car."
-            },
-            {
-              "text": "The widely circulated image became the most censored picture of the year."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2018, the Winnie the Pooh film Christopher Robin was denied a Chinese release, following an incident where Chinese authorities censored a nine-year-old for comments about Xi's weight.",
-              "links": [
-                {
-                  "text": "Christopher Robin",
-                  "type": "internal",
-                  "page": "Christopher Robin (film)"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "Christopher Robin"
-                ]
-              }
-            },
-            {
-              "text": "After the 2020–2021 China–India skirmishes, Indians used depictions of Winnie the Pooh to mock Xi Jinping.",
-              "links": [
-                {
-                  "text": "2020–2021 China–India skirmishes",
-                  "type": "internal",
-                  "page": "2020–2021 China–India skirmishes"
-                }
-              ]
-            },
-            {
-              "text": "The Twitter hashtag #WinniethePooh was used for tweets critical of China's actions.",
-              "links": [
-                {
-                  "text": "was used",
-                  "type": "internal",
-                  "page": "Streisand effect"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:XJP-Obama=Winnie-Tigger.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/XJP-Obama%3DWinnie-Tigger.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/XJP-Obama%3DWinnie-Tigger.jpg",
-          "caption": "Meme comparing Winnie the Pooh and Tigger to Xi Jinping and Barack Obama, respectively",
-          "links": []
-        }
-      ],
-      "references": [
-        {
-          "last1": "Sullivan",
-          "first1": "Rory",
-          "title": "Indians mock Xi Jinping with Winnie the Pooh after deadly border clash with China",
-          "url": "https://www.independent.co.uk/news/world/asia/india-china-xi-winnie-the-pooh-border-clash-a9575516.html",
-          "archive-url": "https://ghostarchive.org/archive/20220507/https://www.independent.co.uk/news/world/asia/india-china-xi-winnie-the-pooh-border-clash-a9575516.html",
-          "archive-date": "7 May 2022",
-          "url-access": "subscription",
-          "url-status": "live",
-          "website": "The Independent",
-          "date": "19 June 2020",
-          "access-date": "12 August 2020}}{{cbignore|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.cbsnews.com/news/winnie-the-pooh-censored-china-president-xi-jinping-comparisons/",
-          "title": "Winnie the Pooh censored in China after President Xi Jinping comparisons",
-          "last": "Martinez",
-          "first": "Peter",
-          "date": "17 July 2017",
-          "publisher": "CBS News",
-          "access-date": "27 October 2017",
-          "archive-url": "https://web.archive.org/web/20171224214026/https://www.cbsnews.com/news/winnie-the-pooh-censored-china-president-xi-jinping-comparisons/",
-          "archive-date": "24 December 2017",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi",
-          "title": "China bans Winnie the Pooh film after comparisons to President Xi",
-          "first": "Benjamin",
-          "last": "Haas",
-          "date": "7 August 2018",
-          "newspaper": "The Guardian",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.scmp.com/news/china/article/1258981/could-xi-pooh-have-saved-chinas-declining-world-image",
-          "title": "Could Xi-the-Pooh have saved China's declining world image?",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.businesstoday.in/latest/trends/india-china-border-dispute-twitterati-twitter-xi-jinping-winnie-the-pooh-ladakh-galwan-valley/story/407308.html",
-          "title": "Why Xi Jinping is called Winnie the Pooh on Twitter? It's a long story",
-          "website": "businesstoday.in",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3043614/xi-jinping-winnie-pooh-and-canadian-origins-bear",
-          "title": "Xi Jinping, Winnie the Pooh and the origins of the bear China banned",
-          "date": "30 December 2019",
-          "website": "South China Morning Post",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/entertainment-arts-45083944",
-          "title": "Winnie the Pooh film denied release in China",
-          "date": "6 August 2018",
-          "publisher": "BBC News",
-          "access-date": "7 September 2019",
-          "archive-url": "https://web.archive.org/web/20190927153333/https://www.bbc.co.uk/news/entertainment-arts-45083944",
-          "archive-date": "27 September 2019",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.washingtonpost.com/news/worldviews/wp/2014/12/18/not-as-skinny-as-obama-like-putin-is-ok-china-censors-schoolboys-suggestion-that-xi-lose-weight/",
-          "title": "'Not as skinny as Obama, like Putin is okay.' China censors schoolboy's suggestion that Xi lose weight",
-          "last": "Denyer",
-          "first": "Simon",
-          "date": "18 December 2014",
-          "newspaper": "The Washington Post",
-          "access-date": "19 June 2018",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20180619063324/https://www.washingtonpost.com/news/worldviews/wp/2014/12/18/not-as-skinny-as-obama-like-putin-is-ok-china-censors-schoolboys-suggestion-that-xi-lose-weight/",
-          "archive-date": "19 June 2018",
-          "issn": "0190-8286",
-          "url-access": "limited",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
       "title": "Consolidation of power",
       "depth": 1,
       "paragraphs": [
@@ -4399,7 +4229,7 @@
               "text": "He has centralised his power and created working groups with himself at the head to subvert government bureaucracy, making himself become the unmistakable central figure of the new administration."
             },
             {
-              "text": "Beginning in 2013, the CCP under Xi has created a series of new \"Central Leading Groups\"; supra-ministerial steering committees, designed to bypass existing institutions when making decisions, and ostensibly make policy-making a more efficient process."
+              "text": "Beginning in 2013, the CCP under Xi has created a series of Central Leading Groups: supra-ministerial steering committees, designed to bypass existing institutions when making decisions, and ostensibly make policy-making a more efficient process."
             },
             {
               "text": "The most notable new body is the Central Leading Group for Comprehensively Deepening Reforms."
@@ -4660,7 +4490,7 @@
               }
             },
             {
-              "text": "He is also sometimes called the \"Great Helmsman\", and in July 2018 Li Zhanshu, the Chairman of the Standing Committee of the National People's Congress, referred to Xi as the \"eternal core\" of the party.",
+              "text": "He is also sometimes called the \"Great Helmsman\", and in July 2018 Li Zhanshu, the Chairman of the Standing Committee of the National People's Congress, referred to Xi as the \"leadership core\" of the party.",
               "links": [
                 {
                   "text": "Great Helmsman",
@@ -4676,9 +4506,9 @@
                   "page": "Chairman of the Standing Committee of the National People's Congress"
                 },
                 {
-                  "text": "eternal core",
+                  "text": "leadership core",
                   "type": "internal",
-                  "page": "Leadership core"
+                  "page": "leadership core"
                 }
               ]
             },
@@ -5125,6 +4955,16 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "by whom"
+        },
+        {
+          "date": "July 2022",
+          "template": "dubious"
+        }
+      ],
       "references": [
         {
           "url": "https://www.scmp.com/economy/china-economy/article/2166261/chinese-president-xi-jinpings-show-support-state-owned-firms",
@@ -5295,7 +5135,7 @@
               }
             },
             {
-              "text": "Termed \"comprehensive deepening reforms\", they were said to be the most significant since Deng Xiaoping's 1992 \"Southern Tour\"."
+              "text": "Termed \"comprehensive deepening reforms\", they were said to be the most significant since Deng Xiaoping's 1992 Southern Tour."
             },
             {
               "text": "In the economic realm, the plenum announced that \"market forces\" would begin to play a \"decisive\" role in allocating resources."
@@ -5543,7 +5383,7 @@
               ]
             },
             {
-              "text": "In addition, Xi held the \"New Gutian Conference\" in 2014, gathering China's top military officers, re-emphasizing the principle of \"the party has absolute control over the army\" first established by Mao at the 1929 Gutian Conference.",
+              "text": "In addition, Xi held the New Gutian Conference in 2014, gathering China's top military officers, re-emphasizing the principle of \"the party has absolute control over the army\" first established by Mao at the 1929 Gutian Conference.",
               "links": [
                 {
                   "type": "internal",
@@ -5662,6 +5502,10 @@
             "2015 People's Republic of China military reform"
           ],
           "template": "see also"
+        },
+        {
+          "date": "July 2022",
+          "template": "by whom"
         }
       ],
       "references": [
@@ -5858,7 +5702,7 @@
               "text": "Actions taken include the implementation of restrictions on for-profit tutoring and education companies, the refinement of existing rules for limits on minors playing online video games, and the introduction of new antitrust rules."
             },
             {
-              "text": "The stated goals of these reforms has been, among others, \"common prosperity\"."
+              "text": "The stated goals of these reforms has been, among others, common prosperity."
             }
           ]
         }
@@ -5946,14 +5790,7 @@
         {
           "sentences": [
             {
-              "text": "A Chinese nationalist, Xi has reportedly taken a hard-line on security issues as well as foreign affairs, projecting a more nationalistic and assertive China on the world stage.",
-              "links": [
-                {
-                  "text": "Chinese nationalist",
-                  "type": "internal",
-                  "page": "Chinese nationalism"
-                }
-              ]
+              "text": "Xi has reportedly taken a hard-line on security issues as well as foreign affairs, projecting a more nationalistic and assertive China on the world stage."
             },
             {
               "text": "His political program calls for a China more united and confident of its own value system and political structure."
@@ -6205,7 +6042,7 @@
         {
           "sentences": [
             {
-              "text": "On 4 June 2019, Xi told the Russian news agency TASS that he was \"worried\" about the current tensions between the U.S. and Iran.",
+              "text": "On 4 June 2019, Xi told the Russian news agency TASS that he was worried about the current tensions between the U.S. and Iran.",
               "links": [
                 {
                   "type": "internal",
@@ -6354,6 +6191,10 @@
             "Foreign policy of Xi Jinping"
           ],
           "template": "main"
+        },
+        {
+          "date": "July 2022",
+          "template": "pov statement"
         }
       ],
       "references": [
@@ -6582,16 +6423,16 @@
           "type": "news"
         },
         {
-          "url": "http://www.scmp.com/comment/insight-opinion/article/1254093/xi-jinping-nationalist-and-reformer",
-          "title": "Xi Jinping, a nationalist and a reformer",
           "last": "Kuhn",
           "first": "Robert Lawrence",
           "date": "6 June 2013",
+          "title": "Xi Jinping, a nationalist and a reformer",
           "work": "South China Morning Post",
+          "url": "http://www.scmp.com/comment/insight-opinion/article/1254093/xi-jinping-nationalist-and-reformer",
+          "url-status": "live",
           "access-date": "7 September 2019",
           "archive-url": "https://web.archive.org/web/20190805130812/https://www.scmp.com/comment/insight-opinion/article/1254093/xi-jinping-nationalist-and-reformer",
           "archive-date": "5 August 2019",
-          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -7675,14 +7516,13 @@
         {
           "sentences": [
             {
-              "text": "Following several terrorist attacks in Xinjiang in 2013 and 2014, Xi launched the \"people's war on terror\" in 2014, which involved mass detention, and surveillance of ethnic Uyghurs there.",
+              "text": "Following several terrorist attacks in Xinjiang in 2013 and 2014, Xi launched the Strike Hard Campaign Against Violent Terrorism in 2014, which involved mass detention, and surveillance of ethnic Uyghurs there.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Xinjiang"
                 },
                 {
-                  "text": "people's war on terror",
                   "type": "internal",
                   "page": "Strike Hard Campaign Against Violent Terrorism"
                 },
@@ -8516,7 +8356,7 @@
               "text": "Since then, the phrase has become the signature political slogan of the Xi era."
             },
             {
-              "text": "Since 2013, the phrase has emerged as the distinctive quasi-official ideology of the party leadership under Xi, much as the \"Scientific Outlook on Development\" was for Hu Jintao and the \"Three Represents\" was for Jiang Zemin.",
+              "text": "Since 2013, the phrase has emerged as the distinctive quasi-official ideology of the party leadership under Xi, much as the Scientific Outlook on Development was for Hu Jintao and the Three Represents was for Jiang Zemin.",
               "links": [
                 {
                   "type": "internal",
@@ -8766,6 +8606,20 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "fact or opinion"
+        },
+        {
+          "date": "July 2022",
+          "template": "fact or opinion"
+        },
+        {
+          "date": "July 2022",
+          "template": "clarify"
+        }
+      ],
       "references": [
         {
           "url": "https://www.nytimes.com/2014/10/12/world/leader-taps-into-chinese-classics-in-seeking-to-cement-power.html",
@@ -8884,7 +8738,7 @@
         {
           "sentences": [
             {
-              "text": "Xi himself has described the Thought as part of the broad framework created around Socialism with Chinese characteristics, a term coined by Deng Xiaoping that places China in the \"primary stage of socialism\".",
+              "text": "Xi himself has described the Thought as part of the broad framework created around Socialism with Chinese characteristics, a term coined by Deng Xiaoping that places China in the primary stage of socialism.",
               "links": [
                 {
                   "type": "internal",
@@ -8898,7 +8752,7 @@
               ]
             },
             {
-              "text": "In official party documentation and pronouncements by Xi's colleagues, the Thought is said to be a continuation of Marxism–Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the \"Three Represents\", and the Scientific Development Perspective, as part of a series of guiding ideologies that embody \"Marxism adopted to Chinese conditions\" and contemporary considerations.",
+              "text": "In official party documentation and pronouncements by Xi's colleagues, the Thought is said to be a continuation of Marxism–Leninism, Mao Zedong Thought, Deng Xiaoping Theory, the Three Represents, and the Scientific Development Perspective, as part of a series of guiding ideologies that embody \"Marxism adopted to Chinese conditions\" and contemporary considerations.",
               "links": [
                 {
                   "type": "internal",
@@ -8941,7 +8795,7 @@
         {
           "sentences": [
             {
-              "text": "An app for teaching \"Xi Jinping Thought\" had become the most popular smartphone app in China in 2019, as the country's ruling CCP launched a new campaign that calls on its cadres to immerse themselves in the political doctrine every day."
+              "text": "An app for teaching Xi Jinping Thought had become the most popular smartphone app in China in 2019, as the country's ruling CCP launched a new campaign that calls on its cadres to immerse themselves in the political doctrine every day."
             },
             {
               "text": "Xuexi Qiangguo, which translates to \"Study powerful country\", is now the most downloaded item on Apple's domestic App Store, surpassing in demand social media apps such as WeChat and TikTok – known as Weixin and Douyin, respectively, in mainland China.",
@@ -9139,6 +8993,14 @@
             "Eight-point Regulation"
           ],
           "template": "see also"
+        },
+        {
+          "date": "July 2022",
+          "template": "fact or opinion"
+        },
+        {
+          "date": "July 2022",
+          "template": "by whom"
         }
       ],
       "references": [
@@ -9286,7 +9148,7 @@
               ]
             },
             {
-              "text": "While visiting Macau on 20 December 2019 as part of the 20th anniversary of its return to China, Xi warned of \"foreign forces\" interfering in Hong Kong and Macau, while also hinting that Macau could be a model for Hong Kong to follow.",
+              "text": "While visiting Macau on 20 December 2019 as part of the 20th anniversary of its return to China, Xi warned of foreign forces interfering in Hong Kong and Macau, while also hinting that Macau could be a model for Hong Kong to follow.",
               "links": [
                 {
                   "type": "internal",
@@ -10059,6 +9921,16 @@
               "text": "He once said that he would swim one kilometre and walk every day as long as there was time."
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2022",
+          "template": "undue weight inline"
+        },
+        {
+          "date": "July 2022",
+          "template": "dubious"
         }
       ],
       "references": [
